@@ -1,0 +1,183 @@
+T1	taxonomicName 15639 15646	Cebidae
+T2	Other 16045 16053	southern
+T3	Other 16100 16107	central
+T4	Other 16064 16072	northern
+T5	Toponym 16108 16115	Bolivia
+#1	AnnotatorNotes T5	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T6	Toponym 16054 16060	Mexico
+#2	AnnotatorNotes T6	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T7	Toponym 16088 16094	Brazil
+#3	AnnotatorNotes T7	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T8	Toponym 16119 16132	South America
+#4	AnnotatorNotes T8	<latlng>-14.60485,-57.65625</latlng><geoID>6255150</geoID>
+T9	Other 16142 16154	forest areas
+#5	AnnotatorNotes T9	Egoitz
+T10	taxonomicName 15606 15615	Ateliiiae
+#6	AnnotatorNotes T10	Misspelling: ??
+R1	Located Arg1:T10 Arg2:T6	
+R2	Located Arg1:T10 Arg2:T7	
+R3	Located Arg1:T10 Arg2:T5	
+R4	Located Arg1:T10 Arg2:T8	
+T11	taxonomicName 22890 22910	A. paniscus paniscus
+T12	taxonomicName 22915 22927;22929 22940	A. helzebuth marginatiis
+T13	Toponym 22808 22820	Rio Amazonas
+#7	AnnotatorNotes T13	<latlng>-0.16667,-49</latlng><geoID>3407729</geoID>
+T14	taxonomicName 23116 23122	Ateles
+T16	Toponym 23412 23426	Santa Efigenia
+#8	AnnotatorNotes T16	<latlng>16.43506,-94.21247</latlng><geoID>3517510</geoID>
+T17	Toponym 23428 23434	Oaxaca
+#9	AnnotatorNotes T17	<latlng>17,-96.5</latlng><geoID>3522509</geoID>
+T18	Toponym 23497 23505	Cantoral
+#10	AnnotatorNotes T18	<latlng>14.45,-87.8</latlng><geoID>3614174</geoID>
+T19	Toponym 23507 23515	Honduras
+#11	AnnotatorNotes T19	<latlng>15,-86.5</latlng><geoID>3608932</geoID>
+T15	Toponym 23630 23642	Canas Gordas
+#12	AnnotatorNotes T15	<latlng>8.74623,-82.91802</latlng><geoID>3624457</geoID>
+T20	Toponym 23644 23654	Costa Rica
+#13	AnnotatorNotes T20	<latlng>10,-84</latlng><geoID>3624060</geoID>
+T21	TypeSpecimen 23392 23397	74662
+T22	TypeSpecimen 23399 23404	74663
+T23	taxonomicName 23364 23373	velleroms
+R5	IsOccurrenceOf Arg1:T21 Arg2:T23	
+R6	IsOccurrenceOf Arg1:T22 Arg2:T23	
+T24	TypeSpecimen 23484 23490	123282
+R7	IsOccurrenceOf Arg1:T24 Arg2:T23	
+R8	Located Arg1:T23 Arg2:T16	
+R9	Located Arg1:T23 Arg2:T17	
+R10	Located Arg1:T23 Arg2:T18	
+R11	Located Arg1:T23 Arg2:T19	
+T25	taxonomicName 23587 23598	pananiensis
+T26	TypeSpecimen 23600 23611;23613 23623	A. M. N. H. No. 141980
+R12	IsOccurrenceOf Arg1:T26 Arg2:T25	
+R13	Located Arg1:T25 Arg2:T15	
+R14	Located Arg1:T25 Arg2:T20	
+T27	Toponym 23726 23735	Guaimaral
+#14	AnnotatorNotes T27	<latlng>9.18096,-74.15039</latlng><geoID>3681669</geoID>
+T28	Toponym 23737 23743;23745 23748	Colom- bia
+#15	AnnotatorNotes T28	<latlng>4,-73.25</latlng><geoID>3686110</geoID>
+T29	taxonomicName 24052 24060	paniscus
+T30	TypeSpecimen 24080 24085	94134
+T31	TypeSpecimen 24087 24092	94135
+T32	TypeSpecimen 24094 24099	94136
+R15	IsOccurrenceOf Arg1:T30 Arg2:T29	
+R16	IsOccurrenceOf Arg1:T31 Arg2:T29	
+R17	IsOccurrenceOf Arg1:T32 Arg2:T29	
+T33	Other 24106 24147;24149 24168	Rio Jamunda, near Faro, on the north bank of the Rio Amazonas
+#16	AnnotatorNotes T33	Egoitz
+T34	Other 24322 24346;24348 24366	farther east on the same bank of this river
+#17	AnnotatorNotes T34	Egoitz
+T35	Toponym 24308 24320	Lago Cuipeua
+#18	AnnotatorNotes T35	Misspelling?
+T36	Toponym 24578 24590	Rio Yapacani
+#19	AnnotatorNotes T36	<latlng>-17.4097-63.8425</latlng>
+T37	Toponym 24592 24602	Santa Cruz
+#20	AnnotatorNotes T37	<latlng>-17.5,-61.5</latlng><geoID>3904907</geoID>
+T38	Toponym 24605 24612	Bolivia
+#21	AnnotatorNotes T38	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+R18	Located Arg1:T29 Arg2:T35	
+R19	Located Arg1:T29 Arg2:T36	
+R20	Located Arg1:T29 Arg2:T37	
+R21	Located Arg1:T29 Arg2:T38	
+T39	Toponym 27104 27112	Rio Yoya
+#22	AnnotatorNotes T39	<latlng>13.45687,-84.27065</latlng><geoID>3615662</geoID>
+T40	Toponym 27116 27125	Nicaragua
+#23	AnnotatorNotes T40	<latlng>13,-85</latlng><geoID>3617476</geoID>
+T41	taxonomicName 27441 27451	vellerosus
+T42	Other 28891 28905	Middle America
+T43	taxonomicName 28931 28941	vellerosus
+T44	Toponym 28947 28953	Mexico
+#24	AnnotatorNotes T44	<latlng>23,-102</latlng><geoID>3996063</geoID>
+R22	Located Arg1:T43 Arg2:T44	
+T45	taxonomicName 29306 29315	geoffroyi
+T46	Toponym 29355 29364	Nicaragua
+#25	AnnotatorNotes T46	<latlng>13,-85</latlng><geoID>3617476</geoID>
+T47	Other 29347 29353	Lavala
+#26	AnnotatorNotes T47	Misspelling?
+T48	Toponym 29530 29539	Cambridge
+#27	AnnotatorNotes T48	<latlng>42.3751,-71.10561</latlng><geoID>4931972</geoID>
+T49	Toponym 29541 29545	Mass
+#28	AnnotatorNotes T49	<latlng>42.36565,-71.10832</latlng><geoID>6254926</geoID>
+T50	Toponym 29640 29649	Baltimore
+#29	AnnotatorNotes T50	<latlng>39.29038,-76.61219</latlng><geoID>4347778</geoID>
+T51	Toponym 29651 29653	Md
+#30	AnnotatorNotes T51	<latlng>39.00039,-76.74997</latlng><geoID>4361885</geoID>
+T52	Toponym 29735 29743	New York
+#31	AnnotatorNotes T52	<latlng>40.71427, -74.00597</latlng><geoID>5128581</geoID>
+T53	Toponym 29745 29750	N. Y.
+#32	AnnotatorNotes T53	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T54	Toponym 29789 29799	Pittsburgh
+#33	AnnotatorNotes T54	<latlng>40.44062,-79.99589</latlng><geoID>5206379</geoID>
+T55	Toponym 29801 29804	Pa.
+#34	AnnotatorNotes T55	<latlng>40.27245,-76.90567</latlng><geoID>6254927</geoID>
+T56	Toponym 29866 29875	Cleveland
+#35	AnnotatorNotes T56	<latlng>41.4995,-81.69541</latlng><geoID>5150529</geoID>
+T57	Toponym 29877 29881	Ohio
+#36	AnnotatorNotes T57	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T58	Toponym 29949 29958	Ann Arbor
+#37	AnnotatorNotes T58	<latlng>42.27756,-83.74088</latlng><geoID>4984247</geoID>
+T59	Toponym 29960 29964	Mich
+#38	AnnotatorNotes T59	<latlng>44.25029,-85.50033</latlng><geoID>5001836</geoID>
+T60	Other 32871 32884;32887 32949	North bank of Amazon east of Manfios and north to Caribbean coast of Guianas
+#39	AnnotatorNotes T60	Egoitz
+T61	Other 33258 33265	eastern
+T62	Other 33279 33285;33287 33294	north- eastern
+T63	Toponym 33266 33273	Bolivia
+#40	AnnotatorNotes T63	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T64	Toponym 33295 33299	Peru
+#41	AnnotatorNotes T64	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T65	Toponym 33303 33315	Rio Solimoes
+#42	AnnotatorNotes T65	<latlng>-4.37166,-70.00008</latlng><geoID>9179607</geoID>
+T66	Toponym 33331 33337	Brazil
+#43	AnnotatorNotes T66	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T67	Toponym 33320 33329	Rio Jurua
+#44	AnnotatorNotes T67	<latlng>-8.1267,-72.8083</latlng>
+T68	Toponym 33798 33810;33813 33819	Serranfa del Darien
+#45	AnnotatorNotes T68	<latlng>8.68209,-77.62199</latlng><geoID>3711670</geoID>
+T69	Toponym 33821 33827	Panama
+#46	AnnotatorNotes T69	<latlng>9,-80</latlng><geoID>3703430</geoID>
+T70	Toponym 33846 33854	Colombia
+#47	AnnotatorNotes T70	<latlng>4,-73.25</latlng><geoID>3686110</geoID>
+T71	Other 33833 33845	southwestern
+T72	taxonomicName 33857 33865;33868 33870	robustus CC
+T73	Other 34193 34217;34220 34249	south of Amazon, between Rios TajiajTiz and Tocatitlns
+#48	AnnotatorNotes T73	Egoitz
+T74	Toponym 34184 34190	Brazil
+#49	AnnotatorNotes T74	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T75	Other 34854 34891	Pacific side of cordlllera of Ecuador
+#50	AnnotatorNotes T75	Egoitz
+T76	Toponym 36950 36976;36978 37046;37048 37114;37117 37145	near junction of Rio Caura with Rio Orinoco in Venezuela south to Rio Negro in Brazil, westward to Colombia east of Cordillera Oriental (Mambita), Ecuador east of Andes, and northeastern Peru
+#51	AnnotatorNotes T76	Egoitz
+T77	Other 37588 37594;37597 37637	Magda- lena River Valley and adjacent mountains
+#52	AnnotatorNotes T77	Egoitz
+T78	Toponym 37639 37647	Colombia
+#53	AnnotatorNotes T78	<latlng>4,-73.25</latlng><geoID>3686110</geoID>
+T79	Other 39534 39542	Southern
+T80	Toponym 39543 39552	Nicaragua
+#54	AnnotatorNotes T80	<latlng>13,-85</latlng><geoID>3617476</geoID>
+T81	Toponym 39566 39576;39578 39581	Lake Mana- gua
+#55	AnnotatorNotes T81	<latlng>12.33972,-86.35056</latlng><geoID>3617761</geoID>
+T82	Toponym 40090 40124;40127 40140	Eastern side of central cordillora of Costa Rica
+#56	AnnotatorNotes T82	Egoitz
+T83	taxonomicName 40144 40151;40154 40156	ornatus KK
+T84	Other 41721 41733	Northwestern
+T85	Toponym 41773 41781	northern
+T86	Toponym 41782 41791	Nicaragua
+#57	AnnotatorNotes T86	<latlng>13,-85</latlng><geoID>3617476</geoID>
+T87	Toponym 41734 41744	Costa Rica
+#58	AnnotatorNotes T87	<latlng>10,-84</latlng><geoID>3624060</geoID>
+T88	Other 42413 42425	northeastern
+T89	Toponym 42426 42432;42434 42438	Guate- mala
+#59	AnnotatorNotes T89	<latlng>15.5,-90.25</latlng><geoID>3595528</geoID>
+T90	Toponym 42386 42398	Quintana Roo
+#60	AnnotatorNotes T90	<latlng>20.84464,-88.65081</latlng><geoID>8583918</geoID>
+T91	Toponym 42400 42407	Yucatan
+#61	AnnotatorNotes T91	<latlng>20.75,-88.83333</latlng><geoID>3514211</geoID>
+T92	taxonomicName 42441 42453;42456 42458	yucatanensis NN
+T93	Toponym 42987 43000	Alta Vera Paz
+#62	AnnotatorNotes T93	<latlng>15.5918,-90.1495</latlng>
+T94	Toponym 43004 43013	Guatemala
+#63	AnnotatorNotes T94	<latlng>15.5,-90.25</latlng><geoID>3595528</geoID>
+T95	Other 43610 43652;43654 43705;43707 43760;43763 43779	Honduras and El Salvador northward through Guatemala to southeastern Oaxaca and the Isthmus of Tehuantepec and along east coast of Mexico to eastern San Luis Potosl.
+T96	Toponym 44451 44478;44480 44486	Rio Tuyra Valley of eastern Panama
+#64	AnnotatorNotes T96	Egoitz
+T97	taxonomicName 43781 43791;43794 43796	vellerosus MM

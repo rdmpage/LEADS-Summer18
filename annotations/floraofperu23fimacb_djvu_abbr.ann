@@ -1,0 +1,358 @@
+T1	Toponym 68 72	PERU
+#1	AnnotatorNotes T1	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T2	Toponym 454 458	PERU
+#2	AnnotatorNotes T2	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T3	Toponym 393 417	UNITED STATES OF AMERICA
+#3	AnnotatorNotes T3	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+T4	taxonomicName 491 504	BERBERIDACEAE
+T5	taxonomicName 576 590	Berberis lutea
+T6	Toponym 557 561	Peru
+#4	AnnotatorNotes T6	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T7	taxonomicName 832 843	BERBERIS L.
+T8	taxonomicName 2151 2161	B. rotunda
+T9	taxonomicName 2407 2415	Berberis
+T10	taxonomicName 2470 2478	Berberis
+T11	taxonomicName 2876 2887	B. brumalis
+T12	taxonomicName 3045 3057	B. Barbeyana
+T13	taxonomicName 2995 3013	B. Hochreutinerana
+T14	taxonomicName 3231 3246	B. Beauverdiana
+T15	taxonomicName 3390 3403	B. multiflora
+T16	taxonomicName 3475 3488	B. paniculata
+T17	taxonomicName 3521 3532	B. loxensis
+T18	taxonomicName 3655 3668	B. podophylla
+T19	taxonomicName 3755 3767	B. buceronis
+T20	taxonomicName 3857 3868	B. brumalis
+T21	taxonomicName 3873 3884	B. loxensis
+T22	taxonomicName 4030 4037	B. Gayi
+T23	taxonomicName 4102 4111	B. armata
+T24	taxonomicName 4146 4160	B. Weberbaueri
+T25	taxonomicName 4377 4389	B. Jelskiana
+T26	taxonomicName 4446 4459	B. monosperma
+T27	taxonomicName 4509 4521	B. boliviano
+T28	taxonomicName 4561 4572	B. flexuosa
+T29	taxonomicName 4691 4703	B. commutata
+T30	taxonomicName 4836 4847	B. Lobbiana
+T31	taxonomicName 4912 4923	B. flexuosa
+T32	taxonomicName 5059 5070	B. Lobbiana
+T33	taxonomicName 5208 5220	B. peruviana
+T34	taxonomicName 5280 5297	B. dryandriphylla
+T35	taxonomicName 5373 5387	B. Humbertiana
+T36	taxonomicName 5428 5439	B. brumalis
+T37	taxonomicName 5551 5565	B. agapatensis
+T38	taxonomicName 5626 5640	B. Benoistiana
+T39	taxonomicName 5797 5808	B. Lobbiana
+T40	taxonomicName 6086 6097	B. saxicola
+T41	taxonomicName 6170 6181	B. carinata
+T42	taxonomicName 6249 6257	B. lutea
+T43	taxonomicName 6392 6403	B. carinata
+T44	taxonomicName 6441 6455	B. huanucensis
+T45	taxonomicName 6564 6581	B. cliffortioides
+T46	taxonomicName 6767 6794	Berberis agapatensis Lechl.
+T47	taxonomicName 6702 6712	B. virgata
+T48	taxonomicName 6755 6763	B. lutea
+T49	TypeSpecimen 7471 7483	Lechler 2646
+T50	Toponym 7491 7498	Bolivia
+#5	AnnotatorNotes T50	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T51	Toponym 7442 7446	Puno
+#6	AnnotatorNotes T51	<latlng>-15,-70</latlng><geoID>3931275</geoID>
+T52	Toponym 7460 7469	Sachapata
+#7	AnnotatorNotes T52	<latlng>-13.95519,-69.92391</latlng><geoID>11558901</geoID>
+T53	taxonomicName 7502 7525	Berberis armata Citerne
+T54	Toponym 7449 7456	Agapata
+#8	AnnotatorNotes T54	Maybe OCR error - "Ayapata"?
+T55	Toponym 7449 7469	Agapata to Sachapata
+#9	AnnotatorNotes T55	Needs further qualification
+R1	IsOccurrenceOf Arg1:T49 Arg2:T46	
+R2	Located Arg1:T46 Arg2:T51	
+R3	Located Arg1:T46 Arg2:T54	
+R4	Located Arg1:T46 Arg2:T52	
+R5	Located Arg1:T46 Arg2:T54	
+T56	Toponym 8181 8186	Cuzco
+#10	AnnotatorNotes T56	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T57	TypeSpecimen 8225 8231	Dombey
+R6	IsOccurrenceOf Arg1:T57 Arg2:T53	
+R7	Located Arg1:T53 Arg2:T56	
+T58	taxonomicName 8235 8262	Berberis Barbeyana Schneid.
+T59	Toponym 8697 8705	Amazonas
+#11	AnnotatorNotes T59	<latlng>-5,-78.233333</latlng><geoID>3699699</geoID>
+T60	Toponym 8707 8718	Chachapoyas
+#12	AnnotatorNotes T60	<latlng>-6.23169,-77.86903</latlng><geoID>3698540</geoID>
+T61	TypeSpecimen 8720 8727	Mathews
+R8	IsOccurrenceOf Arg1:T61 Arg2:T58	
+R9	Located Arg1:T58 Arg2:T59	
+R10	Located Arg1:T58 Arg2:T60	
+T62	taxonomicName 8737 8767	Berberis Beauverdiana Schneid.
+T63	Toponym 9279 9283	Peru
+#13	AnnotatorNotes T63	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T64	Toponym 9308 9315	Ecuador
+#14	AnnotatorNotes T64	<latlng>-1.25,-78.25</latlng><geoID>3658394</geoID>
+T65	TypeSpecimen 9453 9460	Mathews
+T66	Toponym 9430 9438	Amazonas
+#15	AnnotatorNotes T66	<latlng>-5,-78.233333</latlng><geoID>3699699</geoID>
+T67	Toponym 9440 9451	Chachapoyas
+#16	AnnotatorNotes T67	<latlng>-6.23169,-77.86903</latlng><geoID>3698540</geoID>
+T68	TypeSpecimen 9493 9509	Weberbauer 1+199
+T69	Toponym 9468 9477	Cajamarca
+#17	AnnotatorNotes T69	<latlng>-6.25,-78.83333</latlng><geoID>3699087</geoID>
+T70	Toponym 9479 9486;9487 9491	Huama-  lies
+#18	AnnotatorNotes T70	<latlng>-9.25, -76.5</latlng><geoID>3696505</geoID>
+R11	Located Arg1:T62 Arg2:T66	
+R12	Located Arg1:T62 Arg2:T67	
+R14	Located Arg1:T62 Arg2:T69	
+R13	Located Arg1:T62 Arg2:T70	
+R15	IsOccurrenceOf Arg1:T65 Arg2:T62	
+R16	IsOccurrenceOf Arg1:T68 Arg2:T62	
+T71	taxonomicName 9584 9611	Berberis Benoistiana Macbr.
+T72	taxonomicName 9624 9645	B. agapatensis Lechl.
+T73	taxonomicName 10272 10286	B. Benoistiana
+T74	Toponym 10546 10551	Paris
+#19	AnnotatorNotes T74	<latlng>48.85341,2.3488</latlng><geoID>2988507</geoID>
+T75	TypeSpecimen 10680 10693	Macbride 4455
+T76	Toponym 10642 10649	Huanuco
+#20	AnnotatorNotes T76	<latlng>-9.5,-76</latlng><geoID>3696416</geoID>
+T77	Toponym 10651 10664	Tambo de Vaca
+#21	AnnotatorNotes T77	<latlng>-9.7,-75.783333</latlng>
+R17	Located Arg1:T71 Arg2:T76	
+R18	Located Arg1:T71 Arg2:T77	
+R19	IsOccurrenceOf Arg1:T75 Arg2:T71	
+T78	taxonomicName 10725 10750	Berberis boliviana Lechl.
+T79	Other 11550 11588	in Bolivia, near the Peruvian boundary
+#22	AnnotatorNotes T79	Egoitz
+T81	Toponym 11553 11560	Bolivia
+#24	AnnotatorNotes T81	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T82	TypeSpecimen 11590 11616;11617 11619	B. Keissleriana Schneid.,  80
+T83	Toponym 11625 11632	Bolivia
+#25	AnnotatorNotes T83	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T84	TypeSpecimen 11693 11720	B. Rechingeri Schneid., 808
+T85	TypeSpecimen 11844 11857	Pennell 13690
+T86	TypeSpecimen 11899 11911	Herrera 3028
+T87	TypeSpecimen 11920 11930	Soukup 577
+T88	Toponym 11933 11940	Bolivia
+#26	AnnotatorNotes T88	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T89	Toponym 11803 11808	Cuzco
+#27	AnnotatorNotes T89	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T90	Toponym 11810 11816	Pachar
+#28	AnnotatorNotes T90	<latlng>-13.28333,-72.23333</latlng><geoID>3933692</geoID>
+T91	Toponym 11913 11918	Cuzco
+#29	AnnotatorNotes T91	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+R20	Located Arg1:T78 Arg2:T89	
+R21	Located Arg1:T78 Arg2:T90	
+R22	Located Arg1:T78 Arg2:T91	
+R23	IsOccurrenceOf Arg1:T87 Arg2:T78	
+R24	IsOccurrenceOf Arg1:T86 Arg2:T78	
+R25	IsOccurrenceOf Arg1:T85 Arg2:T78	
+T92	taxonomicName 11957 11981	Berberis brumalis Macbr.
+T93	TypeSpecimen 12911 12926	Weberbauer 6799
+T94	Toponym 12887 12891	Peru
+#30	AnnotatorNotes T94	<latlng>-10,-75.25</latlng><geoID>3932488</geoID>
+R26	Located Arg1:T92 Arg2:T94	
+R27	IsOccurrenceOf Arg1:T93 Arg2:T92	
+T95	taxonomicName 12958 12983	Berberis buceronis Macbr.
+T96	Toponym 13622 13626	Peru
+#31	AnnotatorNotes T96	<latlng>-10,-75.25</latlng><geoID>3932488</geoID>
+T97	TypeSpecimen 13647 13662	Weberbauer 6994
+R28	Located Arg1:T95 Arg2:T96	
+R29	IsOccurrenceOf Arg1:T97 Arg2:T95	
+T98	taxonomicName 13672 13696	Berberis carinata Lechl.
+T99	Toponym 14357 14362	Chile
+#32	AnnotatorNotes T99	<latlng>-30,-71</latlng><geoID>3895114</geoID>
+T100	Toponym 14447 14451	Peru
+#33	AnnotatorNotes T100	<latlng>-10,-75.25</latlng><geoID>3932488</geoID>
+T101	taxonomicName 14332 14345;14346 14352	B. tomentosa  R. & P
+T102	TypeSpecimen 14493 14505	Lechler 2644
+T80	TypeSpecimen 14557 14564	Herrera
+T103	Toponym 14467 14471	Puno
+#23	AnnotatorNotes T103	<latlng>-15,-70</latlng><geoID>3931275</geoID>
+T104	Toponym 14484 14491	Agapata
+#34	AnnotatorNotes T104	Maybe OCR error - "Ayapata"?
+T106	Toponym 14513 14518	Cuzco
+#35	AnnotatorNotes T106	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+R30	IsOccurrenceOf Arg1:T102 Arg2:T98	
+R31	IsOccurrenceOf Arg1:T80 Arg2:T98	
+T105	Other 14520 14529;14530 14555	Hills of  Sacsahuaman, 3,500 meters
+#36	AnnotatorNotes T105	Egoitz
+T107	Other 14473 14491	In schist, Agapata
+#37	AnnotatorNotes T107	Egoitz
+R32	Located Arg1:T98 Arg2:T103	
+R33	Located Arg1:T98 Arg2:T106	
+T108	Toponym 14587 14594	Bolivia
+#38	AnnotatorNotes T108	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T109	taxonomicName 14598 14627	Berberis cliffortioides Diels
+T110	taxonomicName 15138 15158	B. rectinervia Rusby
+T111	Toponym 15217 15224	Bolivia
+#39	AnnotatorNotes T111	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T112	taxonomicName 15263 15271	B. lutea
+T113	TypeSpecimen 15359 15367	Raimondi
+T114	Toponym 15286 15291	Junin
+#40	AnnotatorNotes T114	<latlng>-11.5,-75</latlng><geoID>3937485</geoID>
+T115	Other 15294 15339	Puna in Cordillera de Punto in via a Huancayo
+#41	AnnotatorNotes T115	Egoitz
+R34	Located Arg1:T109 Arg2:T114	
+R35	IsOccurrenceOf Arg1:T113 Arg2:T109	
+T116	taxonomicName 15436 15461	Berberis commutata Eichl.
+T117	taxonomicName 15509 15528	B. divaricata Rusby
+T118	TypeSpecimen 16242 16257	Weberbauer, 178
+T119	Other 16314 16329	at 3,300 meters
+T120	TypeSpecimen 16364 16379	Weberbauer 5911
+T121	TypeSpecimen 16422 16431	Sawada 78
+T122	TypeSpecimen 16468 16483	Weberbauer 5485
+T123	TypeSpecimen 16512 16520	Gay 2191
+T124	TypeSpecimen 16543 16555	Herrera 3395
+T125	TypeSpecimen 16570 16584	Hammarlund 609
+T126	taxonomicName 16625 16638	B. divaricata
+T127	Toponym 16345 16353	Apurimac
+#42	AnnotatorNotes T127	<latlng>-14,-73</latlng><geoID>3947421</geoID>
+T128	Toponym 16355 16362	Abancai
+#43	AnnotatorNotes T128	Misspelling: "Abancay", <latlng>-13.63389,-72.88139</latlng><geoID>3948642</geoID>
+T129	Toponym 16402 16409	Huanuco
+#44	AnnotatorNotes T129	<latlng>-9.5,-76</latlng><geoID>3696416</geoID>
+T130	Toponym 16411 16420	Dunkafael
+#45	AnnotatorNotes T130	Unable to locate
+T131	Toponym 16433 16441	Ayacucho
+#46	AnnotatorNotes T131	<latlng>-14,-74.25</latlng><geoID>3947018</geoID>
+T132	Toponym 16443 16458	Hacienda Totora
+#47	AnnotatorNotes T132	Unable to locate; unable to annotate full toponym name
+T133	Toponym 16505 16510	Cuzco
+#48	AnnotatorNotes T133	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T134	Toponym 16523 16541	Valle del Urubamba
+#49	AnnotatorNotes T134	Large area, needs further qualification
+T135	Toponym 16587 16596	Pelechuco
+#50	AnnotatorNotes T135	Unable to locate in Peru; Coordinates in Bolivia: <latlng>-14.75,-69.083333</latlng>
+T136	Toponym 16650 16657	Bolivia
+#51	AnnotatorNotes T136	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T137	Toponym 16308 16313	Junin
+#52	AnnotatorNotes T137	<latlng>-11.5,-75</latlng><geoID>3937485</geoID>
+R36	IsOccurrenceOf Arg1:T118 Arg2:T116	
+R37	IsOccurrenceOf Arg1:T120 Arg2:T116	
+R38	IsOccurrenceOf Arg1:T121 Arg2:T116	
+R39	IsOccurrenceOf Arg1:T122 Arg2:T116	
+R40	IsOccurrenceOf Arg1:T124 Arg2:T116	
+R41	IsOccurrenceOf Arg1:T125 Arg2:T116	
+R42	Located Arg1:T116 Arg2:T137	
+R43	Located Arg1:T116 Arg2:T127	
+R44	Located Arg1:T116 Arg2:T128	
+R45	Located Arg1:T116 Arg2:T129	
+R46	Located Arg1:T116 Arg2:T128	
+R47	Located Arg1:T116 Arg2:T131	
+R48	Located Arg1:T116 Arg2:T132	
+R49	Located Arg1:T116 Arg2:T133	
+T138	Toponym 16563 16568	Calca
+#53	AnnotatorNotes T138	<latlng>-13,-72.16667</latlng><geoID>3946176</geoID>
+R50	Located Arg1:T116 Arg2:T134	
+R51	Located Arg1:T116 Arg2:T138	
+R52	Located Arg1:T116 Arg2:T135	
+T139	taxonomicName 16671 16700	Berberis dryandriphylla Diels
+T140	taxonomicName 17300 17316	B. Trollii Diels
+T141	Toponym 17321 17328	Bolivia
+#54	AnnotatorNotes T141	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T142	Toponym 17409 17414	Cuzco
+#55	AnnotatorNotes T142	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T143	taxonomicName 17250 17273	B. pichinchensis Turcz.
+T144	Other 17437 17449	2,150 meters
+T145	TypeSpecimen 17451 17463	Herrera 1742
+T146	Toponym 17416 17435	Valle del Forachtay
+#56	AnnotatorNotes T146	Unable to locate
+R53	IsOccurrenceOf Arg1:T145 Arg2:T139	
+R54	Located Arg1:T139 Arg2:T142	
+R55	Located Arg1:T139 Arg2:T146	
+T147	taxonomicName 17468 17493	Berberis flexuosa R. & P.
+T148	TypeSpecimen 19288 19294	Haenke
+T149	TypeSpecimen 19263 19267	1285
+T150	TypeSpecimen 19207 19222	Weberbauer 1726
+T151	TypeSpecimen 19179 19183	3133
+T152	TypeSpecimen 19117 19129	Ruiz & Pav6n
+T153	Other 19143 19164;19165 19177	river canyon slopes,  2,500 meters
+#57	AnnotatorNotes T153	Egoitz
+T154	taxonomicName 18752 18772	B. papillosa Benoist
+T155	taxonomicName 18916 18937	B. Rechingeri Schneid
+T156	TypeSpecimen 18940 18943	808
+T157	taxonomicName 19035 19044;19045 19051	B. mono-  sperma
+T158	Toponym 18948 18955	Bolivia
+#58	AnnotatorNotes T158	<latlng>-17,-65</latlng><geoID>3923057</geoID>
+T159	Toponym 18666 18671	Tarma
+#59	AnnotatorNotes T159	<latlng>-11.40562,-75.69129</latlng><geoID>3927757</geoID>
+T160	Toponym 18673 18681	Cheuchin
+#60	AnnotatorNotes T160	Unable to locate
+T161	Toponym 18687 18693	Pillao
+#61	AnnotatorNotes T161	<latlng>9.66667,-75.96667</latlng><geoID>3693591</geoID>
+T162	Toponym 18777 18784	Ecuador
+#62	AnnotatorNotes T162	<latlng>1.25,-78.25</latlng><geoID>3658394</geoID>
+T163	Toponym 19107 19115	Cheuchin
+#63	AnnotatorNotes T163	Unable to locate
+T164	TypeSpecimen 19199 19205	Dombey
+T165	Other 19246 19261	on grassy slope
+T166	Toponym 19101 19105	Lima
+#64	AnnotatorNotes T166	<latlng>-11.85,-76.45</latlng><geoID>3936452</geoID>
+T167	Toponym 19131 19141	San Rafael
+#65	AnnotatorNotes T167	<latlng>-10.32894,-76.12634</latlng><geoID>3351117</geoID>
+T168	Toponym 19192 19197	Tarma
+#66	AnnotatorNotes T168	<latlng>-11.40562,-75.69129</latlng><geoID>3927757</geoID>
+T169	Toponym 19185 19190	Junin
+#67	AnnotatorNotes T169	<latlng>-11.5,-75</latlng><geoID>3937485</geoID>
+T170	Toponym 19225 19232	Chinche
+#68	AnnotatorNotes T170	<latlng>-10.50774,-76.5857</latlng><geoID>3943765</geoID>
+T171	Toponym 19234 19244	Yanahuanca
+#69	AnnotatorNotes T171	<latlng>-10.56303,-76.57274</latlng><geoID>8350179</geoID>
+R56	IsOccurrenceOf Arg1:T156 Arg2:T155	
+R57	Located Arg1:T155 Arg2:T158	
+R58	Located Arg1:T154 Arg2:T162	
+R59	IsOccurrenceOf Arg1:T152 Arg2:T147	
+R60	IsOccurrenceOf Arg1:T151 Arg2:T147	
+R61	IsOccurrenceOf Arg1:T164 Arg2:T147	
+R62	IsOccurrenceOf Arg1:T150 Arg2:T147	
+R63	IsOccurrenceOf Arg1:T149 Arg2:T147	
+R64	IsOccurrenceOf Arg1:T148 Arg2:T147	
+R65	Located Arg1:T147 Arg2:T166	
+R66	Located Arg1:T147 Arg2:T163	
+R67	Located Arg1:T147 Arg2:T167	
+R68	Located Arg1:T147 Arg2:T169	
+R69	Located Arg1:T147 Arg2:T168	
+R70	Located Arg1:T147 Arg2:T170	
+R71	Located Arg1:T147 Arg2:T171	
+T172	taxonomicName 19322 19343	Berberis Gayi Citerne
+T173	TypeSpecimen 20037 20045	Ga# 1164
+T174	Toponym 20028 20033	Cuzco
+#70	AnnotatorNotes T174	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+R72	IsOccurrenceOf Arg1:T173 Arg2:T172	
+R73	Located Arg1:T172 Arg2:T174	
+T175	taxonomicName 20055 20086	Berberis Hochreutinerana Macbr.
+T176	Toponym 20988 20993	Cuzco
+#71	AnnotatorNotes T176	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T177	Other 21010 21022	3,100 meters
+T178	TypeSpecimen 21024 21039	Weberbauer 6831
+T179	Toponym 20995 21008	Mount Acomayo
+#72	AnnotatorNotes T179	Unable to locate
+R74	IsOccurrenceOf Arg1:T178 Arg2:T175	
+R75	Located Arg1:T175 Arg2:T179	
+R76	Located Arg1:T175 Arg2:T176	
+T180	taxonomicName 21043 21081	Berberis huanucensis (Schneid.) Macbr.
+T181	taxonomicName 21094 21103	B. glauca
+#73	AnnotatorNotes T181	"B. glauca R. & P."
+T182	taxonomicName 21143 21153	B. virgata
+#74	AnnotatorNotes T182	"B. virgata R. & P."
+T183	taxonomicName 21239 21247	B. lutea
+T184	TypeSpecimen 21671 21683	Ruiz & Pavon
+T185	TypeSpecimen 21700 21709	Sawada 85
+T186	Toponym 21662 21669	Huanuco
+#75	AnnotatorNotes T186	<latlng>-9.5,-76</latlng><geoID>3696416</geoID>
+T187	Toponym 21691 21698	Chiclin
+#76	AnnotatorNotes T187	<latlng>-7.83648,-79.16122</latlng><geoID>3698345</geoID>
+R77	IsOccurrenceOf Arg1:T184 Arg2:T180	
+R78	IsOccurrenceOf Arg1:T185 Arg2:T180	
+R79	Located Arg1:T180 Arg2:T186	
+R80	Located Arg1:T180 Arg2:T187	
+T188	taxonomicName 21724 21751	Berberis Humbertiana Macbr.
+T189	taxonomicName 22428 22436	B. lutea
+T190	taxonomicName 22487 22511	B. Keissleriana Schneid.
+T191	TypeSpecimen 22513 22516	808
+T192	taxonomicName 22673 22697	B. Wettsteiniana Schneid
+T193	TypeSpecimen 22700 22703	809
+T194	Toponym 23080 23085	Cuzco
+#77	AnnotatorNotes T194	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T195	TypeSpecimen 23091 23094	Gay
+R81	IsOccurrenceOf Arg1:T193 Arg2:T192	
+R82	IsOccurrenceOf Arg1:T191 Arg2:T190	
+R83	IsOccurrenceOf Arg1:T195 Arg2:T188	
+R84	Located Arg1:T188 Arg2:T194	
+T196	Toponym 23110 23115	Paris
+#78	AnnotatorNotes T196	<latlng>48.85341,2.3488</latlng><geoID>2988507</geoID>

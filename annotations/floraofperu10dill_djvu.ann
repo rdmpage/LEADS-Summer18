@@ -1,0 +1,245 @@
+T1	Toponym 171 175	PERU
+#1	AnnotatorNotes T1	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T2	Toponym 318 322	PERU
+#2	AnnotatorNotes T2	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T3	Toponym 1086 1090	PERU
+#3	AnnotatorNotes T3	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T4	Toponym 1440 1464	UNITED STATES OF AMERICA
+#4	AnnotatorNotes T4	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+T5	taxonomicName 1486 1494	Cardueae
+T6	taxonomicName 1514 1522	Cardueae
+T7	taxonomicName 1530 1539	Centaurea
+T8	taxonomicName 1547 1567	Centaurea melitensis
+T9	taxonomicName 1591 1606	Cirsium vulgare
+T10	taxonomicName 1615 1622	Silybum
+T11	taxonomicName 1630 1646	Silybum marianum
+T12	taxonomicName 1700 1720	Centaurea melitensis
+T13	taxonomicName 1728 1743	Cirsium vulgare
+T14	taxonomicName 1751 1767	Silybum marianum
+T15	taxonomicName 1780 1788	CARDUEAE
+T16	taxonomicName 1790 1798	Cardueae
+T17	taxonomicName 1858 1868	Carduus L.
+T18	taxonomicName 1871 1880	Carlineae
+T19	taxonomicName 1940 1950	Carlina L.
+T20	taxonomicName 1952 1962	Centaureae
+T21	taxonomicName 2022 2034	Centaurea L.
+T22	taxonomicName 2036 2049	Echinopsideae
+T23	taxonomicName 2109 2120	Echinops L.
+T24	taxonomicName 2122 2130	Cynareae
+T25	taxonomicName 2166 2175	Cynara L.
+T26	taxonomicName 3293 3301	Cardueae
+T27	Other 3397 3417	southwest to central
+#5	AnnotatorNotes T27	Egoitz
+T28	Toponym 3418 3422	Asia
+#6	AnnotatorNotes T28	<latlng>29.84064,89.29688</latlng><geoID>6255147</geoID>
+T29	taxonomicName 3569 3588	Echinopsideae Cass.
+T30	taxonomicName 3623 3637	Carlineae Cass
+T31	taxonomicName 3708 3716	Cardueae
+T32	taxonomicName 3722 3738	Carduinae Dumort
+T33	taxonomicName 3779 3798	Centaureinae Dumort
+T34	Other 4039 4048	Old World
+T35	Other 4077 4086	New World
+T36	Toponym 3998 4002	Peru
+#7	AnnotatorNotes T36	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T37	taxonomicName 4222 4238	Echinopeae Cass.
+T38	taxonomicName 4591 4599	Cynareae
+T39	taxonomicName 4757 4765	CARDUEAE
+T40	Toponym 4413 4423	Strasbourg
+#8	AnnotatorNotes T40	<latlng>48.58392,7.74553</latlng><geoID>2973783</geoID>
+T41	Toponym 4426 4431	Paris
+#9	AnnotatorNotes T41	<latlng>48.85341,2.3488</latlng><geoID>2988507</geoID>
+T42	Toponym 4730 4736	London
+#10	AnnotatorNotes T42	<latlng>51.50853,-0.12574</latlng><geoID>2643743</geoID>
+T43	taxonomicName 4828 4837	Centaurea
+T44	taxonomicName 4965 4972	Cirsium
+T45	taxonomicName 5041 5048	Silybum
+T46	taxonomicName 5055 5064	CENTAUREA
+T47	taxonomicName 5067 5079	Centaurea L.
+T48	taxonomicName 5106 5122	C. centaurium L.
+T49	Toponym 6325 6329	Peru
+#11	AnnotatorNotes T49	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T50	Toponym 6254 6258	Asia
+#12	AnnotatorNotes T50	<latlng>29.84064,89.29688</latlng><geoID>6255147</geoID>
+T52	Other 6276 6284	tropical
+T53	Other 6244 6253	southwest
+T54	Toponym 6285 6291	Africa
+#14	AnnotatorNotes T54	<latlng>7.1881,21.09375</latlng><geoID>6255146</geoID>
+T55	Toponym 6296 6301	North
+#15	AnnotatorNotes T55	<latlng>46.07323,-100.54688</latlng><geoID>6255149</geoID>
+T56	Toponym 6306 6312;6313 6320	South  America
+#16	AnnotatorNotes T56	<latlng>-14.60485,-57.65625</latlng><geoID>6255140</geoID>
+T57	taxonomicName 6390 6413	Centaurea melitensis L.
+T58	Toponym 6440 6446	Europe
+#17	AnnotatorNotes T58	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+R1	Located Arg1:T57 Arg2:T58	
+T59	Toponym 7843 7849	Europe
+#18	AnnotatorNotes T59	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T60	Toponym 7860 7866	Africa
+#19	AnnotatorNotes T60	<latlng>7.1881,21.09375</latlng><geoID>6255146</geoID>
+T61	Other 7854 7859	North
+T62	Toponym 7896 7901	North
+#20	AnnotatorNotes T62	<latlng>46.07323,-100.54688</latlng><geoID>6255149</geoID>
+T63	Toponym 7906 7919	South America
+#21	AnnotatorNotes T63	<latlng>46.07323,-100.54688</latlng><geoID>6255149</geoID>
+T64	Toponym 8077 8081	Peru
+#22	AnnotatorNotes T64	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T65	Toponym 8132 8141	Argentina
+#23	AnnotatorNotes T65	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T66	Toponym 8158 8163	Chile
+#24	AnnotatorNotes T66	<latlng>-30,-71</latlng><geoID>3895114</geoID>
+T67	taxonomicName 8202 8222	Centaurea melitensis
+T68	taxonomicName 8369 8394	Centaurea solstitialis L.
+T69	Toponym 8491 8500	Argentina
+#25	AnnotatorNotes T69	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T70	Toponym 8476 8489	South America
+#26	AnnotatorNotes T70	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+R2	Located Arg1:T68 Arg2:T69	
+R3	Located Arg1:T68 Arg2:T70	
+T71	Other 8641 8648	2,600 m
+T72	Other 8615 8629	alrededores de
+#27	AnnotatorNotes T72	Egoitz
+T73	Toponym 8604 8613	Contumaza
+#28	AnnotatorNotes T73	<latlng>-7.33333,-78.91667</latlng><geoID>3697832</geoID>
+T74	Toponym 8630 8639	Contumaza
+#29	AnnotatorNotes T74	<latlng>-7.33475,-78.7368</latlng><geoID>8350228</geoID>
+T75	Toponym 8683 8688	CUZCO
+#30	AnnotatorNotes T75	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T77	Other 8697 8707	alturas de
+#32	AnnotatorNotes T77	Egoitz
+T78	TypeSpecimen 8724 8735	Vargas 4259
+T79	Toponym 8690 8695	Calca
+#33	AnnotatorNotes T79	<latlng>-13,-72.16667</latlng><geoID>3946176</geoID>
+T80	Toponym 8708 8713	Taray
+#34	AnnotatorNotes T80	<latlng>-13.46022,-71.88383</latlng><geoID>8350943</geoID>
+T81	Other 8715 8722	3,050 m
+T82	TypeSpecimen 8773 8793	Edwin & Schunke 3890
+T83	Toponym 8749 8754	Tarma
+#35	AnnotatorNotes T83	<latlng>-11.40562, -75.69129</latlng><geoID>3927757</geoID>
+T84	Other 8756 8771	4 km W of Tarma
+T85	TypeSpecimen 8799 8817;8818 8834	Tarma, Macbride &  Featherstone 102
+T86	Other 8903 8907	50 m
+T87	TypeSpecimen 8909 8933	Sagdstegui & Araujo 7785
+T88	Toponym 8854 8862	Trujillo
+#36	AnnotatorNotes T88	<latlng>-8.11599,-79.02998</latlng><geoID>3691175</geoID>
+T89	taxonomicName 9046 9070	Carduus heterophyllus L.
+T90	taxonomicName 9020 9038	heterophyllum (L.)
+T91	Toponym 10366 10370	Peru
+#37	AnnotatorNotes T91	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T92	taxonomicName 10396 10411	Cirsium vulgare
+T93	taxonomicName 10515 10522	Cirsium
+T94	taxonomicName 10580 10595	Cirsium vulgare
+T95	taxonomicName 10640 10662	Carduus lanceolatus L.
+T96	taxonomicName 10796 10820	Cirsium lanceolatum (L.)
+T97	taxonomicName 10926 10947	Carduus vulgaris Savi
+T98	Toponym 10689 10695	Europe
+#38	AnnotatorNotes T98	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+R4	Located Arg1:T92 Arg2:T91	
+R5	IsOccurrenceOf Arg1:T87 Arg2:T68	
+R6	Located Arg1:T68 Arg2:T73	
+R7	Located Arg1:T68 Arg2:T79	
+R8	Located Arg1:T68 Arg2:T83	
+R9	Located Arg1:T68 Arg2:T88	
+T99	Toponym 10298 10311	North America
+#39	AnnotatorNotes T99	<latlng>46.07323,-100.54688</latlng><geoID>6255149</geoID>
+T100	TypeSpecimen 11773 11802	Cirsium helenioides (L.) Hill
+T101	TypeSpecimen 10990 11012	Cirsium vulgare (Savi)
+T102	taxonomicName 11854 11869	Cirsium vulgare
+T103	Other 12464 12480;12481 12490	from Ecuador to  Argentina
+T104	Toponym 12495 12499	Peru
+#40	AnnotatorNotes T104	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T105	Other 12612 12619	3,493 m
+T106	TypeSpecimen 12664 12674	Brunei 679
+T107	Other 12655 12662	3,711 m
+T108	Toponym 12449 12462	South America
+#41	AnnotatorNotes T108	<latlng>-14.60485,-57.65625</latlng><geoID>6255150</geoID>
+T109	Toponym 12359 12365	Europe
+#42	AnnotatorNotes T109	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T110	taxonomicName 12698 12712	Silybum Adans.
+T111	TypeSpecimen 12759 12775;12777 12779	Carduus marianus L.
+T112	TypeSpecimen 12782 12803	Silybum marianum (L.)
+T114	taxonomicName 13748 13769	Silybum marianum (L.)
+T116	Toponym 13865 13871	Europe
+#46	AnnotatorNotes T116	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T117	Toponym 14799 14803	Peru
+#47	AnnotatorNotes T117	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T118	Toponym 14994 14998	Peru
+#48	AnnotatorNotes T118	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T119	taxonomicName 15028 15044	Silybum marianum
+T120	Toponym 15328 15332	Peru
+#49	AnnotatorNotes T120	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T121	taxonomicName 15369 15385	Silybum marianum
+T122	Toponym 15468 15477	CAJAMARCA
+#50	AnnotatorNotes T122	<latlng>-6.25,-78.83333</latlng><geoID>3699087</geoID>
+T123	Toponym 15479 15488	Cajamarca
+#51	AnnotatorNotes T123	<latlng>-6.25,-78.83333</latlng><geoID>3699087</geoID>
+T124	Other 15517 15536	on road to Celendin
+T125	Other 15494 15515	16 km NE of Cajamarca
+T126	Other 15543 15550	3,000 m
+T127	TypeSpecimen 15552 15572	Dillon & Turner 1569
+T128	TypeSpecimen 15633 15644	Soukup 2932
+T129	Toponym 15592 15597	JUNfN
+#52	AnnotatorNotes T129	Spelling error: Junin
+T130	TypeSpecimen 15414 15434	Dillon b Turner 1569
+T131	Toponym 15599 15607	Huancayo
+#53	AnnotatorNotes T131	<latlng>-12.17319,-75.16169</latlng><geoID>3939456</geoID>
+T132	Other 15609 15614;15615 15631	16.5  km W of Huancayo
+T133	Toponym 15650 15661	LA LIBERTAD
+#54	AnnotatorNotes T133	<latlng>-8,-78.5</latlng><geoID>3695781</geoID>
+T134	Other 15682 15688;15689 15690	3,400  m
+T135	Toponym 15663 15669	Otuzco
+#55	AnnotatorNotes T135	<latlng>-7.90457,-78.56362</latlng><geoID>3694211</geoID>
+T136	Toponym 15671 15676	Salpo
+#56	AnnotatorNotes T136	<latlng>-8.0329,-78.63627</latlng><geoID>8350400</geoID>
+T137	TypeSpecimen 15692 15702	Lopez 1850
+T138	Other 15715 15741	alrededores de Huancaspata
+T139	Other 15743 15750	3,100 m
+T140	Toponym 15708 15713	Pataz
+#57	AnnotatorNotes T140	<latlng>-8.25,-77.33333</latlng><geoID>3693821</geoID>
+T141	TypeSpecimen 15752 15766;15768 15778	Lopez & Sagds- tegui 8241
+T142	Toponym 15801 15806	Pasco
+#59	AnnotatorNotes T142	<latlng>-10.5,-75.25</latlng><geoID>3932834</geoID>
+T143	Toponym 15785 15799	CERRO DE PASCO
+#60	AnnotatorNotes T143	<latlng>-10.66748,-76.25668</latlng><geoID>3944797</geoID>
+T144	Toponym 15808 15816	Huariaca
+#61	AnnotatorNotes T144	<latlng>-10.45177,-76.15411</latlng><geoID>8351103</geoID>
+T145	Other 15822 15829	3,050 m
+T146	TypeSpecimen 15831 15841;15843 15860	Macbride & Featherstone 2406
+T147	Other 15888 15895	3,900 m
+T148	TypeSpecimen 15897 15909	Aguilar s.n.
+T149	Toponym 15866 15870	PUNO
+#63	AnnotatorNotes T149	<latlng>-15,-70</latlng><geoID>3931275</geoID>
+T150	Toponym 15872 15876	Puno
+#64	AnnotatorNotes T150	<latlng>-15,-70</latlng><geoID>3931275</geoID>
+T151	Toponym 15878 15886	Amantani
+#65	AnnotatorNotes T151	<latlng>-15.66461,-69.71012</latlng><geoID>8350817</geoID>
+R10	IsOccurrenceOf Arg1:T111 Arg2:T110	
+R11	IsOccurrenceOf Arg1:T112 Arg2:T110	
+R12	Located Arg1:T110 Arg2:T116	
+R13	Located Arg1:T110 Arg2:T117	
+R14	Located Arg1:T110 Arg2:T118	
+R15	Located Arg1:T119 Arg2:T120	
+R16	IsOccurrenceOf Arg1:T130 Arg2:T121	
+R17	Located Arg1:T121 Arg2:T122	
+R18	Located Arg1:T121 Arg2:T123	
+R19	IsOccurrenceOf Arg1:T127 Arg2:T121	
+R20	Located Arg1:T121 Arg2:T129	
+R21	Located Arg1:T119 Arg2:T131	
+R22	Located Arg1:T119 Arg2:T133	
+R23	Located Arg1:T121 Arg2:T135	
+R24	Located Arg1:T121 Arg2:T136	
+R25	Located Arg1:T121 Arg2:T140	
+R26	Located Arg1:T121 Arg2:T143	
+R27	Located Arg1:T121 Arg2:T142	
+R28	Located Arg1:T121 Arg2:T144	
+R29	Located Arg1:T121 Arg2:T149	
+R30	Located Arg1:T121 Arg2:T150	
+R31	Located Arg1:T121 Arg2:T151	
+R32	IsOccurrenceOf Arg1:T148 Arg2:T121	
+R33	IsOccurrenceOf Arg1:T128 Arg2:T121	
+R34	IsOccurrenceOf Arg1:T141 Arg2:T121	
+R35	IsOccurrenceOf Arg1:T146 Arg2:T121	
+R36	IsOccurrenceOf Arg1:T137 Arg2:T121	
+T51	Other 6216 6233;6235 6239	Mediterranean re- gion
+T76	TypeSpecimen 8650 8663;8665 8673	Sagdstegui et al. 9856
+T113	taxonomicName 13702 13709;13711 13719	Silybum marianum
+T115	taxonomicName 13816 13823;13825 13836	Carduus marianus L.

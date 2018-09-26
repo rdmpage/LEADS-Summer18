@@ -1,0 +1,87 @@
+T1	taxonomicName 660 669	MYRTACEAE
+T2	taxonomicName 3104 3113	Myrtaceae
+T3	taxonomicName 3172 3186	Chamaelaucieae
+T4	taxonomicName 3243 3256	Leptospermeae
+T5	taxonomicName 3315 3322	Myrteae
+T6	taxonomicName 3651 3661	Myrtoideae
+T7	taxonomicName 3688 3695	Myrteae
+T8	taxonomicName 3713 3726;3728 3732	Leptospermoi- deae
+T9	taxonomicName 3758 3771	Leptospermeae
+T10	taxonomicName 3776 3790	Chamaelaucieae
+T11	taxonomicName 3808 3824	Leptospermoideae
+T12	Other 3857 3874	Australian region
+T13	Other 3915 3924;3926 3933	southwest Pacific
+T14	taxonomicName 4066 4076	Eucalyptus
+T15	taxonomicName 4152 4171	Tepualia stipularis
+T16	taxonomicName 4213 4222	Myrtaceae
+T17	taxonomicName 4248 4255	Myrteae
+T18	taxonomicName 4878 4891	Leptospermeae
+T19	taxonomicName 5149 5156	Myrteae
+T20	taxonomicName 5170 5183	LEPTOSPERMEAE
+T21	taxonomicName 5192 5202	EUCALYPTUS
+T22	Other 6685 6697;6699 6732	tropical and warm-temperate regions of America
+T23	taxonomicName 6866 6892	Eucalyptus globulus Labill
+T24	Toponym 8952 8960	Victoria
+#1	AnnotatorNotes T24	<latlng>-37,145</latlng><geoID>2145234</geoID>
+T25	Toponym 8962 8977	New South Wales
+#2	AnnotatorNotes T25	<latlng>-33,146</latlng><geoID>2155400</geoID>
+T26	Toponym 8983 8991	Tasmania
+#3	AnnotatorNotes T26	<latlng>-42,147</latlng><geoID>2147291</geoID>
+T27	Toponym 9055 9060;9062 9068	Cali- fornia
+#4	AnnotatorNotes T27	<latlng>37.25022,-119.75126</latlng><geoID>5332921</geoID>
+T28	Toponym 9072 9081	Argentina
+#5	AnnotatorNotes T28	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T29	Toponym 9086 9091	Chile
+#6	AnnotatorNotes T29	<latlng>-30,-71</latlng><geoID>3895114</geoID>
+T30	Other 9254 9267	Latin America
+T31	taxonomicName 9367 9378	E. globulus
+T32	Toponym 9399 9404;9406 9409	Ecua- dor
+#7	AnnotatorNotes T32	<latlng>-1.25,-78.25</latlng><geoID>3658394</geoID>
+T33	Other 9456 9472;9474 9496	the inter-Andine region of that country
+#8	AnnotatorNotes T33	Egoitz
+T34	Toponym 9533 9537	Peru
+#9	AnnotatorNotes T34	<latlng>-10, -75.25</latlng><geoID>3932488</geoID>
+T35	Toponym 9546 9551	Cuzco
+#10	AnnotatorNotes T35	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T36	Other 9760 9772	2,700 meters
+T37	TypeSpecimen 9774 9787	Williams 7562
+T38	Other 9804 9822	3,000-3,200 meters
+T39	TypeSpecimen 9824 9844	Killip & Smith 21870
+T40	Toponym 9737 9745	Amazonas
+#11	AnnotatorNotes T40	<latlng>-5,-78.23333</latlng><geoID>3699699</geoID>
+T41	Toponym 9747 9758	Chachapoyas
+#12	AnnotatorNotes T41	<latlng>-6.2748,-77.81067</latlng><geoID>3698538</geoID>
+T42	Toponym 9789 9794	Junin
+#13	AnnotatorNotes T42	<latlng>-11.5,-75</latlng><geoID>3937485</geoID>
+T43	Toponym 9797 9802	Tarma
+#14	AnnotatorNotes T43	<latlng>-11.40562,-75.69129</latlng><geoID>3927757</geoID>
+R1	IsOccurrenceOf Arg1:T37 Arg2:T23	
+R2	IsOccurrenceOf Arg1:T39 Arg2:T23	
+R3	Located Arg1:T23 Arg2:T24	
+R4	Located Arg1:T23 Arg2:T25	
+R5	Located Arg1:T23 Arg2:T26	
+R6	Located Arg1:T23 Arg2:T27	
+R7	Located Arg1:T23 Arg2:T28	
+R8	Located Arg1:T23 Arg2:T29	
+R9	Located Arg1:T23 Arg2:T32	
+R10	Located Arg1:T23 Arg2:T34	
+R11	Located Arg1:T23 Arg2:T35	
+R12	Located Arg1:T23 Arg2:T40	
+R13	Located Arg1:T23 Arg2:T41	
+R14	Located Arg1:T23 Arg2:T42	
+R15	Located Arg1:T23 Arg2:T43	
+T44	taxonomicName 9878 9909	Eucalyptus camaldulensis Dehnh.
+T45	TypeSpecimen 10040 10056	Soukup (no. 840)
+T46	Toponym 10030 10035	Cuzco
+#15	AnnotatorNotes T46	<latlng>-13,-72.25</latlng><geoID>3941583</geoID>
+T47	Toponym 10023 10028	Yucay
+#16	AnnotatorNotes T47	<latlng>-13.29424,-72.07323</latlng><geoID>8350956</geoID>
+R16	IsOccurrenceOf Arg1:T45 Arg2:T44	
+R17	Located Arg1:T44 Arg2:T47	
+R18	Located Arg1:T44 Arg2:T46	
+T48	taxonomicName 10530 10537	Myrteae
+T49	taxonomicName 11382 11397	Myrciinae Berg.
+T50	taxonomicName 11473 11489	Eugeniinae Berg.
+T51	taxonomicName 11606 11622	Pimentinae Berg.
+T52	Other 18376 18394	Amazonian lowlands
+#17	AnnotatorNotes T52	Egoitz

@@ -1,0 +1,412 @@
+T1	Toponym 225 238	UNITED STATES
+#1	AnnotatorNotes T1	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+T2	Toponym 270 280	WASHINGTON
+#2	AnnotatorNotes T2	<latlng>38.91706,-77.00025</latlng><geoID>4138106</geoID>
+T3	taxonomicName 1854 1867	Uranoscopidae
+T4	Other 1822 1835	western north
+#3	AnnotatorNotes T4	Egoitz
+T5	Toponym 1836 1844	Atlantic
+#4	AnnotatorNotes T5	<latlng>10,-25</latlng><geoID>3373405</geoID>
+R1	Located Arg1:T3 Arg2:T5	
+T6	Toponym 2221 2228	Pacific
+#5	AnnotatorNotes T6	<latlng>3.51342,-132.1875</latlng><geoID>2363254</geoID>
+T7	Toponym 2243 2255	Arctic Ocean
+#6	AnnotatorNotes T7	<latlng>85,0</latlng><geoID>2969860</geoID>
+T8	taxonomicName 2183 2193	Hyperiidea
+T9	taxonomicName 2196 2206	Hyperiidae
+R2	Located Arg1:T8 Arg2:T7	
+R3	Located Arg1:T8 Arg2:T6	
+R4	Located Arg1:T9 Arg2:T7	
+R5	Located Arg1:T9 Arg2:T6	
+T10	Other 2215 2220	north
+#7	AnnotatorNotes T10	Egoitz
+T11	Other 2234 2242	adjacent
+#8	AnnotatorNotes T11	Egoitz
+T12	taxonomicName 2002 2009	Protura
+T13	taxonomicName 2359 2368	Conopidae
+T14	Toponym 2384 2388	Asia
+#9	AnnotatorNotes T14	<latlng>29.84064,89.29688</latlng><geoID>6255147</geoID>
+T15	Other 2376 2383	eastern
+#10	AnnotatorNotes T15	Egoitz
+R6	Located Arg1:T13 Arg2:T14	
+T16	taxonomicName 2452 2477	Abrachyglossum cockerelli
+T17	taxonomicName 2479 2499	Conops thccoides, C.
+T18	taxonomicName 2515 2524	kanoi, C.
+T19	taxonomicName 2530 2543	chinensis, C.
+T20	taxonomicName 2549 2560	grahami, C.
+T22	taxonomicName 2592 2602	thecus, C.
+T23	taxonomicName 2608 2618	rufigaster
+T24	taxonomicName 2643 2654	S. grandens
+T25	taxonomicName 2656 2678	Physocephala rufifrons
+T26	taxonomicName 2680 2688	P. theca
+T27	taxonomicName 2690 2699	P. melana
+T28	taxonomicName 2701 2704;2705 2713	P.  elongata
+T29	taxonomicName 2715 2740	Thecophora philippinensis
+T30	taxonomicName 2788 2798	Mallophaga
+T31	taxonomicName 2821 2838	Trochiliphagidae)
+T32	taxonomicName 2961 2977	Trochiliphagidae
+T33	taxonomicName 2992 3006	Trochih'phagus
+T34	taxonomicName 3023 3047	Trochiloecetes aglaeacti
+T35	taxonomicName 3049 3063	T. Quibdoensis
+T36	taxonomicName 3065 3075	T. simplex
+T37	taxonomicName 3079 3094	T. Latitemporis
+T38	taxonomicName 3096 3108	T. coartatia
+T39	taxonomicName 3110 3121	T. malvasae
+T40	taxonomicName 3123 3134	T. grandior
+T42	taxonomicName 3151 3165	T. columbianus
+T43	taxonomicName 3167 3182	T. angustifrons
+T44	taxonomicName 3184 3198	T. abdominalis
+T46	taxonomicName 3214 3226	T. complexus
+T47	taxonomicName 3228 3241	T. bolivianus
+T48	taxonomicName 3243 3255	T. fasciatus
+T49	taxonomicName 3257 3267	T. oenonae
+T51	taxonomicName 3288 3299	T. illumani
+T52	taxonomicName 3301 3309	T. savli
+T53	taxonomicName 3311 3326	T. mandibularis
+T55	taxonomicName 3356 3368	T. mexicanus
+T56	taxonomicName 3370 3384	T. ivellivorus
+T57	taxonomicName 3386 3399	T. irazuensis
+T59	taxonomicName 3416 3432	T. brevicephabis
+T60	taxonomicName 3434 3445	T. pcruanus
+T62	taxonomicName 3556 3565	Hemiptera
+T63	taxonomicName 3568 3576	Tingidae
+T64	taxonomicName 3668 3677	Aframixia
+T65	taxonomicName 3679 3688	Octacysta
+T66	taxonomicName 3830 3840	Cyclopoida
+T67	taxonomicName 3843 3855	Clausidiidae
+T68	taxonomicName 3934 3958	Hemicyclops subadhaerens
+T69	taxonomicName 3960 3973	H. arenicolae
+T70	taxonomicName 4101 4116	Anoura cullrata
+T71	taxonomicName 4118 4136	Chiroderma gorgasi
+T73	taxonomicName 4179 4203	Mimon crenulatum keenani
+T75	taxonomicName 4294 4305	Polydesmida
+T76	taxonomicName 4308 4321	Xystodesmidae
+T77	taxonomicName 4419 4445	Cherokia georgiana lalassa
+T78	taxonomicName 4482 4505	Branchinecta campestris
+T79	Other 4512 4524	northwestern
+#20	AnnotatorNotes T79	Egoitz
+T80	Toponym 4525 4538	United States
+#21	AnnotatorNotes T80	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+R7	Located Arg1:T78 Arg2:T80	
+T81	taxonomicName 4540 4549	Crustacea
+T82	taxonomicName 4552 4562	Phyllopoda
+T83	taxonomicName 4643 4666	Branchinecta campestris
+T84	taxonomicName 4903 4912	Hemiptera
+T85	taxonomicName 4914 4924	Reduviidae
+T86	taxonomicName 4926 4934	Emesinae
+T87	taxonomicName 5037 5058	Ghilianella borincana
+T88	taxonomicName 5060 5068	G. calva
+T89	taxonomicName 5070 5082	G. calymmata
+T90	taxonomicName 5084 5092;5093 5104	G. cam-  pulligaster
+T91	taxonomicName 5106 5119	G. clavellata
+T92	taxonomicName 5121 5134	G. fenestrata
+T93	taxonomicName 5136 5145	G. grapta
+T94	taxonomicName 5147 5158	G. haitiana
+T95	taxonomicName 5160 5163;5164 5175	G.  megharpacta
+T96	taxonomicName 5177 5185	G. nanna
+T97	taxonomicName 5187 5195	G. obesa
+T98	taxonomicName 5197 5209	G. panarnana
+T99	taxonomicName 5211 5222	G. rhabdita
+T100	taxonomicName 5224 5232;5233 5237	G. spi-  nata
+T101	taxonomicName 5239 5254	G. spinicaudata
+T102	taxonomicName 5301 5312	Pyractonema
+T103	taxonomicName 5315 5325	Coleoptera
+T104	taxonomicName 5328 5338	Lampyridae
+T105	taxonomicName 5415 5436	Pyractonema angustata
+T106	taxonomicName 5438 5447	P. latior
+T107	taxonomicName 5449 5457	P. minor
+T108	taxonomicName 5636 5659	Argyropelecus pacificus
+T109	taxonomicName 5661 5676	Polyipnus polli
+T111	taxonomicName 5697 5709	P. japonicus
+T112	taxonomicName 5711 5721	P. indicus
+T113	taxonomicName 5740 5772	Argyropelecus lynchus hawaiensis
+T114	Toponym 5991 6001	California
+#23	AnnotatorNotes T114	<latlng>37.25022,-119.75126</latlng><geoID>5332921</geoID>
+T115	taxonomicName 6007 6019	Chironominae
+T116	taxonomicName 6034 6045	Tanytarsini
+T117	taxonomicName 6048 6061	Calopsectrini
+T118	taxonomicName 6141 6151	Wirthiella
+T119	taxonomicName 6168 6191	Paratendipcs fuscitibia
+T120	taxonomicName 6193 6204	Polypcdilum
+T121	taxonomicName 6206 6217	Polypedilum
+T122	taxonomicName 6221 6237	californicum, P.
+T123	taxonomicName 6243 6257	subcullellatvm
+T124	taxonomicName 6259 6285	Stennchironomus totifuscus
+T125	taxonomicName 6289 6297	Tendipes
+T126	taxonomicName 6299 6309	Wirthiella
+T127	taxonomicName 6311 6325	modocensis, T.
+T128	taxonomicName 6327 6335	Tribelos
+T129	taxonomicName 6337 6350	hespcrius, T.
+T130	taxonomicName 6354 6370	Cryptochironomus
+T131	taxonomicName 6372 6385	chacloala, T.
+T132	taxonomicName 6391 6401	darbyi, T.
+T133	taxonomicName 6407 6416	ariel, T.
+T134	taxonomicName 6424 6432	alphaeus
+T135	taxonomicName 6451 6492	Paralaulerborniella subcincta alamedensis
+T136	taxonomicName 6567 6578	Lophogaster
+T137	taxonomicName 6706 6716	Scopulepcs
+T138	taxonomicName 6727 6748	Hemeroplanis Hiibncr.
+T139	taxonomicName 6840 6860	Hemeroplayiis zayasi
+T140	taxonomicName 7049 7070	Lithoglyptes spinatus
+T141	taxonomicName 7110 7121	Hysipyrgias
+T142	taxonomicName 7130 7142	Hypsipyrgias
+T143	taxonomicName 7183 7196	Pseudodacysta
+T144	Toponym 7205 7216	Pseudacysta
+T145	taxonomicName 7245 7252	lelcupi
+T146	taxonomicName 7261 7268	lepeupi
+T147	taxonomicName 7297 7307	vanderstyi
+T148	taxonomicName 7316 7326	vanderysti
+T149	taxonomicName 7354 7361	amigera
+T150	taxonomicName 7370 7378	armigera
+T151	taxonomicName 7407 7418	apicicornis
+T152	taxonomicName 7427 7436	apicornis
+T153	taxonomicName 7465 7476	wueronlausi
+T154	taxonomicName 7485 7496	wuorentausi
+T155	taxonomicName 7585 7595	hedenborgi
+T156	taxonomicName 7604 7615	hedenborgii
+T157	taxonomicName 7643 7656	Phylloncheila
+T158	taxonomicName 7665 7680	Phyllontocheila
+T159	taxonomicName 7710 7720	Sinoconops
+T160	taxonomicName 7729 7739	Siniconops
+T161	taxonomicName 7772 7786	Trochilocoetes
+T162	taxonomicName 7795 7809	Trochiloecetes
+T163	taxonomicName 7842 7855	Trociliphagus
+T164	taxonomicName 7864 7878	Trochiliphagus
+T165	taxonomicName 7917 7931	Trochilophagus
+T166	taxonomicName 7940 7954	Trochiliphagus
+T167	taxonomicName 7987 7999	irazuensisus
+T168	taxonomicName 8008 8018	irazuensis
+T169	taxonomicName 8066 8080	Trochiloecetes
+T170	taxonomicName 8109 8123	Trochiloecetes
+T171	taxonomicName 8153 8160	monenes
+T172	taxonomicName 8169 8177	monetise
+T173	Toponym 8271 8287	WASHINGTON, D.C.
+#24	AnnotatorNotes T173	<latlng>38.91706,-77.00025</latlng><geoID>4138106</geoID>
+T174	taxonomicName 8351 8360	HEMIPTERA
+T175	taxonomicName 8362 8370	TINGIDAE
+T176	taxonomicName 8485 8493	Tingidae
+T177	taxonomicName 9961 9969	Tingidae
+T178	taxonomicName 10233 10241	Tingidae
+T179	taxonomicName 11076 11084	Tingidae
+T180	TypeSpecimen 14675 14701	Acanthia costata Fabricius
+T181	TypeSpecimen 15204 15222	Tingidae Laporte 2
+T182	TypeSpecimen 15225 15253	Membranaceae Latreille, 1825
+T183	TypeSpecimen 15271 15295	Tingidites Laporte, 1833
+T184	TypeSpecimen 15306 15334	Membranacei Burmeister, 1835
+T185	TypeSpecimen 15345 15364	Tingini Costa, 1838
+T186	TypeSpecimen 15375 15398	Tingidae Westwood, 1840
+T187	TypeSpecimen 15410 15421	Costa, 1855
+T189	TypeSpecimen 15470 15480	Hurd, 1946
+T190	TypeSpecimen 15491 15502	Monte, 1947
+T191	TypeSpecimen 15511 15522	China, 1955
+T192	TypeSpecimen 15533 15566	Tingides Amyot and Serville, 1843
+T193	TypeSpecimen 15583 15605	Tingideae Fieber, 1844
+T194	TypeSpecimen 15620 15646	Ductirostri Sahlberg, 1848
+T195	TypeSpecimen 15663 15687	Tingiditae Spinola, 1850
+T196	TypeSpecimen 15698 15721	Tingididea Fieber, 1851
+T197	TypeSpecimen 15730 15740	Flor, 1860
+T198	TypeSpecimen 15751 15768	Vollenhoven, 1878
+T199	TypeSpecimen 15779 15801	Tingitidea Costa, 1860
+T200	TypeSpecimen 15810 15833	Tingididae Fieber, 1861
+T201	TypeSpecimen 15843 15856	Oshanin, 1908
+T202	TypeSpecimen 15867 15882	Van Duzee, 1916
+T203	TypeSpecimen 15908 15928	Tingidida Stal, 1865
+T204	TypeSpecimen 15938 15956	Tingina Stal, 1870
+T205	TypeSpecimen 15967 15988	Tingitidae Stal, 1873
+T206	TypeSpecimen 15999 16010	Uhler, 1886
+T207	TypeSpecimen 16020 16034	Horvath, 1906c
+T208	TypeSpecimen 16058 16071	Oshanin, 1912
+T209	TypeSpecimen 16081 16102	Drake and Poor, 1936a
+T210	TypeSpecimen 16113 16124	China, 1943
+T211	Toponym 16186 16192	London
+#26	AnnotatorNotes T211	<latlng>51.50853,-0.12574</latlng><geoID>2643743</geoID>
+T212	taxonomicName 16296 16314	Tingidites Laporte
+T213	taxonomicName 16390 16398	Tingidae
+T214	taxonomicName 16405 16415	Tingidites
+T215	taxonomicName 16486 16494	Tingidae
+T216	taxonomicName 16690 16706	Tingis Fabricius
+T217	TypeSpecimen 16760 16782	Tingitides Puton, 1875
+T218	TypeSpecimen 16805 16834	Tingidides Vollenhoven, 1878,
+T219	TypeSpecimen 16855 16877	Tingis Fabricius (1803
+T220	taxonomicName 16901 16909	Tingidae
+T221	Other 18257 18265	southern
+#27	AnnotatorNotes T221	Egoitz
+T222	Other 18338 18362;18363 18378	lands of the Arctic and  Antarctic Zones
+#28	AnnotatorNotes T222	Egoitz
+T223	Toponym 18228 18234	Africa
+#29	AnnotatorNotes T223	<latlng>7.1881,21.09375</latlng><geoID>6255146</geoID>
+T224	Toponym 18236 18245	Australia
+#30	AnnotatorNotes T224	<latlng>-25,135</latlng><geoID>2077456</geoID>
+T225	Toponym 18247 18251	Asia
+#31	AnnotatorNotes T225	<latlng>29.84064,89.29688</latlng><geoID>6255147</geoID>
+T226	Toponym 18266 18272	Europe
+#32	AnnotatorNotes T226	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T227	taxonomicName 18498 18507	Hemiptera
+T228	taxonomicName 19355 19366	hemipterous
+T229	taxonomicName 19376 19387	Piesmatidae
+T230	taxonomicName 19392 19404	Peloridiidae
+T231	taxonomicName 19615 19623	Tinginae
+T232	taxonomicName 20393 20420	Nesocypselas piperica Drake
+T233	Toponym 19811 19824	South Pacific
+#33	AnnotatorNotes T233	<latlng>-45,-130</latlng><geoID>4030483</geoID>
+R8	Located Arg1:T231 Arg2:T233	
+T234	taxonomicName 21033 21044	Vianaididae
+T235	taxonomicName 21013 21025	myrmecophile
+T236	taxonomicName 21127 21135;21136 21157	ianaida  coleopterata Kormilev
+T239	Toponym 21268 21287	British West Indies
+#36	AnnotatorNotes T239	<latlng>24,71</latlng>
+T240	Toponym 21257 21265	Trinidad
+#37	AnnotatorNotes T240	<latlng>10.46114,-61.25702</latlng><geoID>3573592</geoID>
+T241	taxonomicName 21305 21313	Tingidae
+T242	taxonomicName 21318 21329	Vianaididae
+T244	taxonomicName 21559 21570	Tingidoidea
+T245	taxonomicName 21666 21673;21674 21680	Tingi-  doidea
+T246	taxonomicName 21709 21718	Tingoidea
+T247	taxonomicName 21856 21864	Tingidae
+T248	taxonomicName 22179 22185	Tingis
+T249	taxonomicName 22187 22198	Leptopharsa
+T250	taxonomicName 22205 22216	Cysteochila
+T251	taxonomicName 22764 22779	Phyllontocheila
+T252	taxonomicName 22784 22793	Monanthia
+T253	taxonomicName 23074 23083	Monanthia
+T254	taxonomicName 23199 23205	Tingis
+T255	taxonomicName 23207 23218	Cysteochila
+T256	taxonomicName 23224 23235	Leptopharsa
+T257	taxonomicName 23340 23349	Hemiptera
+T258	taxonomicName 23351 23362	Heteroptera
+T259	taxonomicName 23407 23414	Miridae
+T260	taxonomicName 24088 24096	Tingidae
+T261	taxonomicName 24161 24169	Tingidae
+T262	Other 24533 24545	north of the
+#39	AnnotatorNotes T262	Egoitz
+T263	Toponym 24546 24553;24554 24559	Panama  Canal
+#40	AnnotatorNotes T263	<latlng>8.99797,-79.59269</latlng><geoID>3703441</geoID>
+T264	taxonomicName 24870 24879	Rhynchota
+T265	taxonomicName 25813 25818;25819 25827	Dic-  tyesthes
+T266	taxonomicName 25915 25943	Dictyonota dictyesthes Amyot
+T267	taxonomicName 26533 26541	Tingidae
+T268	taxonomicName 26687 26696	Hemiptera
+T269	taxonomicName 26756 26766	Tingididae
+T270	taxonomicName 26771 26780	Piesmidae
+T271	taxonomicName 27485 27491	Tingis
+T272	taxonomicName 27771 27777	Tingis
+T273	taxonomicName 28056 28062	Tingis
+T274	taxonomicName 28249 28257	TINGIDAE
+T275	taxonomicName 28342 28358	Tingis Fabricius
+T277	taxonomicName 28408 28416	TINGIDAE
+T278	taxonomicName 28515 28523	Tingidae
+T279	taxonomicName 28773 28781	Tingidae
+T280	taxonomicName 28867 28881	Cantacaderaria
+T281	taxonomicName 28883 28895	Serenthiaria
+T282	taxonomicName 28901 28911	Tingidaria
+T283	taxonomicName 29018 29032	Axiokersosaria
+T284	taxonomicName 29056 29081	Axiokersos ovalis Distant
+T285	taxonomicName 29123 29150	Aidoneus dissimilis Distant
+T286	taxonomicName 29257 29267	Tingidaria
+T287	taxonomicName 29305 29313	Tinginae
+T288	taxonomicName 29321 29331	Tingidaria
+T290	Toponym 29088 29093	India
+#43	AnnotatorNotes T290	<latlng>22,79</latlng><geoID>1269750</geoID>
+R9	Located Arg1:T284 Arg2:T290	
+T291	taxonomicName 29521 29535	Cantacaderaria
+T292	taxonomicName 29564 29578	Cantacaderinae
+T293	taxonomicName 29581 29593	Serenthiaria
+T294	taxonomicName 29622 29634	Agrammatinae
+T295	taxonomicName 29637 29647	Tingidaria
+T296	taxonomicName 29676 29684	Tinginae
+T297	taxonomicName 29687 29701	Axiokersosaria
+T298	taxonomicName 29730 29738	Tinginae
+T299	taxonomicName 29741 29753	Aidoneusaria
+T300	taxonomicName 29782 29790	Tinginae
+T301	taxonomicName 29836 29844	Tinginae
+T302	Other 29913 29920	eastern
+#44	AnnotatorNotes T302	Egoitz
+T303	Toponym 29921 29927;29928 29935	North  America
+#45	AnnotatorNotes T303	<latlng>46.07323,-100.54688</latlng><geoID>6255149</geoID>
+T304	taxonomicName 30081 30089	Galeatus
+T305	taxonomicName 30112 30122	Coryihucha
+T306	taxonomicName 30125 30136	Stephanitis
+T307	taxonomicName 30138 30148	Leptobyrsa
+T308	taxonomicName 30162 30172	Corythaica
+T309	taxonomicName 30174 30184	Dictyonota
+T310	taxonomicName 30186 30195	Gargaphia
+T311	taxonomicName 30197 30206	Gelchossa
+T312	taxonomicName 30208 30219	Leptodiclya
+T313	taxonomicName 30226 30239	Acanthocheila
+T314	taxonomicName 30241 30250	Gelchossa
+T315	taxonomicName 30267 30278	Leptopharsa
+T316	taxonomicName 30289 30299	Leptobyrsa
+T317	Other 30326 30344	not represented in
+T318	Toponym 30349 30356;30357 30363	United  States
+#46	AnnotatorNotes T318	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+T319	taxonomicName 30398 30408	Leptobyrsa
+T320	taxonomicName 30429 30440	Stephanitis
+T321	taxonomicName 30451 30479	Stephanitis blatchleyi Drake
+T322	taxonomicName 30500 30522	S. rhododendri Horvath
+T323	taxonomicName 30623 30632	Galeatini
+T324	taxonomicName 30809 30817	Tinginae
+T325	taxonomicName 30917 30925	Acalypta
+T326	taxonomicName 30930 30938	Drakella
+T327	taxonomicName 30845 30865	Acalyptini Blatchley
+T328	taxonomicName 30988 30996	Acalypta
+T329	taxonomicName 31019 31029	Acalyptini
+T330	taxonomicName 31093 31101	Tinginae
+T331	taxonomicName 31129 31154	Physatocheilini Blatchley
+T332	taxonomicName 31209 31222	Physatocheila
+T333	taxonomicName 31224 31234	Dichocysta
+T334	taxonomicName 31236 31242	Tingis
+T335	taxonomicName 31245 31255	Teleonemia
+T336	taxonomicName 31261 31270	Leptoypha
+T337	taxonomicName 31395 31408	Physatocheila
+T338	taxonomicName 31445 31455	Teleonemia
+T339	taxonomicName 31618 31633	Physatocheilini
+T340	taxonomicName 31639 31647	Tinginae
+T341	Toponym 31460 31473	South America
+#47	AnnotatorNotes T341	<latlng>-14.60485,-57.65625</latlng><geoID>6255150</geoID>
+T342	Toponym 31527 31540	South America
+#48	AnnotatorNotes T342	<latlng>-14.60485,-57.65625</latlng><geoID>6255150</geoID>
+T343	Other 31509 31524	insular America
+#49	AnnotatorNotes T343	Egoitz
+T344	Other 31550 31559	Old World
+R10	Located Arg1:T338 Arg2:T341	
+T345	taxonomicName 32194 32202	Tingidae
+T346	taxonomicName 32405 32412	Dictyla
+T347	taxonomicName 32414 32422	Eotingis
+T348	taxonomicName 32424 32430	Tingis
+T349	taxonomicName 32728 32750	Tingis quinquecarinata
+T350	taxonomicName 32485 32491	Tingis
+T351	taxonomicName 32666 32679	United States
+#50	AnnotatorNotes T351	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+T353	taxonomicName 32880 32890	Cantacader
+T354	taxonomicName 32909 32923	Cantacaderinae
+T355	taxonomicName 32941 32949	Eotingis
+T356	taxonomicName 32991 33018	Cantacader quinquecarinatus
+T358	TypeSpecimen 33144 33176	Eotingis quinquecarinata Scudder
+T357	TypeSpecimen 33057 33098	Tingis quinquecarinata Germar and Berendt
+T359	taxonomicName 33251 33273	Tingis quinquecarinata
+T360	taxonomicName 33307 33323	Eotingis Scudder
+T361	taxonomicName 33385 33403	T. quinquecarinata
+T362	taxonomicName 33459 33476;33477 33489	Cantacader Amyot  and Serville
+T363	Toponym 33563 33569	Russia
+#52	AnnotatorNotes T363	<latlng>60,100</latlng><geoID>2017370</geoID>
+T364	taxonomicName 33631 33652	Tingiopsis reticulata
+T365	taxonomicName 33668 33676	Tingidae
+T21	taxonomicName 2566 2572;2574 2586	szech- wanensis, C.
+T41	taxonomicName 3136 3138;3141 3149	T. rhodopis
+T45	taxonomicName 3200 3202;3205 3212	T. pinguis
+T50	taxonomicName 3269 3271;3274 3286	T. midticarinae
+T54	taxonomicName 3328 3337;3340 3354	Trochili- phagus lazulus
+T58	taxonomicName 3401 3403;3406 3414	T. grandior
+T366	taxonomicName 3447 3463	T. latitemporaHs
+T61	taxonomicName 3465 3467;3470 3481	T. abdominalis
+T72	taxonomicName 4138 4151;4154 4160	Lasiurus cas- taneus
+T74	taxonomicName 4205 4217;4220 4228	Myotis simus riparius
+T110	taxonomicName 5678 5687;5690 5695	P. matsu- barai
+T188	TypeSpecimen 15432 15454;15457 15461	Lethierry and Severin, 1896
+T237	taxonomicName 21188 21201;21203 21221	Anommotocoris minutissimus China
+R11	Located Arg1:T237 Arg2:T240	
+R12	Located Arg1:T237 Arg2:T239	
+T238	taxonomicName 21394 21399;21401 21409	Cimi- comorpha
+T243	taxonomicName 28392 28398;28400 28404	Hemip- tera
+T276	taxonomicName 29099 29107;29109 29114	Aidoneu- saria
+T289	taxonomicName 32824 32835;32837 32845	T. quinque- carinata

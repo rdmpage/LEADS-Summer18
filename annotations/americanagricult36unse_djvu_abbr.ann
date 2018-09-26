@@ -1,0 +1,268 @@
+T1	Toponym 731 744	North America
+#1	AnnotatorNotes T1	<latlng>46.07323, -100.54688</latlng><geoID>6255149</geoID>
+T2	CommonName 1329 1336	Caribou
+T3	CommonName 1340 1357	American Keindeer
+#2	AnnotatorNotes T3	Misspelling: "Reindeer"
+T4	CommonName 1372 1382	Moose Deer
+T5	CommonName 1384 1394	Wild Goose
+T6	CommonName 1404 1411	Mallard
+T7	CommonName 1436 1450	American Snipe
+T8	CommonName 1452 1464	Striped Base
+T9	CommonName 1473 1487	American Trout
+T10	CommonName 1489 1500	Brent Goose
+T11	CommonName 1509 1518	Bay Snipe
+T12	CommonName 1532 1538	Salmon
+T13	CommonName 747 752	Trout
+T14	Toponym 369 382	North America
+#3	AnnotatorNotes T14	<latlng>46.07323, -100.54688</latlng><geoID>6255149</geoID>
+T15	CommonName 494 498	Bear
+T16	CommonName 508 514	Turkey
+T17	CommonName 757 763	Salmon
+T18	CommonName 1547 1556	Woodcocks
+T19	CommonName 1581 1592	Common Deer
+T20	CommonName 1567 1574;1575 1579	Summer  Duck
+T21	CommonName 1607 1611	Teal
+T22	CommonName 1625 1630	Quail
+T23	CommonName 1632 1639	Bittern
+T24	CommonName 1653 1666	Ruffed Grouse
+T25	CommonName 1668 1675;1676 1681	Yellow  Perch
+T26	CommonName 1694 1705	Canvas Back
+T27	CommonName 1707 1718	Winter Duck
+T28	CommonName 1991 1995	Dogs
+T29	Toponym 2975 2984;2985 2988	New Jer-  Bcy
+#4	AnnotatorNotes T29	Misspelling: "New Jersey" <latlng>40.16706,-74.49987</latlng><geoID>5101760</geoID>
+T31	CommonName 3072 3077	Trout
+T33	CommonName 4932 4939	Poultry
+T34	CommonName 5202 5207	Sheep
+T30	CommonName 5439 5444	Grape
+T32	Toponym 6213 6219	France
+#5	AnnotatorNotes T32	<latlng>46,2</latlng><geoID>3017382</geoID>
+T35	Other 6191 6211	Northern and Central
+#6	AnnotatorNotes T35	Egoitz
+T36	CommonName 7140 7146	horses
+T37	CommonName 7399 7405	horses
+T38	CommonName 7926 7932	horses
+T39	CommonName 8592 8597	horse
+T40	Toponym 8934 8940	France
+#7	AnnotatorNotes T40	<latlng>46,2</latlng><geoID>3017382</geoID>
+T41	Toponym 8945 8952	Germany
+#8	AnnotatorNotes T41	<latlng>51.5,10.5</latlng><geoID>2921044</geoID>
+T42	CommonName 9362 9374	STRAWBERRIES
+T43	CommonName 9378 9389	RASPBERRIES
+T44	Toponym 9528 9550	Cornwall-on-the-Hudson
+#9	AnnotatorNotes T44	<latlng>41.44482,-74.0157</latlng><geoID>5113775</geoID>
+T45	Toponym 9552 9562	Orange Co.
+#10	AnnotatorNotes T45	<latlng>41.40214,-74.30557</latlng><geoID>5129915</geoID>
+T46	Toponym 9564 9569	N. T.
+#11	AnnotatorNotes T46	Misspelling: "N.Y.", <latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T47	CommonName 9619 9623	PIGS
+T48	Toponym 9666 9678	West Chester
+#12	AnnotatorNotes T48	<latlng>39.96097,-75.60804</latlng><geoID>4562114</geoID>
+T49	Toponym 9680 9691	Chester Co.
+#13	AnnotatorNotes T49	<latlng>39.97314,-75.74845</latlng><geoID>5184079</geoID>
+T50	Toponym 9693 9698	Penn.
+#14	AnnotatorNotes T50	<latlng>40.27245,-76.90567</latlng><geoID>6254927</geoID>
+T51	Toponym 9818 9820	Ky
+#15	AnnotatorNotes T51	<latlng>38.20042,-84.87762</latlng><geoID>6254925</geoID>
+T52	Toponym 10205 10211	Dayton
+#16	AnnotatorNotes T52	<latlng>39.75895,-84.19161</latlng><geoID>4509884</geoID>
+T53	Toponym 10213 10217	Ohio
+#17	AnnotatorNotes T53	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T54	taxonomicName 10265 10280	Carrier Pigeons
+T55	Toponym 10342 10349	Ireland
+#18	AnnotatorNotes T55	<latlng>53,-8</latlng><geoID>2963597</geoID>
+T56	Toponym 10331 10340	Liinerick
+#19	AnnotatorNotes T56	Misspelling: "Limerick", <latlng>52.6464,-8.63663</latlng><geoID>11611445</geoID>
+T57	Toponym 10381 10386	Paris
+#20	AnnotatorNotes T57	<latlng>48.85341,2.3488</latlng><geoID>2988507</geoID>
+T58	Toponym 10391 10400	New \ ork
+#21	AnnotatorNotes T58	Misspelling: "New York", <latlng>40.71427,-74.00597</latlng><geoID>5128581</geoID>
+T59	CommonName 10424 10430	Hounds
+T60	CommonName 10488 10493	Sheep
+T61	CommonName 10495 10501	Cattle
+T62	CommonName 10507 10513	Horses
+T63	Toponym 10904 10912	Hartford
+#22	AnnotatorNotes T63	<latlng>41.76371,-72.68509</latlng><geoID>4835797</geoID>
+T64	Toponym 10914 10919	Conn.
+#23	AnnotatorNotes T64	<latlng>41.66704,-72.66648</latlng><geoID>4831725</geoID>
+T65	Toponym 11113 11117	Troy
+#24	AnnotatorNotes T65	<latlng>42.72841,-73.69179</latlng><geoID>5141502</geoID>
+T66	Toponym 11119 11123	N. Y
+#25	AnnotatorNotes T66	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T67	Toponym 11429 11440	Springlleld
+#26	AnnotatorNotes T67	Misspelling: "Springfield", <latlng>39.92423,-83.80882</latlng><geoID>4525353</geoID>
+T68	Toponym 11473 11484	Springfield
+#27	AnnotatorNotes T68	<latlng>39.92423,-83.80882</latlng><geoID>4525353</geoID>
+T69	Toponym 11442 11446	Ohio
+#28	AnnotatorNotes T69	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T70	Toponym 11486 11490	Ohio
+#29	AnnotatorNotes T70	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T71	Toponym 11514 11527	^ew Vork City
+#30	AnnotatorNotes T71	Misspelling: "New York City", <latlng>40.71427,-74.00597</latlng><geoID>5128581</geoID>
+T72	CommonName 12925 12931	Cattle
+T73	Toponym 13222 13226	N.Y.
+#31	AnnotatorNotes T73	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T74	Toponym 13252 13263	Connecticut
+#32	AnnotatorNotes T74	<latlng>41.66704,-72.66648</latlng><geoID>4831725</geoID>
+T75	Toponym 13365 13373	Colorado
+#33	AnnotatorNotes T75	<latlng>39.00027,-105.50083</latlng><geoID>5417618</geoID>
+T76	CommonName 13428 13435	Alpacas
+T77	CommonName 13785 13791	Apples
+T78	CommonName 13812 13818	Apples
+T79	CommonName 13999 14008	Artichoke
+T80	CommonName 14026 14035	Artichoke
+T81	CommonName 14151 14156	Apple
+T82	CommonName 14393 14399	Barley
+T83	CommonName 14854 14857	Bee
+T84	CommonName 15004 15007	Bee
+T85	CommonName 15314 15326	Blackberries
+T86	CommonName 16095 16102	Poultry
+T87	CommonName 16205 16210	Grape
+T88	CommonName 16346 16351	Sheep
+T89	CommonName 16580 16585	Swine
+T90	CommonName 16971 16974	Dog
+T91	CommonName 17035 17038	Ant
+T92	CommonName 17039 17044	Lions
+T93	CommonName 17966 17969	Pig
+T94	CommonName 18274 18278	Toad
+T95	CommonName 18575 18589	Buckwheat Bran
+T96	CommonName 18594 18598	Cows
+T97	CommonName 18605 18614	Buckwheat
+T98	CommonName 19242 19249	Cabbage
+T99	CommonName 19263 19270	Cabbage
+T100	CommonName 19306 19318	Cabbage Worm
+T101	CommonName 19340 19351	Canker Worm
+T102	CommonName 19376 19387	Canker Worm
+T103	CommonName 19406 19410	Corn
+T104	CommonName 19505 19513	Carraway
+T105	CommonName 19548 19563	Carrier Pigeons
+T106	CommonName 19585 19592	Carrots
+T107	CommonName 19722 19726	Cats
+T108	Toponym 21617 21625	Colorado
+#34	AnnotatorNotes T108	<latlng>39.00027,-105.50083</latlng><geoID>5417618</geoID>
+T109	Toponym 23729 23743	South Carolina
+#35	AnnotatorNotes T109	<latlng>34.00043,-81.00009</latlng><geoID>4597040</geoID>
+T110	Toponym 23988 23995	Georgia
+#36	AnnotatorNotes T110	<latlng>32.75042,-83.50018</latlng><geoID>4197000</geoID>
+T111	Toponym 24509 24522	New York City
+#37	AnnotatorNotes T111	<latlng>40.71427,-74.00597</latlng><geoID>5128581</geoID>
+T112	Toponym 24614 24622	New York
+#38	AnnotatorNotes T112	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T114	Toponym 26275 26282	Florida
+#40	AnnotatorNotes T114	<latlng>28.75054,-82.5001</latlng><geoID>4155751</geoID>
+T113	Toponym 26306 26314	'ew York
+#39	AnnotatorNotes T113	Misspelling: "New York"<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T115	Toponym 26344 26349	Texas
+#41	AnnotatorNotes T115	<latlng>31.25044,-99.25061</latlng><geoID>4736286</geoID>
+T116	Toponym 26327 26336	St. Louis
+#42	AnnotatorNotes T116	<latlng>38.62727,-90.19789</latlng><geoID>4407066</geoID>
+T117	Toponym 26886 26894	Colorado
+#43	AnnotatorNotes T117	<latlng>39.00027,-105.50083</latlng><geoID>5417618</geoID>
+T118	Toponym 27514 27525	Nova Scotia
+#44	AnnotatorNotes T118	<latlng>45.00015,-62.99865</latlng><geoID>6091530</geoID>
+T119	Toponym 33058 33067	New York,
+#45	AnnotatorNotes T119	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T120	Toponym 33112 33120	New York
+#46	AnnotatorNotes T120	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T121	Toponym 33082 33089	Georgia
+#47	AnnotatorNotes T121	<latlng>32.75042,-83.50018</latlng><geoID>4197000</geoID>
+T122	Toponym 33174 33178	Ohio
+#48	AnnotatorNotes T122	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T123	Toponym 33194 33199;33200 33206	Wis-  consin
+#49	AnnotatorNotes T123	<latlng>44.50024,-90.00041</latlng><geoID>5279468</geoID>
+T124	Toponym 33297 33316	Southern California
+#50	AnnotatorNotes T124	<latlng>34.68743,-116.78467</latlng><geoID>11071615</geoID>
+T125	Toponym 34089 34095	Europe
+#51	AnnotatorNotes T125	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T126	Toponym 34117 34124	Germany
+#52	AnnotatorNotes T126	<latlng>51.5,10.5</latlng><geoID>2921044</geoID>
+T127	Toponym 34342 34348	Kansas
+#53	AnnotatorNotes T127	<latlng>38.50029,-98.50063</latlng><geoID>4273857</geoID>
+T128	Toponym 34755 34764	Wisconsin
+#54	AnnotatorNotes T128	<latlng>44.50024,-90.00041</latlng><geoID>5279468</geoID>
+T129	Toponym 34812 34819	Florida
+#55	AnnotatorNotes T129	<latlng>28.75054,-82.5001</latlng><geoID>4155751</geoID>
+T130	Toponym 34849 34857	Virginia
+#56	AnnotatorNotes T130	<latlng>37.54812,-77.44675</latlng><geoID>6254828</geoID>
+T131	Toponym 37640 37654	North Carolina
+#57	AnnotatorNotes T131	<latlng>35.50069,-80.00032</latlng><geoID>4482348</geoID>
+T132	Toponym 37661 37675	North Carolina
+#58	AnnotatorNotes T132	<latlng>35.50069,-80.00032</latlng><geoID>4482348</geoID>
+T133	Toponym 37826 37834	Maryland
+#59	AnnotatorNotes T133	<latlng>39.00039,-76.74997</latlng><geoID>4361885</geoID>
+T134	Toponym 42577 42589	Pennsvlvania
+#60	AnnotatorNotes T134	<latlng>40.27245,-76.90567</latlng><geoID>6254927</geoID>
+T135	Toponym 45597 45605	Colorado
+#61	AnnotatorNotes T135	<latlng>39.00027,-105.50083</latlng><geoID>5417618</geoID>
+T136	Toponym 53069 53083	Constantinople
+#62	AnnotatorNotes T136	<latlng>41.01384,28.94966</latlng><geoID>745044</geoID>
+T137	Toponym 53169 53174	China
+#63	AnnotatorNotes T137	<latlng>35,105</latlng><geoID>1814991</geoID>
+T138	Toponym 56388 56393	Japan
+#64	AnnotatorNotes T138	<latlng>35.68536,139.75309</latlng><geoID>1861060</geoID>
+T139	Toponym 56757 56764	Vermont
+#65	AnnotatorNotes T139	<latlng>44.00034,-72.74983</latlng><geoID>5242283</geoID>
+T140	Toponym 56778 56786	Virginia
+#66	AnnotatorNotes T140	<latlng>37.54812,-77.44675</latlng><geoID>6254928</geoID>
+T141	Toponym 60661 60669	Kentucky
+#67	AnnotatorNotes T141	<latlng>38.20042,-84.87762</latlng><geoID>6254925</geoID>
+T142	Toponym 61398 61404	Poland
+#68	AnnotatorNotes T142	<latlng>52,20</latlng><geoID>798544</geoID>
+T143	Toponym 61405 61410	China
+#69	AnnotatorNotes T143	<latlng>35,105</latlng><geoID>1814991</geoID>
+T144	Toponym 61823 61828	Japan
+#70	AnnotatorNotes T144	<latlng>35.68536,139.75309</latlng><geoID>1861060</geoID>
+T145	Toponym 66541 66553	Pennsvlvania
+#71	AnnotatorNotes T145	<latlng>40.27245,-76.90567</latlng><geoID>6254927</geoID>
+T146	Toponym 66963 66967	Ohio
+#72	AnnotatorNotes T146	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T147	Toponym 67068 67083	New South Wales
+#73	AnnotatorNotes T147	<latlng>-33,146</latlng><geoID>2155400</geoID>
+T148	Toponym 67191 67203	Philadelphia
+#74	AnnotatorNotes T148	<latlng>39.95233,-75.16379</latlng><geoID>4560349</geoID>
+T149	Toponym 67285 67294	Australia
+#75	AnnotatorNotes T149	<latlng>-25,135</latlng><geoID>2077456</geoID>
+T150	Toponym 67309 67315	Sydney
+#76	AnnotatorNotes T150	<latlng>-33.86778,151.20844</latlng><geoID>6619279</geoID>
+T151	Toponym 68999 69003	Ohio
+#77	AnnotatorNotes T151	<latlng>40.25034,-83.00018</latlng><geoID>5165418</geoID>
+T152	Toponym 69006 69013	Indiana
+#78	AnnotatorNotes T152	<latlng>40.00032,-86.25027</latlng><geoID>4921868</geoID>
+T153	Toponym 72271 72284	United States
+#79	AnnotatorNotes T153	<latlng>39.76,-98.5</latlng><geoID>6252001</geoID>
+T154	Toponym 103442 103448	Europe
+#80	AnnotatorNotes T154	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T155	Toponym 111549 111556	Georgia
+#81	AnnotatorNotes T155	<latlng>32.75042,-83.50018</latlng><geoID>4197000</geoID>
+T156	Toponym 112910 112918	New York
+#82	AnnotatorNotes T156	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T157	Toponym 118689 118695	Canada
+#83	AnnotatorNotes T157	<latlng>60.10867,-113.64258</latlng><geoID>6251999</geoID>
+T158	Toponym 118894 118904	Cincinnati
+#84	AnnotatorNotes T158	<latlng>39.12711,-84.51439</latlng><geoID>4508722</geoID>
+T159	Toponym 118908 118913;118914 118918	Chi-  cago
+#85	AnnotatorNotes T159	<latlng>41.85003,-87.65005</latlng><geoID>4887398</geoID>
+T160	Toponym 120241 120250	Liverpool
+#86	AnnotatorNotes T160	<latlng>53.41058,-2.97794</latlng><geoID>2644210</geoID>
+T161	Toponym 120296 120303	Glasgow
+#87	AnnotatorNotes T161	<latlng>55.86515,-4.25763</latlng><geoID>2648579</geoID>
+T162	Toponym 120318 120324	London
+#88	AnnotatorNotes T162	<latlng>51.50853,-0.12574</latlng><geoID>2643743</geoID>
+T163	Toponym 120370 120376	London
+#89	AnnotatorNotes T163	<latlng>51.50853,-0.12574</latlng><geoID>2643743</geoID>
+T164	Toponym 120337 120346	Liverpool
+#90	AnnotatorNotes T164	<latlng>53.41058,-2.97794</latlng><geoID>2644210</geoID>
+T165	Toponym 120434 120443	Liverpool
+#91	AnnotatorNotes T165	<latlng>53.41058,-2.97794</latlng><geoID>2644210</geoID>
+T166	Toponym 121736 121748	Philadelphia
+#92	AnnotatorNotes T166	<latlng>39.95233,-75.16379</latlng><geoID>4560349</geoID>
+T167	Toponym 129256 129264	Missouri
+#93	AnnotatorNotes T167	<latlng>38.25031,-92.50046</latlng><geoID>4398678</geoID>
+T168	Toponym 131881 131893	Port Ontario
+#94	AnnotatorNotes T168	<latlng>43.56674,-76.18798</latlng><geoID>5132025</geoID>
+T169	Toponym 131895 131900	N. Y.
+#95	AnnotatorNotes T169	<latlng>43.00035,-75.4999</latlng><geoID>5128638</geoID>
+T170	Toponym 132320 132329	Rochester
+#96	AnnotatorNotes T170	<latlng>43.15478,-77.61556</latlng><geoID>5134086</geoID>
+T171	Toponym 132343 132350	Chicago
+#97	AnnotatorNotes T171	<latlng>41.85003,-87.65005</latlng><geoID>4887398</geoID>
