@@ -1,0 +1,590 @@
+no. % 
+
+FLORA OF PERU 
+
+
+
+
+
+BOTANICAL SERIES 
+
+FIELD MUSEUM OF NATURAL HISTORY 
+
+VOLUME XIII, PART IV, NUMBER 2 
+
+NOVEMBER 28, 1958 
+
+
+
+PUBLICATION 861 
+
+
+
+THE LIBRARY OF. THE 
+
+DEC 1 9 1953 
+UNIVERSITY OF ILLINOIS 
+
+
+
+To renew call Telephone Center, 333-840O 
+
+
+
+
+FLORA OF PERU 
+
+
+
+BY 
+
+ROGERS MCVAUGH 
+
+CURATOR OP VASCULAR PLANTS, UNIVERSITY OF MICHIGAN 
+
+
+
+
+BOTANICAL SERIES 
+
+FIELD MUSEUM OF NATURAL HISTORY 
+
+VOLUME XIII, PART IV, NUMBER 2 
+
+NOVEMBER 28, 1958 
+
+PUBLICATION 861 
+
+
+
+Library of Congress Catalog Card Number 36-10426 
+
+
+
+PRINTED IN THE UNITED STATES OF AMERICA 
+BY CHICAGO NATURAL HISTORY MUSEUM PRESS 
+
+
+
+FLORA OF PERU 
+
+
+
+ROGERS MCVAUGH 
+
+MYRTACEAE. Myrtle Family 
+
+Shrubs or trees or rarely subherbaceous. Leaves simple, oppo- 
+site (except in some introduced genera), exstipulate, entire or rarely 
+crenate, punctate with resinous or pellucid glands, usually pinnately 
+veined. Mid vein usually elevated and prominent on the lower sur- 
+face. Principal lateral veins usually uniting distally into a "marginal 
+vein" which extends nearly the length of the blade and more or less 
+parallel to the margin but somewhat separated from it. Flowers 
+borne on axillary (or rarely terminal) branches, solitary or in spe- 
+cialized bracteate inflorescences with opposite branching, these mod- 
+ified in various ways, e.g., by elongation of the axis and reduction of 
+the lateral axes to one flower each ("racemes"); by suppression of 
+the axis and reduction of the lateral axes to one flower each (flowers 
+in "glomerules" or "umbelliform clusters"); by reduction of the 
+lateral axes to one pair, these arising just below the flower which 
+terminates the central axis ("dichasium") ; by potentially indefinite 
+elongation of both central and lateral axes, this resulting in a "pan- 
+icle" with proximal branches elongate and a transition from these 
+to short simple branches and terminal triads of flowers. Flowers 
+regular or essentially so, hermaphrodite or rarely by abortion uni- 
+sexual. Ovary inferior, the hypanthium adnate to the ovary its 
+whole length or prolonged beyond it so that the stamens, petals and 
+calyx-lobes appear to arise from the distal margin of a short tube 
+surrounding the summit of the ovary. Calyx-lobes usually 4 or 5, 
+distinct and imbricate, or the calyx calyptrate and circumscissile, or 
+rupturing irregularly in anthesis. Petals usually 4 or 5 (sometimes 
+reduced in number or size, or wanting). Stamens usually indefi- 
+nitely many, in one-many series about the margin of the usually 
+thickened calycine disk, usually inflexed in the bud. Filaments 
+usually filiform and distinct in Peruvian species. Anthers usually 
+short, versatile or basifixed, bilocular, opening (at least in Peruvian 
+genera) by longitudinal slits. Style simple, elongate, with small 
+capitate or peltate stigma. Ovary 2- to many-locular, the placentae 
+affixed to the axis or parietal and coalesced into a central axis, the 
+ovules 2 or more. Fruit fleshy or capsular. Embryo various. 
+
+569 
+
+
+
+570 FIELD MUSEUM OF NATURAL HISTORY BOTANY, VOL. XIII 
+
+The genera now referred to Myrtaceae were divided by DeCan- 
+dolle among three tribes, namely, Chamaelaucieae (with dry uni- 
+locular and usually indehiscent fruit), Leptospermeae (with dry 
+multilocular and usually dehiscent fruit), and Myrteae (with fleshy 
+multilocular fruit). This system was set forth in detail in the 
+Prodromus 3: 207-288. 1828. Essentially the same arrangement 
+was followed by Bentham, in Benth. & Hook. f. Gen. PI. 1: 690- 
+720. 1865. Niedenzu, in Engler & Prantl, Nattirl. Pflanzenfam. Ill 
+(7): 57-105. 1893, erected two subfamilies; the first, Myrtoideae, 
+comprised the one tribe Myrteae, and the second, Leptospermoi- 
+deae, included the two tribes Leptospermeae and Chamaelaucieae. 
+
+The subfamily Leptospermoideae is especially developed in the 
+Australian region and to a lesser extent elsewhere in the southwest 
+Pacific. The total number of species approaches 1000, including 
+according to some authors nearly 500 species of the vast Australian 
+genus Eucalyptus. The only American member of the subfamily is 
+the endemic Chilean species Tepualia stipularis (Barn.) Griseb. All 
+the native Peruvian Myrtaceae are members of the tribe Myrteae, 
+but several species of Eucalyptus have been introduced for shade and 
+for ornament, and at least one has become widespread. 
+
+Key to the Tribes (Peruvian representatives only) 
+
+Fruit dry, capsular, consisting of the capsule immersed in the hard- 
+ened hypanthium, the valves sometimes projecting beyond the 
+rim of the hypanthium; petals and calyx-lobes united into an 
+operculum which is dehiscent at anthesis; flowers usually in 
+pedunculate axillary umbels; adult leaves glabrous, lanceolate 
+and long-petiolate, and mostly alternate, the juvenile ones often 
+broad, subsessile and more or less opposite. 
+
+Tribe I. Leptospermeae 
+
+Fruit fleshy (a few- or many-seeded "berry") ; petals and calyx-lobes 
+free, or in a few genera united into an operculum; flowers vari- 
+ously arranged, never in pedunculate axillary umbels; leaves 
+opposite, rarely markedly long-petiolate .... Tribe II. Myrteae 
+
+
+
+Tribe I. LEPTOSPERMEAE DC. 
+1. EUCALYPTUS L'Her. 
+
+Glabrous trees or shrubs, the leaves alternate, leathery, usually 
+elongate, lanceolate and 8-12 cm. long or more, markedly petiolate 
+and often hanging vertically; juvenile foliage (of seedlings or shoots 
+
+
+
+FLORA OF PERU 571 
+
+from felled trees) often broad, subsessile and more or less opposite, 
+rarely hairy; flowers usually in pedunculate axillary umbels, some- 
+times forming panicles; bracts and bracteoles deciduous so early as 
+to be seldom seen; ovary usually 3- to 4-locular, immersed in and 
+surrounded by the fleshy hypanthium which hardens in fruit and is 
+prolonged beyond the summit of the ovary into a rim which bears 
+the numerous stamens; petals and calyx-lobes united into an oper- 
+culum which is continuous with the rim of the hypanthium in bud 
+and circumscissile at anthesis; stamens widely spreading in anthesis 
+and forming the showy part of the flower; style about as long as the 
+operculum; ovules and seeds numerous, but only a few in each locule 
+fertile. 
+
+A large and almost exclusively Australian genus at one time sup- 
+posed to include nearly 500 species; some recent authors have sug- 
+gested that the actual number is somewhat smaller. A recent account 
+of the Northern Australian species, by S. T. Blake in Austral. Jour. 
+Bot. 1: 185-352, pi. 1-36. 1953, includes 50 species in this part of the 
+continent; J. M. Black, in Fl. South Austral, ed. 2, 612-632. 1952, 
+lists 52 species. 
+
+Numerous species have been introduced into the tropical and 
+warm-temperate regions of America for ornament, for purposes of 
+reforestation, for wood and for lumber; only the following seems to 
+have been entirely successful. 
+
+Eucalyptus globulus Labill. Voy. 1: 153, t. 13. 1799. 
+
+A large tree, said to reach a height of 75-90 meters, with pale 
+deciduous bark and yellowish green angled branchlets; adult leaves 
+alternate, lanceolate and often falcate to narrowly ovate, 2-3 (-6) 
+cm. wide at base, 12-25 cm. long, (3-) 5-8 times as long as wide, 
+attenuate from base to the slenderly pointed apex, the base often 
+obliquely unequal-sided, abruptly rounded to the flexuous petiole 
+2-4 cm. long; mid vein pale, flat or concave above, convex beneath; 
+leaf-margins bordered by heavy cartilaginous veins about equal to 
+the midvein but compressed at right angles to the plane of the leaf 
+and often standing somewhat above and below it; lateral veins deli- 
+cate and inconspicuous, joining an equally slender and nearly straight 
+submarginal vein just within the cartilaginous border; foliage with 
+numerous small dark glands on both surfaces; juvenile shoots and 
+leaves conspicuously whitened and waxy-glaucous, their leaves oppo- 
+site, sessile, ovate to oblong, cordate, abruptly short-acuminate at 
+tip, 4-5 cm. wide, 7-15 cm. long; flowers large, subsessile, solitary or 
+
+
+
+572 FIELD MUSEUM OF NATURAL HISTORY BOTANY, VOL. XIII 
+
+rarely 3 in an axil, on a massive, broadly 2-angled peduncle up to 
+5 mm. long; buds 1.7-2.5 cm. long, conspicuously whitened by a 
+heavy waxy-farinose coating; hypanthium about 1 cm. long, trun- 
+cate at base, strongly 4-angled, obpyramidal, irregularly and coarsely 
+warty-roughened especially on the angles and the thickened margin; 
+calyptra dome-like, roughened like the hypanthium, usually with a 
+broad knoblike or acute central beak; stamens 1.5 cm. long (the 
+flower when expanded 3-4 cm. across), borne on the inner edge of 
+the disk which projects about 3 mm. beyond the thickened margin 
+of the hypanthium; style 8-10 mm. long; fruit 2-2.5 cm. broad and 
+high, flat-topped or the surface convex, the 4-5 valves not exserted 
+but nearly plane with the surface; seeds 1-3 mm. long, very numer- 
+ous, prismatic, irregularly several-angled. 
+
+A native originally of Victoria, New South Wales, and Tasmania, 
+this species is now extensively planted and naturalized from Cali- 
+fornia to Argentina and Chile, especially in high semi-arid regions; 
+it is a valuable timber tree of rapid growth, and now forms a charac- 
+teristic feature of the landscape in many parts of Latin America. 
+According to Acosta Solis, "El eucalipto en el Ecuador," in Flora 
+(Quito) 15-16: 149-194. 1945, E. globulus was introduced into Ecua- 
+dor in 1865 and has become a valuable resource in the inter-Andine 
+region of that country. It has likewise become abundant in Peru, 
+as in Cuzco, where, according to Herrera in Contr. Fl. Depto. Cuzco, 
+ed. 2, 148-149. 1921, it was introduced about 1880 and subsequently 
+became general in all the provinces of that Department. 
+
+Amazonas: Chachapoyas, 2,700 meters, Williams 7562. Junin: 
+Tarma, 3,000-3,200 meters, Killip & Smith 21870. "Eucalipto." 
+
+Another species, Eucalyptus camaldulensis Dehnh., Cat. PI. Hort. 
+Camald. ed. 2: 20. 1832 (E. rostrata Schlecht., 1847, non Cav., 1797), 
+has been collected near Yucay, Cuzco, by Soukup (no. 840). The 
+inflorescence is a 6- to 10-flowered axillary umbel, on a peduncle 1-2 
+(-3) cm. long, the pedicels 3-8 mm. long; buds ovoid, 5-10 mm. long, 
+the calyptra longer than the base (up to 3 times as long), abruptly 
+narrowed to a stout straight beak 1-6 mm. long; fruit nearly hemi- 
+spheric, 4-6 mm. high, 5-8 mm. broad, the 3-4 deltoid or narrowly 
+pointed valves projecting 1.5-3 mm. beyond the equator. 
+
+Tribe II. MYRTEAE DC. 
+
+Classification of the subtribes of the Myrteae has been based 
+principally upon characters of the mature embryo. Such a classifi- 
+
+
+
+
+
+
+FLORA OF PERU 573 
+
+cation appears to be in the main a natural one, but practically it 
+presents many difficulties. Members of this family are usually col- 
+lected when in flower, at a time when it is impossible to ascertain the 
+structure of the embryo. Flowers and fruits are rarely found on the 
+same plant at the same time, so that any usable system of classifi- 
+cation must utilize characters of flower and inflorescence in addition 
+to those which may be found in the mature fruit. The subtribes 
+accepted in the present treatment are those proposed by Berg, and 
+the arrangement of genera follows in the main that of his "Revisio 
+Myrtacearum Americae," in Linnaea 27: 1-472. 1855-56. The sub- 
+tribes are characterized as follows: 
+
+1. Subtribe Myrciinae Berg. Cotyledons foliaceous, contortu- 
+plicate. Radicle elongate. 
+
+2. Subtribe Eugeniinae Berg. Cotyledons fleshy, distinct, or 
+somewhat or completely fused, or conferruminate; radicle very short. 
+
+3. Subtribe Pimentinae Berg. Embryo spiral, subspiral or un- 
+cinate-curved. Radicle elongate; cotyledons very short. 
+
+Key to Flowering Material 
+
+Inflorescence compound, usually many-flowered (flowers often 30- 
+200 or more), with branches compound and opposite near the 
+base of the panicle, becoming irregularly ternate or solitary near 
+tips; calyx-lobes, if developed, usually 5; bracts and bracteoles 
+usually deciduous at anthesis or before. 
+
+Calyx-lobes evident in bud and in anthesis, usually with thin dis- 
+tal and lateral margins which are imbricate or at least con- 
+tiguous at base; central axis of the inflorescence well developed 
+and about as long as the primary lateral branches .... Myrcia 
+
+Calyx closed in bud or merely the tips of the lobes free, either cir- 
+cumscissile or splitting irregularly between the lobes; central 
+axis of the inflorescence often aborted at the node where the 
+lowest lateral branches emerge, and the panicle as a whole 
+seeming to consist of two nearly equal parts. 
+
+Calyx closed in bud, calyptrate, circumscissile; petals minute or 
+often wanting; malpighiaceous hairs often present and con- 
+spicuous; bracts mostly deciduous Calyptranthes 
+
+Calyx closed in bud or the tips of the lobes free, the buds open- 
+ing by irregular longitudinal splitting between the calyx- 
+lobes nearly or quite to the summit of the ovary; petals 
+
+
+
+574 FIELD MUSEUM OF NATURAL HISTORY BOTANY, VOL. XIII 
+
+small, usually present; malpighiaceous hairs usually not 
+
+apparent; bracts sometimes persistent Marlierea 
+
+Inflorescence not as above, 1- to several-flowered (flowers rarely as 
+many as 30), racemose, regularly dichotomous or the flowers 
+solitary, sub-umbellate or glomerate; calyx various, the lobes 
+usually 4 and distinct if the flowers are more than 7; bracteoles 
+often persistent. 
+
+Cymes lateral on old wood, thrice dichotomous, 2-3 cm. long, with 
+persistent paired bracts and a central sessile flower in each 
+fork; calyx-lobes 4; flowers red; stamens 4-8, 1.5-2 cm. long. 
+
+Myrrhinium 
+
+Inflorescence racemose or dichasially branched, or the flowers 
+glomerate or solitary; cymes, if occasionally twice or thrice 
+dichotomous, irregularly branched and in leaf-axils near the 
+tips of twigs; flowers mostly white or cream-color, rarely pink 
+or red; stamens usually shorter and far more numerous. 
+
+Calyx closed or essentially so in the bud, opening at anthesis by 
+irregular longitudinal slits. 
+
+Flowers about 4, nearly sessile, glomerate (in a much abbrevi- 
+ated raceme), the clusters appearing involucrate because 
+of the relatively large persistent bracts; calyx-lobes 4; 
+ovary bilocular, the locules 2-ovulate Plinia 
+
+Flowers 1, or 3-7 in a dichasium, pedicellate or the dichasia 
+pedunculate, not involucrate; calyx-segments usually 5; 
+ovary 2- to 7-locular, the locules many-ovulate . . Psidium 
+
+Calyx-lobes normally developed even in the bud, the calyx at 
+anthesis not or scarcely splitting beyond the bases of the 
+lobes. 
+
+Calyx-lobes 5. 
+
+Small or prostrate shrubs or subshrubs with coriaceous vac- 
+cinioid leaves 1-2 cm. long or less; flowers solitary; 
+bracteoles foliaceous and persistent; Andean paramos. 
+
+Anthers sagittate, the connective dilated Ugni 
+
+Anthers oblong or subrotund, not sagittate, the filaments 
+
+filiform Myrteola 
+
+Shrubs or trees with larger leaves; flowers solitary or in 
+small dichasia; bracteoles deciduous; middle and low 
+elevations. 
+
+
+
+FLORA OF PERU 575 
+
+Leaves coriaceous, subsessile, suborbicular, 1.5-7.5 cm. 
+long and wide; dichasium stout, 3- to 7-flowered; 
+Lima, on Pacific slopes .... Myrcianthes. quinqueloba 
+
+Leaves membranaceous or chartaceous, petiolate or elon- 
+gate or both, 1.5-3.5 times as long as wide; flowers 
+solitary or in slender 3 (-7) -flowered dichasia; culti- 
+vated and escaped, otherwise mostly Amazonian 
+lowland. 
+
+Flowers usually 4, in two decussate pairs at the lowest 
+nodes of an axillary branch; calyx-lobes broadly 
+rounded, 3-6 mm. long, spreading after anthesis; 
+mature petioles 10-15 mm. long; 3-4 lowest pairs 
+of veins in the leaf closely grouped, the succeeding 
+ones increasingly distant Campomanesia 
+
+Flowers 1-7 in an axil; calyx-lobes, if developed, 3 mm. 
+long or less (in one species with narrow terminal 
+appendages 6-14 mm. long); mature petioles 10 
+mm. long or usually less; veins of leaf uniformly 
+spaced, the lower ones not markedly aggregated. 
+
+Psidium 
+Calyx-lobes 4. 
+
+Stamens 25-50, the filaments 15-22 mm. long, red; style 
+15-22 mm. long, about three times as long as the 
+
+petals; plants heavily villose or tomentose Acca 
+
+Stamens much more numerous, or much shorter, or white; 
+style rarely more than 15 mm. long (usually much 
+less), usually less than twice as long as the petals; 
+plants various. 
+
+Inflorescence a raceme, the flowers in opposite decussate 
+bracteate pairs; central axis of raceme abortive at 
+tip (the terminal flower wanting) and the axis often 
+so much abbreviated that the flowers appear glom- 
+erate or umbellate. 
+
+Calyx-tube much prolonged above the ovary, circum- 
+scissile at base after anthesis; flowers usually 4, 
+small (buds in our species 5 mm. long or less) and 
+nearly sessile, with conspicuous paired persistent 
+involucre-like bracteoles; ovules 2 or 4 in each 
+locule Myrciaria 
+
+
+
+576 FIELD MUSEUM OF NATURAL HISTORY BOTANY, VOL. XIII 
+
+Calyx-tube little or not at all prolonged, not circum- 
+scissile, persistent with the lobes in flower and 
+fruit; inflorescence various; ovules 2 or many. 
+Flowers glomerate (in clusters of about 4-6), mostly 
+pubescent, medium-sized (buds in ours 5-12 
+mm. long), the clusters appearing involucrate 
+because of the relatively large persistent bracts; 
+calyx in the bud very shortly 4-lobed at sum- 
+mit, and later splitting irregularly; ovules 2. 
+
+Plinia 
+
+Flowers glomerate to racemose, not involucrate; 
+calyx-lobes free their whole length, or loosely 
+coherent at base; ovules mostly numerous. 
+
+Eugenia 
+
+Flowers solitary or in simple or compound dichasia, the 
+primary axis of the inflorescence if once-forked with 
+a sessile or nearly sessile flower in the fork. 
+Small or prostrate shrubs or subshrubs with coriaceous 
+vaccinioid leaves 1 cm. long or less; flower soli- 
+tary; bracteoles foliaceous, persistent; paramos in 
+
+the Andes Myrteola 
+
+Shrubs or trees with larger leaves; flowers various; 
+
+middle and low elevations. 
+
+Flowers 3-7, in a dichasium; calyx-lobes 1.5 mm. 
+long, ciliate, deciduous at anthesis with the 
+bracts and bracteoles; southern Ecuador. 
+
+Blepharocalyx salicifolius 
+Inflorescence various; calyx-lobes not ciliate and 
+
+deciduous. 
+
+[Stigma peltate?; placentation parietal, the pla- 
+centae introrse, bilamellate?] ; flowers 1 or 3, 
+large, long-pedunculate, the calyx-lobes 7-9 
+mm. long; Amazonian lowlands. .Psidium sp. 
+Stigma small and simple, hardly broader than the 
+style; placentae simple, axillary; flowers and 
+inflorescence various. 
+
+Flowers, if more than one, in simple or com- 
+pound dichasia; if solitary only, then oc- 
+curring in many or most of the mature leaf- 
+axils, not confined to the basal nodes of a 
+new branch Myrcianthes 
+
+
+
+FLORA OF PERU 577 
+
+Flowers, if more than one, in elongate or 
+much abbreviated racemes; if solitary only, 
+then mostly confined to the 1-2 lowest 
+nodes of a new branch, and often in the 
+axils of much reduced bracts Eugenia 
+
+Key to Fruiting Material 
+
+Cotyledons foliaceous, contortuplicate; radicle elongate; testa mostly 
+membranaceous, fragile; calyx-lobes, if present, usually 5; in- 
+florescence compound, usually many-flowered, with branches 
+opposite near base and irregularly ternate or solitary near tips; 
+bracts and bracteoles rarely present (i.e., deciduous about the 
+time of anthesis). 
+
+Calyx-lobes normally developed and present on the fruit, their 
+basal margins contiguous; central axis of the inflorescence 
+well developed and about as long as the primary lateral 
+branches Myrcia 
+
+Calyx wanting (the tip of the fruit umbilicate) or represented by 
+a shrunken calyptra attached at one side, or the calyx longi- 
+tudinally ruptured below the base of the lobes and the latter 
+irregularly margined proximally in fruit; central axis of the 
+inflorescence often aborted at the node where the lowest lat- 
+eral branches emerge. 
+
+Calyx closed in bud, calyptrate, circumscissile, the calyptra 
+sometimes persistent in fruit or, if deciduous, the fruit um- 
+bilicate; [malpighiaceous hairs often present and conspic- 
+uous; bracts mostly deciduous] Calyptranthes 
+
+Calyx closed in bud or the tips of the lobes free; lobes at ma- 
+turity separated by irregular longitudinal ruptures extend- 
+ing nearly or quite to the summit of the ovary; fruit 
+crowned by the unevenly margined (usually 5) often re- 
+flexed lobes, or these irregularly deciduous; [malpighiaceous 
+hairs usually not apparent; bracts of the inflorescence often 
+persistent on the branches after the flowers fall] . . Marlierea 
+Cotyledons not as above, but small and fleshy, or large and plano- 
+convex, or the embryo undivided; inflorescence 1- to several- 
+flowered (flowers rarely more than 30), not branched as above; 
+calyx-lobes usually 4 and distinct if the flowers are more than 7; 
+bracteoles often persistent. 
+
+
+
+578 FIELD MUSEUM OF NATURAL HISTORY BOTANY, VOL. XIII 
+
+Cymes lateral on old wood, thrice dichotomous, 2-3 cm. long, with 
+persistent paired bracts and a central sessile flower in each 
+fork; calyx-lobes 4; embryo arcuate, the cotyledons hardly 
+distinct, the testa hard, bony Myrrhinium 
+
+Inflorescence racemose or apparently the flowers glomerate, or 
+dichasially branched, or the flowers solitary; cymes, if occa- 
+sionally twice or thrice dichotomous, terminal and irregular. 
+
+Inflorescence a raceme, the flowers in opposite decussate brac- 
+teate pairs; central axis of raceme abortive at tip (the 
+terminal flower wanting) and the axis itself often so much 
+abbreviated that the flowers appear glomerate or umbel- 
+late in the axils; calyx-lobes usually 4. 
+
+Seeds small, numerous, with curved embryo, long radicle and 
+short cotyledons of Subtribe Pimentinae Acca 
+
+Seeds few, one or two filling the entire fruit; embryo undi- 
+vided or the cotyledons large, free, plano-convex. 
+
+Cotyledons free, plano-convex; flowers glomerate, mostly 
+pubescent, the clusters appearing involucrate because 
+of the relatively large persistent bracts; calyx splitting 
+irregularly longitudinally, the lobes persistent . . Plinia 
+
+Embryo undivided or the cotyledons partly separated; 
+flowers, if glomerate, not involucrate; calyx various, 
+if closed in bud then not splitting irregularly. 
+
+Calyx-tube prolonged above the ovary, circumscissile at 
+base after anthesis and leaving a circular scar on the 
+fruit; flowers small and nearly sessile, usually 4. 
+
+Myrciaria 
+
+Calyx-tube not circumscissile, scarcely or not at all pro- 
+longed, the lobes persistent; flowers glomerate or in 
+racemes Eugenia 
+
+Flowers solitary or in simple or compound dichasia, the primary 
+axis of the inflorescence if once-forked with a sessile or 
+nearly sessile flower in the fork; calyx-lobes 4 or 5, or the 
+calyx irregularly longitudinally dehiscent. 
+
+Seeds one or two; embryo undivided or the cotyledons plano- 
+convex and distinct, longer than the radicle; testa thin; 
+calyx-lobes 4, usually distinct and persistent. 
+Embryo undivided; flowers solitary, or racemose in some 
+axils Eugenia 
