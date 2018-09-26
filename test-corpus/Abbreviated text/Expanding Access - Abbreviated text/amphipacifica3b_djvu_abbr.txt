@@ -1,0 +1,1557 @@
+
+AMPHIPACIFICA 
+
+
+JoiunaJ of Aquatic Systematic Biology' 
+
+
+Volume 3 
+
+
+Number 3 
+
+
+Contents 
+
+
+Nov- 15, 2m 
+
+
+The tahlroidcan amphjpod genus Hyale Rathke, 1837, sens, str iji the 
+North Atlantic and Mediterranean regions. 
+
+
+L Krapp'Schickel & E. L. Bousfield 
+
+
+Corrections; to Amphipacitica.Volmnc 3, Numbers 1 & 2 15 
+
+
+Feature Article 
+
+
+The taJitioideaii amphipod family Hyalidae revised, with emphasis 
+on the North Pacific fauna: systemalics and distributional ecology. 
+
+
+E. L. Bousfield & E. A. Ilendrycks 17 
+
+
+National Library of Canada 
+
+
+ISSN No. 1189-9905 
+
+
+
+
+AMPHIPACIFICA is an international jour- 
+nal of aquatic systematic bio logy aimed primarily 
+at publication of monograpliEC studies that are 
+overiy large (25-50^ printed pages) for traditional 
+taxonomic Journals. The journal has featured 
+studies on crustaceans of the faunistically rich and 
+palaeobiologically ancient North American Pa* 
+ciffc coastal marine regiorn However, the geo- 
+graphic scope extends to other marine regions, and 
+to adjacent fresh watersK Faunisticallyt it encom- 
+passes other free living and parasitic invertebrate 
+taxa, and aspects of aquatic vertebrate animals that 
+may involve systematics, ecology and behaviour. 
+
+AMPHIPACIFICA is scheduled to appear 
+approximately quarterly, with a run of 250-300 
+copies per issue* each of about 125 pages, and a 
+total volEime pagination of approximately 500. 
+The printed page size is 8.5 X II inches (22 X 27.5 
+cm). Paper quality accomiriodates line cuts and 
+halftones at300-6(KI d.p.i., and a limited number 
+of colour plates at author cost, Manuscripts are to 
+be submitted in “camera-ready"' computerized for- 
+mat (IBM- or M AC-compatible diskettes), and 
+also in hard copy, that have previously been ref- 
+ereed (name to be supplied) and text-edited at the 
+author's instigation. Suitability of manuscripts, 
+based on content and adherence to submission 
+regulations, will be decided by the Advisory Board 
+of the journal. 
+
+The cost of printing and mailing of each issue 
+is defrayed by institutional and Individual sub- 
+scri ptions to the Journal of S5() (CAN) or $40 (US) 
+per volume, and by page charges to the authors of 
+$25.00 per primed page (including line illustra- 
+tions). For other instructions and a subscription 
+form, please see the inside back cover. Further 
+information may be supplied On request 
+
+AMPHIPACIFICA is published by Amphi- 
+pacitlca Research Publications under the Ontario 
+Business Program License No. 1(X)0 13820. Janu* 
+ary. 2000. 
+
+
+Editorial Board. 
+
+Dr. E. L. Bousfield, Managing Editor, Ottawa, 
+Dr. D. G. Cook, Technical Editor, Greely, ON. 
+
+Advisory Board. 
+
+D. R. Calder. Royal Ontario .Museum, Toronto, ON, 
+Canada. 
+
+F. R. Couk, North Augusta, ON, Canada. 
+
+C. Q. Gmchy. North Gower, ON, Canada. 
+
+P, H. Lc Blond, Gallano I.. BC, Canada. 
+
+Z. Kabata, Nanaimo, BC, Canada. 
+
+G. G. E. Scudder, University of British Columbia 
+
+Vancouver, BC, Canada. 
+
+C--L Shih, Taiwan Fisheries Research InstiuLc, 
+Keelung, Taiwan; Canadian Museum of Nature, 
+Otmsva, ON, Canada. 
+
+C. P. Slaude* Friday Harbor Laboratories, Friday 
+Harbor, WA, USA. 
+
+TransLution Services, 
+
+M. A. Bousfield, MSc, Wolfe Island, ON, Canada. 
+Sponsoring Agencies. 
+
+Canadian Musetimof Nature, Ottawa, ON, Canada; 
+Friday Harbor Laboratories, University of Wash- 
+ington, Friday Harbor, WA. 
+
+Royal British Columbia Museum, Victoria, BC, 
+Royal Ontario Museum, Toronto, ON, Canada, 
+
+OfFices. 
+
+(IJ Subscriptions and Correspondence: Dr. E, L. 
+Bousfield, Managing Editor, Ottawa, ON, K2B 8E3. 
+12) Mailing: Canadian Museum of Nature, Research 
+Division, Ottawa, ON, Canada, K I P 6P4. 
+
+Registration. 
+
+The journal AMPHIPACIFICA is registered at the 
+National Library of Canada. Legal Deposit Office, 395 
+Wellington St.. Ottawa, Canada, as ISSN Number 
+1189-9905, 
+
+Printing. Him Printing Incorporated, 2 SO Albert St., 
+Ottawa, ON. Canada. 
+
+
+POSTMASTER: Please send changes of address to: Amphipacifica, att: Dr, E. L. Bousfield, 
+Managing Editor, 1710- 1275 Richmond Rd., Ottawa, ON, Canada K2B 8E3, 
+
+
+AMPHIPACIFICA 
+
+
+JOURNAL OF AQ,UATIC SYSTEMATIC BIOLOGY 
+
+
+Volume 3, Number 3 
+Nov. 15, 2002 
+
+
+AMPHIPACIFICA, Journal of Aquatic Systematic Biology (ISSN No. 1 189'9905) is published 
+quarterly by Amphipacifica Research Publications, 1710-1275 Richmond Rd.,Od:awa, Ontario.^ 
+Canada, K2B 8E3. Annual subscription rates are $40, US or $50. Canadian funds. 
+
+
+DEDICATION 
+
+
+The Journal AMPHIPACIFTCA is dedicated to the promotion of systematic biology and 
+to the conservation of Earth’s natural resources* 
+
+
+This issue is dedicated to the memory of W. E. Ricker 190R - 2001 
+distinguished Canadian tnologistand fisheries scientist. 
+
+
+Cover design: Adapted from the title page of S. J. Holmes ( 1 904)* “Amp hi pod 
+
+Crustaceans of the Expedition.” 
+
+Karri man Alaska Expedition, pages 233-244* 
+
+
+AMPHIPAGHCA VOL 3 No. X Nov, \5. 2002 
+
+
+I 
+
+
+THE TALITROIDEAN AMPHIPCTO GENUS fO'ALF RATHKE, 1837, SENS. STR. 
+IN THE NORTH ATLANTIC AND MEDITERRANEAN REGIONS 
+
+T Krapp-Schiokel ^ & E. L. tioiisfield^ 
+
+
+^ES^^tAC^ 
+
+The gejius iiyale Ralhkc, is here resirielcd lo aqiiatSc, nnn-salMlori hyalid amphipod species of the North 
+Atlantic and .Vlcditemtnean regions, Hyaie pontka Rathke, 1837 ft>pe species) and //. htbbcfckiami Bate, I8."i7 are 
+redescribed and M michelim n, sp. (Saniiiriia) and fiyale specces (Bcrmada) ant: newly described. This conn pies, of 
+species is diistingulshed by unique features of gnathopod i tmalej and preamplexing notch of peracon segment 2 
+ffemale), pttsterior marginal cusps of coxae 2 (Sl 3, and a strong striated ciasping spine disia]1> on the propod of 
+peraeopods 3-7. 
+
+
+Introduction 
+
+During the course of study of hyalid amphipods of 
+the North American Fadfic coast. Bousficid & 
+Hendry cks (2002) encaunlercd a number of characters 
+and character states on the basis of which generic 
+subdivision of Hyaie Raihket scns. iat. ) seemed ad vis - 
+ab] e. Some of these had not hi the rto bs?en treated i n the 
+generic type species Hyaie pom lea Rathke, 1837. As 
+material of the type .species w as not avalEable to them, 
+E, L, Bousfield contacted the first author of the present 
+paper who had recendy published comprehensively on 
+the Medi ternmean hyaiid fauna and was able to re- 
+examine extensive collections of H. paniica and simi- 
+lar species 1 n the m useum at Y erona, Ital y , and els w here , 
+7 hese species were soon discovered to form a closely 
+related clade, very distincl from other assemblages 
+(e.g„ ''grandicornis'' group) within the generic com- 
+plex tiyate Rathke ( sens, lat. ). Since members of this 
+complex are apparently confined to the North Atlantic 
+and Mediterranean regions, and enrirdy cxtralimital to 
+the North PaciEc, a separate publication for this group 
+was deemed advisable. 
+
+The type species Hyate pomlea Raihke, 3 837, was 
+described origi nally from the coast of the Krym (Crim- 
+ean) peninsula, Black Sea. Since that time, workers 
+who found a 2/>Yi/e-Jike animal with characterise call j 
+strong, robust, striated spine on the distal end of per- 
+aeopodai propods, were convinced they were dealing 
+with this same species, be it from the Mediterranean or 
+the eastern North Atlantic Ocean. As in many other 
+similar cases, a striking and ea.sily visible character 
+often leads to a quick identifl cation, without careful 
+further examination and, in a second step, to being 
+I abel led as a "cosnwpol i tan " s peci es. A second species 
+of this group had been been descril>edfrom the British 
+
+
+of the "cosmopolitan syndrome”, this species fiad been 
+sy nonymized with Hyale pontica Rathke by many sub- 
+sequent workers (e.g., Slcbbing 1906; Chevreux & 
+Fage 1925;Gurjanova 1951 ; Bulycheva 1957; Lincoln 
+1979; Barnard & Karaman 1991; and Krapp-Schickd 
+1993). G.O. Sars (1890) was a notable exception, 
+maintaining separate identity of 7/. iuhbockkma based 
+on material from Norxvay. Further taxonomic dispari- 
+ties w ere more recently noted in material at hand from 
+the Mediterranean region and Bermuda, 
+
+The purpose of this study is to unravel the true 
+identity of the various s|3ecies within the Hyak pomica 
+complex, and describe new forms, based on character 
+states both newly discovered and previously utilized. 
+HyaJid amphipod collections in the Verona Museum 
+contain a beautiful mating pair of animals from the 
+Bosphonis {entrance to the Black Sea). Thus, character 
+states of the true Hyale pomica Rathke could be estab- 
+lished and differences with other material worked out. 
+
+Ackno w led grnenu 
+
+The authors are grateful to: Wim Vader and col- 
+leagues at the Tr 0 mso Museum who checked fresh 
+material of Hyale lubbockiana from Norwegian shore 
+localities; Eric Laso-Wasem, Vale Peabody Museum, 
+and Kathryn T'oates, Bermuda Biotegieal Station, ftn- 
+assisting in identification of B. M. KunkePs original 
+material of 'Hyale pomka" ( 1 910); and Aldo Michel in 
+for many years of collabcimtion at the MuseoCivjcodi 
+Sloria Natural e Verona. Sandro Ruffo generously 
+provided laboratory' facililes for part of the work, and 
+gave his knowledgeable encouragement to the study. 
+We sincerely thank Ed Hendrycks and Judith Price, 
+Canadian LMuseum of Nature, and research assistant 
+Pierre Mancoux, for their help in preparing, catalogu- 
+ing, and illustrating some of the material. Floy E. 
+
+
+hies as Gaianilm hibb<K kiunu by Bate, 1 856. Because 
+
+L Museum A. Koenigs A dvnaueml lee 160, D-53 1 13 Bonn, German) , 
+
+2. Resliareh assix^iate. Royal Ontario Museum, Toronto, ON, Canada M5S 2C6. 
+
+
+AMPHIPACIFICA VOL 3 No. 3. Nov. 15, 2002 2 
+
+Zitten, Cupertino, California, assisted with illustration 
+of material from Bermuda. Marjorie BousfieW, Wolfe 
+[si and, ON, provided translations of the Russian litera- 
+ture. 
+
+
+Methods 
+
+Abbreviatioris of Agency collections used: 
+CMN - Canadian Museum of Nature. Ottawa 
+MSNV - Verona Museum, Italy 
+ROM - Royal Ontario Mu-seum, Toronto 
+Y PM -Yale Peabody Museum, New Haven , CO, 
+
+
+Abbreviations used in the text: 
+AC2 - antennae C 2 
+
+8R SET - brOKXl seta 
+
+
+CL 
+
+EPI-3 - 
+FLAG - 
+GDN - 
+GN 1,2 - 
+
+HD 
+
+IP 
+
+LFT 
+
+[X 
+
+MD 
+
+MXI,2 - 
+MXPD - 
+OP 
+
+P-AMP - 
+
+NTCH 
+
+P3-7 - 
+
+PLP 
+
+RT 
+
+SP 
+
+UI-3 - 
+UL 
+
+UROS - 
+
+
+clasping 
+
+epimeral plates 1,2,3 
+flagellum 
+
+guiding 
+
+gnathopods 1 , 2 
+head 
+
+inner plate 
+left 
+
+lower lip 
+mandible 
+maxillae 
+maxilliped 
+outer plate 
+
+preamplexing notch on peraeon 2 
+
+peraeopods 
+
+palp 
+
+righl 
+
+spine 
+
+uropods 1,2,3 
+upper lip 
+
+urosome 
+
+
+T - tel son 
+
+
+Systeinatics: 
+
+Rathke (1837) established the genus Hya/e after 
+having described his type species H. ponftca from the 
+Black Sea. Shortly afterwards. Bate ( 1 857) described, 
+under several different generic names, a similar spe- 
+cies, from the British Isles. It seems that 
+
+Stebbing must have seen material of liMoc^iana and 
+thought it Identical with ffya/e pcmliCci Rathke as well 
+as W. iublfockiartij Bale. He synonymized them, 
+keeping the older name of course. In 1893 Della Valle 
+offered draw ings of and "pomka’', but 
+
+he mixed material of nilssa/ti as well as MicropyMa 
+
+
+ranna/a, and the drawings are not pertinent to the 
+Atlantic species f/. /Mochtuia. 
+
+In 1 906 Stebbi n g redescri bed the femal e of ' r/W', 
+Chevreux& Page (1925) cite*‘pOrtifcfl"'from the Atlan- 
+tic and from the Mediterranean coast of France, in a 
+paper on Mediterranean (Marseilles) species of 
+Giovaniiini (1965) prov ided detailed drawings (the text 
+has some errors) of ?p(vikca that may be the most 
+clearly executed until now. Mateus & Mateus (1966) 
+stressed the necessity of a revision of all genera of 
+families HyaJidae and Hyalellidae before the abundant 
+material of the Calypso expedition could be worked up. 
+Thus, in Lincoln's ( 1 979) figures of'poitr/ca'" from the 
+British Islands, palmar corners are very weak in 
+gnathopods 1 , 2 ( 9 ) and peraeopods, while there is a 
+clear comer in those of Chevreux & Page's table (C? 
+6mm). FinalEy, Krapp-Schickel (1993) fully treated 
+material ofpori/ica from the Mediterranean Sea, 
+
+
+Family Hyalidae Bulycheva 1957, revised Bousfleld 
+& Hendrycks 2002 
+
+Subfamily Hyalinae Bousfleld St Hendrycks, 2002 
+Hyak Rathke sens. str. 
+
+Rathke, 1837: 377, 
+
+My^jk (part): Stebbing 1906: 559;— Chevreux & Page 
+1925: 280; -Gurjanova 195 L 8 16;- Bulycheva 1957: 
+83; — Lincoln 1979; 230;— Krapp-Schickel 1993: 
+728;— Barnard & Karaman 1991: 367, 
+nun A'Vcca Nicolet 1 849 (type species V. /wcuii NieJ 
+
+Type species: Wvu/c pofikea Rathke, 1837, present de- 
+signation. 
+
+Species: poftr/ca Rathke, 1 837 (p, 3); 
+
+boc/ckjmi Bate, 1856 (p, 6);//. fnic/ie/kii n. sp. (p. 9); 
+f/ya/e species (Bermuda) (p. 1 I ). 
+
+Diagnosis: Body smooth, or segments weakly imbri- 
+cated or weakly mid -dorsal ly carinate. Rostrum incon- 
+spicuous; anterior head lobe subtiuncate. Eye subovate. 
+Antennae short, slender, subequal. Antenna I, ped- 
+uncular segment 2 > segment 3. Antenna 2. peduncle 
+not incrassate: flageflum not elongate. 
+
+U pper and 1 ower I i ps regul ar, M andi bl e, Left laci n ia 
+5-51/2 dentate, spine row with 3-5 blades. Maxilla I , 
+palp I -segmented; outer plate, apical spine -teeth tall. 
+Maxiiliped, inner plate tail; palp noonal, segment 3 
+short, medium thick; dactyl .small, not falcate, unguis 
+regular to elongate. 
+
+
+AMPHIPACIHCA VOL 3 No. Nov. 15, 2003 
+
+
+3 
+
+
+Coxae 2 and 3 wEth promineiu fjharp posterior mar- 
+ginal cusp, lacking in coxae 1 and 4. Coxa 5 markedly 
+anterolobate; 6 7 posterolobate. Coxal gilts me- 
+
+dium. rounded, sac-like, largest on peraeopod 5. 
+
+Onathopods sexually dimorphic. GnathopcxJ I (C?), 
+propodal palm short, variously overhung by simple 
+dactyl; carpal lobe narrow; propod with mediofacial 
+guiding (bracing) spine; dactyl simple. Gnathopod 2 
+(cf), basis with strong ante rod istal lobe (= hydrody- 
+namic lobe of Bousfteld & Kendrycks 2003); carpal 
+lobe lacking; propid large, narrowing distal Jy, palm 
+with slight hinge tooth. 
+
+Peraeopods short, stout; bases expanded, posterior 
+margins crenulate, hind margins of t>eraeopods 5 and 6 
+with weak surge seta and notch. Peraeopod 5, segment 
+4 short, broad; segment 5 often short; segment 6 with 
+single large striated subierminal anierodistal clasping 
+(locking) spine, and 1-2 small accessory spines; dactyl 
+large, smooth, anterior marginal seta small. 
+
+Epi meral plates I -3 regular. 3 not produced, Pleopods 
+regular, natatory. Uropods I and 3, peduncle and raini 
+short, thick. Uropod I , disud peduncular spines short, 
+un special! zed; rami with medium apical and marginal 
+spines. LIropod 3 short thick, uni famous; ramus 
+shorter than peduncle, with apical spines only. 
+
+Tel son brcsad. lobes slightly longer than broad, mar- 
+gins weakly setose. 
+
+Female: Gnathopods normal, subsimilar; carpal lobes 
+shallow. Gnathopod 2 the larger; basis with stronger 
+hydrodynamic lobe. Brood plates broadly subovate. 
+apices rounded: marginal setae medium-long, hook- 
+ti pped . Peraeon 2, pream pi exi ng notch large, rectan - 
+gular, lacking unguisial grcjove, with small locking slit 
+above anterior margin of notch. 
+
+DJstribution<il Ecology: Open surf coasts of the Medt* 
+
+
+eluding Great Britain, and Norway, also Bermuda; 
+clinging to algae and other substrata at I.W level and 
+subtidally to 50 m. 
+
+Remarks: Species of Hyak sens, str, differ markedly 
+from those of (Bousfield &. Hendry cks, 2002) 
+
+in being mainly aquatic and subtidal. They occur 
+mostly in strongly lotic waters of open surf coasts, and 
+saltate (hop) in air weakly or not at all (see Sars 1 890), 
+Mature females of Hyak possess regularly rounded 
+brood plates with longish marginal hooked setae, 
+whereas those Apohyale have very broad, a pi cal ly 
+acute brood plates with nun^rous short marginal hook- 
+tipj>ed setae. 
+
+Species of Hyak are apparently uniquely adapted to 
+a lifestyle in strongly lotic waters such as the surt zone 
+of open coasts. Thus, the lip of the large propodal 
+median facial guiding spine (d') appears to fit into a 
+locking slit on peraeon 2 (9), thereby enhancing the 
+grip of the gnathopod w^hen the dactyl closes on the 
+preamplesing notch. In apparent homoplasious man- 
+ner. the preainplexing mechanism within genus Hyak 
+rcsembl es that of some s pec! es w i thin genus AUorchestes 
+(e.g., .4. angas!a Stebbmg)(family Hyalellidae)- 
+
+H\ak poMca Rathke. 1837 
+(Figs. 1.3,3) 
+
+Hyak pontica Rathke, 1 837: 378, pi, 5, fig. 20-28;— 
+Bulycheva l957:90-92.fig.30;— Rrapp-Schickei 1993: 
+735-736, fig. 503. 
+
+HyakpimHca (jjan): Stabbing 3906: 568;— Barnard & 
+Karaman 1991: 369. 
+
+non H\ak ptJmrtYj Kunkel 1910: 69, fig. 26;— Chevieux 
+& Page 1925, fig. 294;-Linco]n. 1979; 236, tigs. 309 
+
+
+e-j. 
+
+terranean and Black Seas; northeastern Atlantic, in- 
+
+Key to species of Hyak Rathke, 1 S37 sens. Str. 
+
+
+1 . Antenna 3 (C?), llageilar segments with groups of dense setae; peraeopods 5-7. large claspi ng spine i nserted 
+
+diagonally proximad; pcnienpod 5, sc^gmenL 5 not wider than long ................ ff. ptmilcii Rathke (p. 4) 
+
+Antenna 2 (c?), flagellar segments w ith single setae; peraeopods 5-7, large clasping spire Inserted nearly per- 
+pendicular to axis of segment 6; pcracopfjd .5, segment 5 shart, wider than Long 2. 
+
+2. Peraeopods 5-7, clasping and distal siipernumary spine sepatated by cluster of 3-5 setae Hyak sp, (p. II) 
+
+Perdeop«.ids 5-7, clasping and distal supemumary spine separated by I -2 setae 3. 
+
+T Gnalhoptid I (cf), carpal lobe small, rtot surpassing meriis, distal margin with short comb setae: maxilla I , inner 
+plate, apical plumose setae surpassing base of apical spines of outer plate; maxtlliped palp segment 4 (dactyl), 
+
+unguis with elongate nail H, mkheUni n. sp, (p. 9) 
+
+Gnathopod !(<?), carpsit lobe large, extending beyond nnerus, distal margin with 6-7 comb setae: maxilla I, inner 
+plate, apical plonnose setae not exceeding base of apical spires of outer plate; maxillaped palp, unguis normal, 
+shorter than body of dactyl H. iubboi^kima (Bate) (p. 6) 
+
+
+AMPHIPACJF[CA VOl.. 3 No, 3, Nov, 15, 2mi 
+
+
+4 
+
+
+
+Fig. I» Hyale ponrica Rathke, 1937, Male (S,5mm); female ov (6,0mm). Bosphorus. 
+(Telsoii ot male specimen from Genova, after Krapp-Schickel, 1991 ). 
+
+
+Type locality: Krym (Crimea, Black Sea), 
+
+MatcHaL examined; 
+
+Cala Dra^onara, N W Sardinia, stiff Cyjte!Ei?/rcn: brown alga), 
+0m-9(5„5 mm), 2 juv,,MCSN slltk 3 901; Cal a Dragonara, 
+NWSardinia, 0 m, - d'(6mm), MCSN slide 1902. 
+Bosphorus. Turkey - d* (8,5 mm) slide: 9 ov. (6 ttud) (alc). 
+
+Diagnosis: Male (9 mm). Eyes round, dark, Aniennal, 
+flagellum 10- I I -segmented* middle segments with 
+aesthetascs in small clusters. ,Antenna 2, peduncular 
+segment 5 > segment 4; flagellum l2-l4-segmented, 
+posteroproximaliy with dusters of shoii dense setae. 
+
+Mandibular left Iadnia5'dentate. Maxilla I, strong 
+ciliated setae on inner plate much surpassing end of 
+outer plate. Maxi 1 1 a 2, strong ciliated seta of i nner pi ate 
+
+
+surpassing inner end of inner plate. Maxilliped palp, 
+daciyl with slender elongate unguis; propod and carpus 
+subequal in length, width about 2:3; carpus on inner 
+side with many long setae; meriis sboiX, as wide as 
+carpus, but half as long; basis not much shorter than 
+ischium. 
+
+Coxae I -4, lower margin moderately crenulated ; 
+Coxa I subrectangular, smooth behind. Co.xae 2 & 3 
+with low but distinct posterior marginal cusps, lower 
+margins gently convex. Coxa 4, hind margin exca- 
+vated pro.ximally, w ith median weak cusp , Coxa 5 
+moderately anterolobate. Coxa 6 weakly posterolobate, 
+
+Gnathopod I, basis and ischium with very weak 
+hydrodynamic lobes; carpus with small posterior lobe, 
+not extending beyond merus, lower margin with -4 
+comb setae; propod with strong mediofacial guiding 
+
+
+AMPHIFACinCA VOL 3 No, X Nov, T5, 2002 
+
+
+5 
+
+
+
+Frg. 2. Hyale ponfica Rathke, 1937, Male min); female ov (6.0 mm). Bpsphoms. 
+
+
+spine sJanted slightly diagonally proximad, palmar 
+locking spine stout, spade-shaped, slightly exceeded 
+by tip of basal ly thickened dactyl Gnathopod 2, 
+hydrodynamic lobe very large and broadly rounded on 
+basis, medium large on ischium; carpus short, lacking 
+posterior lobe; propod subrectangular, slightly narrov\- 
+ing distally, hind margin vvith 1-2 short spines, palm 
+convex, nearly transverse, lined with dense fine setae, 
+and paired posterodistal short spines; dactyl stout, 
+smooth, regular. 
+
+Peraeopods 3-4, segment 5 medium short; segment 
+6 with 2 proximal I y positioned posterior marginal 
+spines and characteristic distal large cylindrical stri- 
+ated spine; dactyls stout, with minute inner marginal 
+seta. Peraeopods 5-7 stout; basis widened, rounded, 
+with clearly developed postero-distal lobe, hind mar- 
+gin with posterior notch and surge seta; segment 4 
+slightly w idening distally; segment 5 not broader than 
+long; segment 6 (propod), anterior (inner) margin with 
+
+
+2 proximal spines and distal stout striated clasping 
+spine and supemumary shorter spine separated from it 
+by a seta, w ith veiy' short, distal 'palm” set at 45^ angle 
+to axis of propod. 
+
+Epimeral plate 1 rounded behind; plates 2 and 3, 
+posterodistal corner nearly right-angled. Uropod I, 
+peduncle slightly longer than rami, margins with 1 -2 
+short robust spines. Uropod 2. rami short, subequal to 
+peduncle, with ] -2 marginal spines. Uropod 3, pedun- 
+cle with strong posterodistal spine; ramus -2/3 length 
+of peduncle, oblique apex w ith one strong robust spine, 
+and two smaller ones. 
+
+Tel son lobes broader than long, outer margin proxi- 
+mally with shon setules and subapically with small 
+spine. 
+
+Female ov (6 mm). Gnathpods I & 2 subsimilar, 
+Gathopud 2 slightly the larger, with small hydrody- 
+namic lobe on basis; propod subovate, pJm oblique, 
+posterodistal spines unequal, separated; hind margin 
+
+
+AMPHFPACIHCA VOL. 3 No, 3, Nov. 15, 2002 
+
+
+6 
+
+
+
+Fig, 3. Preamplexing mechanism in Hyak spp. A. Hyale luhhockiana Bate (female modified from 
+G. O, Sars (1890); male gnathopod 1 in preamplexing position; B, Hyale ponfica Rathke, 
+
+C. Hyale sp. Bermuda; D, Hyale michetini n, sp (modified from Giovaninni 1965). 
+
+
+with 2 spines; dactyl slender slightly overlapparig 
+palm. Brood pi ates broadly subovate* rounded apical Ey, 
+Preamplex i ng notch sq uared, with shal low postered isial 
+lobe and small locking slit near distal margin of ant- 
+erior lobe into which fits the guiding spine of gnatho- 
+pod I (d^). 
+
+Distributional Ecology^: Exposed rocky coasts of the 
+Mediterranean, Bosphorus, and Black Seas: among 
+algae, littoral to Infralittoral; not common. Not con- 
+firmed from the open Atlantic coa,st where it appears to 
+be replaced by H. labbtyckiutta. 
+
+Remarks; H. poniica has not been found in the North- 
+ern ,Adriatic Sea, despite careful sampling by several 
+authors. Some Mediterranean endemics apparendy 
+live exclusively in the Adriatic Sea, whereas other 
+endemics live everywhere else but there. 
+
+Previous treatments of H ponrica lequire clarifica- 
+tion. Thus, Krapp-Schickel (1993 p. 735, fig. 503) 
+illustrates gnathopod 2 of an obviously penultimate cf. 
+The other gnathopod 2 (same specimen) showed a 
+much more transverse palm, well defined by a short 
+robust spine on the palmar comer. Gnathopod I (C? ) 
+bears a stout ''guiding spine^^ on the medial surface of 
+
+
+the propod (not figured). 
+
+Bulycheva (1957, pp, 90-92, fig. 30) illustrates a 
+inaKill i ped apparently of quite different form. The dif- 
+ference may be attributable to the position of the max- 
+illiped within the buccal mass. Thus, the terminal 
+segments of the palp may be tumetl or twisted ai a right 
+angle to the vertical basal plates on the slide, and their 
+size in the illustration would depend on the amount of 
+pressure on the cover slip during preparation. On the 
+other hand. Bulycheva's material (not examined in this 
+study) may represent a different taxon. Her specimens 
+apparently have less stout peraeopods, and tlie male 
+gnathopod is of rather different form than material 
+from the Mediterranean and Bosphorus regions. 
+
+Hyale lubhockiana (Bale) 
+
+(Figs. 3, 4. .5) 
+
+Galjifithis lubhockiatta Bale, 3 856: 57 1. I7f, — Bale 
+]857:I36;-Bate, 1862: 51, fig, VIII/3, 
+jVict?a luhbockiana Bale & Westwood J 863: 47, 
+Hyak hthbockkma G O. Sars 1890: 27. pi. I l.fig. 2;— 
+Bousfidd & Hendrycks 2002: 100, figs. 46, 47 
+Hyale pomica Lincoln 1979; 237, figs. I09e-j. 
+
+
+AMFHIPAOKICA VOL 3 No. 3, Nov. Li, 2002 
+
+
+7 
+
+
+
+Fig. 4. Hyak lubbockiam Bate, I S-56, Male (6.6 mm). Lofoten Ids., Norway, 
+
+
+Type locality: Falmouth, Com wall, Great Britain, 
+
+Materiat examined: 
+
+Norway: Lofoten Islands, 0 iti, W‘. VadercolJ..- 2 <S<S (6.0 
+and 6,6mm), 2 9 9 ov (5.0 in m). Treimso Museum coN ns. 
+
+Great Britain: Port Erin, Isle of Man, in algae at LW, D.I, 
+Witliamson coll., March, 1955 - <S 0.5 mm); 9ov. (4..i 
+mm): CMN collecuons. 
+
+Diagnosis: Male (8 mm). Eyes round -ovate, pale- red. 
+Antenna I, flagelium 8-10 segmented. Antenna 2, 
+flagcl I urn E 2 - E 4 segmented, each with short single seta. 
+
+Mandibular left lacinia 5i/2^dentate, Maxilla 1, 
+strong ciliated setae on inner plate short, not surpassing 
+base of spine teeth of outer plate. Maxilla 2, inner 
+marginal ciliated seta short, not reaching apex of plates. 
+Maxsiliped palp, unguis not attenutated, shorter than 
+body of dactyl: propod and carpus relatively sioul. 
+
+Coxa 1, lower margin strongly rounded and mark- 
+edly crenulated. Coxae 2 & 3 with rounded hind 
+
+
+marginal cusps. Coxa4 postcroproximal margin wiih 
+distinct median cusp. 
+
+Gnathopod I , hydrodynamic lobe on basis and isch- 
+ium very weak; carpal lobe relatively large, extending 
+beyond menis, distally with -6 comb setae; propod 
+.subrectanguiar, mediofacial guiding spine per- 
+pendicular or angled slightly distad. Gnathopod 2, 
+hydrody namic lobe of basis medium large, of ischium 
+medium; propod deeply subovate, palm slightly ob- 
+lique, with shallow rounded hinge tooth, beset w ith 
+short setae, paired posterodistal spines short; pro|X)d 
+hind margin distally w ith pair of fine seme; dactyl 
+basally stout, hind margin lined with fine setules. 
+
+Peraeopods 3 & 4 prominent, regular; segment 5 
+short; segment 6 tvith one posterior marginal spine 
+proximal to stout striated clasping spine that is sepa- 
+rated from a short distal supernumerary spine by a 
+single short seta; dactyl strong, moderately curved. 
+
+Peraeopods 5-7 strongly deve3o|x:d, hind margin of 
+basis scalloped or crenulated, each with medium notch 
+
+
+AMPHIPACinCA VOL. 3 No. 3, Nov. 15, 2002 
+
+
+8 
+
+
+
+Fag. 5. Hyale lubbocklana Bate, 1 856. Mak (6.6 mm); female ov (6,0 mm). Ix^foten IsJands, Nonvay. 
+
+
+and surge seta; bases of peraeopods 5 6 with deep 
+
+rou aided posterodistal lobe; segment 6 with single 
+proximal spine anddistaJly with large striated clasping 
+spine set at right angles to the axis of segment 6. 
+Peraeopod 5, segment 5 short, w ider than long. 
+
+Epi moral plate I , posterior margin rounded; platen 2 
+and 3, hind corner slightly obtuse-angled. Uropod ] , 
+peduncle deep, outer margin with several short spines; 
+rami shorter than peduncle, with 2-3 short marginal 
+spines and long and short apical spines. Uropod 2, 
+peduncle short, deep; rami subcqual to peduncle, each 
+with 2 marginal spines and short and long apical spines. 
+Uropod 3, peduncle with single stout posterodistal 
+
+
+spine; ramus slightly shorter than peduncle, apex with 
+one strong prominent spine and 2-3 shorter spines, 
+
+Telson lobes subtriang ularj on ger than wide, mar- 
+gins smooth, apex sharply rounded. 
+
+Female ov (6 mm): Gnalhopods I 2 subfiimltar, 2 
+somewhat larger. Gnat.hopod 1 . hydrodynainic lobe 
+small on basis and ischium; carpus short, pcjsterior lobe 
+small; propod subovaLe, palm short; dactyl short, thick. 
+Gnathopnd 2, hydrodynamic lobe medium large on 
+basis, lacking on ischium: carpal lobe small, narrow; 
+propod, hind margin medially with 3-4 short setae* 
+Brood plate (gnathopod 2) elongate, medium broad, 
+apical ly rounded; marginal brood setae longer than half 
+
+
+AMPHIPACIFICA VOL, 3 No, 3, Nov, 15, 2002 
+
+
+9 
+
+
+
+Fig. 6. Hyok michelini n. sp. Immature (3.5 mm). Capo Caccia. Satxlinia { Mediterranean). 
+
+
+width of plate. Preamplexing notched squared; small 
+locking slit on anterior lobe, above ventral margin. 
+Colour: brownish -green (Lincoln, 1979 p. 236). 
+
+Distributional Eccdogj': Along exposed coasts of the 
+temperate North Atlantic region, western France and 
+the Irish Sea to northern Norway, amongst algae in rock 
+pools in the lower half of the intertidaL from MSL to 
+MLWS, to depth of about 50m (Lincoln, 1979; 
+Vader;197l), All collections (H. poniica =H. lub- 
+hocklafiu) are from exposed rocky shores among inter- 
+tidal algae, chiefly Comllifiaofficinaiis L. 
+
+Remarks; Bate & Westwood ( I86K p, 4S) desenbed 
+pecul tar T-3 ike marks on the integument, SEM pictures 
+mi g ht clarify them bu E are not avai lable. H. kbhockfam 
+differs from H. pontica in its weakly setose antenna 2 
+(C?), normally unmexJified condition of the dactyl of ihe 
+maxilliped palp, and the vertical position of the large 
+mediofacial spine of the propod of gnatho^xxi I (d*). In 
+addition, segment 5 of peraeopods 5-6 is short (width 
+nearly equal to length), and the apical margins of the 
+tel son lobes are unarmed. 
+
+Hyaie micheiinl n. sp. 
+
+(Figs. 3, 6, 7) 
+
+Hyaie pondca Chevieux & Page 1 925: 2S3,fi g, 294;— 
+Giovajmini 1965: 288-290, figs. 5-7. 
+
+
+Type locality: Capo Caeda, North Sardinia, 
+
+Material Examined: 
+
+Sardinia: Capo Caccia, 25 m, Haiimeda, June 3, J974 - 
+iai mature (3 nun) HoJolype; CapoCaccia, 0- 1 m, interstitial 
+and incrustation of dafam^ - 2 icnm (2.5-3nirini} Paratypes: 
+Capo Caceia, ] .5 m, Posidonia, June 3, 1974 - 3 imm (2.5-,3 
+mm; Capt> Ferraio, 10-22 m, among mixed algae, Schiocke 
+coll., June 7, 1974 - I spec. (3 mm), MSNV collections. 
+
+Diagnosis: Male (5-6 fnm)(after Giovannini, 1965). 
+Eyes round, dark. Antenna I, flagellum 9-IO-seg- 
+mented. Antenna 2, flagellum 13-14-segmentcd, seg- 
+ments each with single seta. 
+
+Mandible, left laciniaSVi-dentate; spine row w ith 3- 
+4 blades. Maxilla 1 , apical pi umose setae of inner plate 
+exceeding base of spines of outer plate; palp slightly 
+exceed! ng base of spi ne-teeth of outer plate. Maxi 1 1 i ped 
+palp, unguis slender, longer than lx>dy of dactyl. 
+
+Coxae 1-4 with rounded, crenulated lower margin. 
+Coxa 1 sLibrectangular, smooth behind. Coxae 2 and 
+3, each with prominent posterior marginal cusp. Coxa 
+4 little deeper than 3, strongly rounded below, margin 
+of posteroproximaJ excavation wltli weak median cusp. 
+Coxa 5 markedly anterolobate. Coxae 6 & 7 postero- 
+lobate, 
+
+Gnathopod I, basis and Ischium with medium hy- 
+drodynamic lobe; carpal lobe small, with ^^4 lovver 
+marginal setae; proped subovate, posterior margin with 
+single median spine, mediofacial guiding spine un- 
+
+
+AMPHIPACIFICA VOL. 3 No. 3, Nov. 15, 20Q2 
+
+
+10 
+
+
+
+Fig, 7. Hyitk michelini ii, sp. Male (5-6 mm); female ov (4,5 mm) Amung algae, LW. 
+Marseilles, France, (modified from R. Giovannini 1%5) 
+
+
+known; daclyl stout, tip slightly exceeding short, con- 
+vex palm. Gnathopod 2, hydrodynamic lobe of basis 
+medium sttwig. rounded, of ischium medium; carpus 
+shorter than merus; propod deeply subrectangular, 
+slightly narrowing distally, lower margin with 1-2 
+small spines, palm short, nearly vertical, lined with 
+slender spines; dactyl regular. 
+
+Peraeopods 3-7 stout, heavy. Peraeopods 3 4, 
+
+segment 6, posterior margin w ith single projiimal spine 
+and stout striated clasping spine separated from its 
+distal shorter supemumerary spine by 1-2 short setae; 
+dactyl stout medium strongly curved, Peraeopods 5-7, 
+bases unevenly widened, hind margins scalloped, with 
+notch and surf seta, posterodistal lobes broadly rounded; 
+segment 5 of peraeopod 5 short, broader than long. 
+
+EpimemI plate I , postered istal comer rounded; plates 
+2 & 3, hind corners nearly right-angled, Uropod 1 
+peduncle short, w ith a few short outer marginal spines; 
+rami subequaJ to peduncles, with 1-2 short marginal 
+spines, and long and short apical spines, Uropod 2, 
+peduncle stout; rami slightly shorter, each with 1-2 
+marginal spines and unequal apical spines. Uropod 3 
+small; peduncle with single posterodistaJ spine; ramus 
+short, length about half peduncle, with 2 apical spines. 
+
+Telson lobes broadly triangular, apices nearly right- 
+angled, margins smooth. 
+
+Female o v . {4-5 mm). Gnathopod 1 , basi s and i sc h- 
+ium each with weak hydrodynamic lobes; carpal lobe 
+
+
+short; pmpod subovate, palm oblique, hind margin 
+medially with setae cluster; dactyl slightly exceeding 
+palm. Gnathopod 2, basis w ith medium large hydrody- 
+namic lobe; carpal lobe short, narrow; propod some- 
+what narrowly subovate, palm oblique, hind margin 
+with single median cluster of short setae; dactyl slightly 
+exceed! ng pal m. Brood plates and preamplexj rig notch 
+not described. 
+
+Colour: green-yellow, eyes whitish-pink (Chevreux 
+& Page 1925). 
+
+Immature specimens (3.5 mm). Immature material 
+collected off Capo Caccia^ Sardina, by TK-S, is not 
+referable to Hyale poniia^ from the Bosphorus region 
+(Fig. 6). It diffeoi in the less distal and more perpen- 
+dicular position of the main clasping spine on segment 
+6 of peraeopods 3-7 and the less elongate dactyl and 
+unguis of the maxilliped palp. These character .states 
+are more similar to mature specimens from this general 
+region figured as '"Hyale pontica** by Giovaninni 
+{ l%5) (Fig. 7) and by Chevreux & Page (1925) from 
+Port Vend res on the Mediterranean coast 
+
+In addition to regular aJlometric growth differences 
+in numbers of antennal flagel lar segments, fewer n umber 
+of spines and setae on appendages, and undeveloped 
+secondary sexual character states of the gnathopods 
+and peraeon 2, tlie immature differs i n the undeveloped 
+or partially developed hydrodynamic lobes of the 
+
+
+AMPHIPACIFICA VOL ^ No. 1^, Nov. 15, 2002 
+
+
+I I 
+
+
+and peraeon 2, the immature differs in the undeveloped 
+or partially developed hydrodynamic lobes of the 
+gnathopods, and unusually large apical spines of 
+uropods ] & 2. 
+
+Distributional Ecology : Western Mediterranean re- 
+gion; apparently living interstitial ly in coarse sand, 
+from 0 to 25m depth. 
+
+Etymology: The authors are especially grateful to 
+Aldo Michelini , for creative solutions to virtually every 
+problem concerning transport, human connections, 
+shrewdness^ and for his always w ide and open heart. 
+We are pleased to name this species in hts honour. 
+
+Remarks: Description of a new species based mainly 
+on immature material at hand involves some taxonomic 
+risk. Relatively small differences distinguish Hyale 
+pontfca and H. lnbbockiana. We noted also that bona 
+fide specimens of H. pontica co-occur at the same 
+locality (Capo Caccia, Sardinia), but were collected in 
+short, stiff brown algae of the suri' zone, whereas the 
+presently descril>ed material occurred mainly in the 
+interstitiumoron epiphytes and Baic^wwjspp. to depths 
+of 25m. Separate taxonomic status of H. mfcheiiiii 
+would seem justified. 
+
+Illustrations of "'fiyaU pontica" provided by 
+G io vann i n i ( 1 965 ) are very detai led. I n aJ I si gni f leant 
+taxonomic respects they correspond to our material. 
+The long and slender propeds of gnathopods I and 2 of 
+ovigerous females appear to be diagnostic character 
+states of Hyale michelini. 
+
+Descriptions and drawings by Chevreux &. Page 
+( 1 925) do not entirely fit atiy of our st>ecies. as there 
+are several differences which might have been omitted 
+or actually lacking (e.g., cusps on posterior margins of 
+coxal plates, clasping spine on gnathopod I (d’), only 
+one group of spines on peimeopods 3-7 (inner margin of 
+segment 6) or simplification of sha|)e of coxae 5 and 7. 
+1 he shape of antenna 2 (c?) (groups of dense setae) or 
+sharply angled propodal palm of peraeopod 7 would 
+suggest Hyale pontica , but only one group of spines on 
+the inner margin of the propod is figured. The shape 
+of gnathopod 2 (d) is similar to H. iitbbockiatia or/f. 
+tnichelini^ and the body length applies to all of them. 
+
+Hyale sp, 
+
+( Figs, 3, 8) 
+
+Hyale sp. (MS name, CMN collections) 
+non: Hyale pontica Kunkel, 1910: 69, fig. 26. 
+
+
+Matt^rLal llxailimed: 
+
+St. Georges, Bermuda, LW surf, A. W. Cameron coll,, April, 
+1955:- male (7 mm) HoLotype (slide mount); female ov (6 
+mm) a]]ot>'pe (slide mouni:); CMN col Ice Lions, 
+
+Note - partial illustrations made in 1982; spectmcns and slide 
+mounts not rckx.'aled. 
+
+Partiat Diagnosis: Male (7. 0 mm). With the charac- 
+te ri sti cs ot the gen us, B ody smooth , not i m bricated. 
+
+Maxilla I , outer plate, apical armaLure encompasses 
+an outer group of 6 stout distally pectinate spine teeth> 
+and an inner group of three slender pectinate spines. 
+Both the palp, and apical plumose setae exceed the base 
+of the spine teeth of the outer plate. 
+
+Coxal plates 2 & 3 with posteiior marginal cusp, 
+
+Gnathopod 1 (d*), carpus with large posterior lobe, 
+exceeding merus, distal margin lined with 6-7 comb 
+setae: propod evenly subrectangular, posterior margin 
+with 2-3 distal ctusters of short setae, mediofaciaJ spine 
+perpendicular or angled slightly distad, palm short, 
+nearly straight, with stout posterodistal locking spine, 
+slightly exceeded by tip of short stout dactyl 
+
+Peraeopods with single stout gnooved anterior mar- 
+ginal clasping (locking) spines, separated from distal 
+supernumerary short spine by cluster of several short 
+setae, palm scarcely distinguishable at steep angle to 
+long asis of segment 6; dactyl gently curved. 
+
+Female: Undescribed. Gnathopods, brood plates 
+and preamplcxing notch characteristic of genus Hyale. 
+
+Distributfoti: Clinging to algae and other substrate in 
+lotic waters of the surf zone^ in the vicittlty of St, 
+Georges, Bermuda. 
+
+Remarks, On character states of gnathopod 1 and 
+peraeopod segment 6, this species is dearly a member 
+of the pontica group of h valid amphiprxis. Full descrip- 
+tion and formal naming of the species awaits acquisi- 
+tion of additional material. 
+
+S. E. Johnson (1986) has synonymized Kunkel's 
+material with Far hyale hawaiensU (Dana, 1853). Ma- 
+terial of the latter species from beach drift at Flungi^ 
+Bay, Bermuda, has been carefully figured by Slock 
+(1987) and bears a remarkable similarity to "Hyale 
+pontica" of Kiinkel (loc. cit., fig, 26). Furthermore, 
+photographs of Kunkel's figured male specimen and 
+appendages , kindly provided by Dr. Eric Lazo- Wasem 
+(Y PM), leave little doubt that Par hyale, and not Hyale, 
+is the genus in question. 
+
+In addition to Par hyale hawaiensis, widely distrib- 
+uted in tide pool drift debris (Johnson 1986; Stock 
+1 987), and Hyale sp, from lotic water habitats at LW 
+
+
+AMPHlPACrFlCA VOl. 1 No. X Nov. J5. im 
+
+
+12 
+
+
+
+Fig. S. Hyaie sp. St Georges, Bermuda, surf zone, LW. 
+
+
+level near St. George's, two additional hyalid species 
+have been Identified in CM IV collections from Ber- 
+muda: 
+
+( 1 ) A species of Protohyak, erroneously attributed to 
+Hvak pomlca by ELB, having stout distal peraeopodal 
+clasping spines, elongate antenna 2, and uropod disto- 
+lateral spine, occurs in LW pools at Outer Castle Island. 
+
+(2) A small saltating species of kpokyk occurs com- 
+monly in supi^ittoraJ tide pools at Devonshire Bay. 
+
+Di^ussion 
+
+Comparison of principal taxonomic character states 
+within genus Hyak Rathke sens. str. (Table 1) suggests 
+that the four known species may be divided into two 
+principal subgroups; (i) ponnea subgoup, and (it) 
+htbbockiana subgroup. 
+
+The former consists of the singJc relatively ad- 
+vanced generic type species, H. pomica. The latter 
+encompasses the three more primitive species, M mick 
+eiini n. sp., H, iiibk'xkmm^ and Hyaie sp.,of which M 
+hibbocklana entrains the greatest number of plesio- 
+morphic character states. 
+
+As noted in the key and in Table I, Hyaie pontka is 
+especially distinctive in character states of gnathopod 
+J (c?); distal position and oblique angle of clasping 
+spine and angled "palmar" margin of peraeopods 3-7; 
+and strongly setose flagellum of antenna 2 (<S). It 
+shares relatively few character states with H. iubbock- 
+iatm which, in view of previous confusion of the two 
+species by several authors, is a somewhat surprising 
+revelation of this study. 
+
+
+Bottsfield & Hendrycks (2002, p. 124) have per- 
+formed a semiphyletic cluster analysis of 1 1 of the 12 
+known genera within family Hyalidae. In balance of 
+character states, the genus Hyaie is relatively advanced 
+but quite distinct from all other genera, ll is perhaps 
+least remote from the Apea/tyde complex, but is special- 
+ized for a life style in open lotic waters. Such features 
+include the unique form of guiding and locking spines 
+on the propod of gnathopod !(<?), and corresponding 
+preamplexing notch and locking slit of peraeon 2 (9); 
+well -developed hydrodynamic lobes of gnathopod 2; 
+strong dactyls and strong clasping spines of pemeopods 
+3-7; and rounded form of epimeral plate 1 . 
+
+The ancestry^ of genus Hyaie remains moot. Al- 
+though component species are "swimmers", the bal- 
+ance of character states suggests a relatively close 
+relationship with genus Apohyak, especially with the 
+subgroup of A, prevosii (nifssoni) in which hydrody- 
+namic lobes of the gnathopods are strongly devetoped* 
+and distal spines on the peduncle of uropod I are not 
+strongly developed. On a somew hat broader phyletic 
+basis, the form of the sw i mmi n g s peci es withi n H y al i dae, 
+of which the life styles of genera Hyaie, Frotohyak and 
+Parallorchesref! aie esprecially representative, reflects 
+the basic hydnxlynamicform of pri m iti ve " Natanti a"(see 
+also Bousfield and Hendrycks 2002). 
+
+On the other hand, the genus Hyaie and especially 
+species pofiiica, evinces similarities with the special- 
+ized hyalid subfamily Kuriinae. As noted in Bousfield 
+& Hendrycks (2002, p. 1 1 9) character state similarities 
+include su bean nation and/or imbrication of body seg- 
+ments; cren Illation of coxal and basal plate margins; 
+
+
+AMPHIPAanCA VOL. 3 No. 3, Nov, 15, 2002 
+
+
+13 
+
+
+Table L Comparative Character States of Hyale species. 
+
+
+Character 
+
+State 
+
+H. pofitica 
+
+H. lubbockiam 
+
+H. mchelini 
+
+HyaJe sp. 
+(Bermuda) 
+
+Length (c?,9) 
+
+6-9 mm 
+
+6-8 iTiTin 
+
+4-6 mm 
+
+5-7 mm 
+
+A2 {Cf), flag, setae 
+
+groups of many 
+dense setae 
+
+few single setae 
+
+few single setae 
+
+few single setae 
+
+Mxpd palp, nail 
+
+> I'Hxly of dactyl 
+
+< body of dactyl 
+
+>bod> of dactyl 
+
+7 
+
+Mxl , IF setae 
+
+surpa-ssing OP spines 
+
+not surpassing OP spines 
+
+surpassing OP spines 
+
+surpassing OP spines 
+
+Mx2, IP seta 
+
+surpa.ssing OP 
+
+not surpas^singOP 
+
+not surpassing OP 
+
+7 
+
+GnI carpal lobe 
+
+smalL few setae 
+
+targe, 6+ setae 
+
+small 4 setae 
+
+lange> 6+ setae 
+
+Gill propod (c?) 
+medlofacial spine 
+
+slanted proxitnad 
+
+perpendicular 
+
+perpendicular? 
+
+perpendicular 
+
+P3-7, palmar comer 
+
+-45'°/ vertical 
+
+1 5°/verLical 
+
+] 5°/verticaJ 
+
+1 5“^ /verdcat 
+
+P3-7, inner marginal 
+
+2 groups proximal 
+
+1 group proximal 
+
+1 group proximal 
+
+1 gmup proximal 
+
+spines 
+
+to clasping spine 
+
+to cla.sping spine 
+
+to clasping spine 
+
+to clasping spine 
+
+P5-7, dactyl curv- 
+ature 
+
+weak 
+
+strong 
+
+weak 
+
+
+U3 ratio; length 
+peduncle: ram us 
+
+3:2 
+
+,3:2 
+
+2:1 
+
+7 
+
+Dislribulion 
+
+Black Sea, Central 
+Medlterranear 
+
+N. E Atlantic 
+
+W. Mediteranean 
+
+Bermuda 
+
+
+presence of posterior mEirginai cusps on coxae 2 & 3 
+only, and specialized form of the maxilliped palp. 
+Hyale ponHca also overlaps geographically with 
+Micropythia and abuts the more southerly range of 
+Kuria hngirTianns. 
+
+The four known species of genus Hyale exhibit a 
+relati vel y restri cted geographi cal di stri b u tion. Speci es 
+are confined to high salinity outer coast I otic water 
+sw^ash zones of temperate and subtropical NE Atlantic 
+and Mediien^nean regions. However, these habitats 
+are relatively poorly collected and studied. Further 
+records might be anticipated from open ocean coasts of 
+Spain. Portugal, and island archipelagos off the coast of 
+North Africa, including the Canaries and the Azores, 
+
+Myers' (1991) analysis of family groups within 
+corophioidean and melitoidean amphipods of the Ha- 
+waiian Archipelago underscores the need to consider 
+phyletic age of a taxonomic group as a facttsr in devel- 
+op! ng hypothetical dispersal patterns and biogeo- 
+graphic fau nal rel ati ons hi ps. Character state anal ysi s 
+suggests that within family Hyalidae, members of 
+genus Hyale are a relative recently evolved group of 
+
+
+species. Their present confinement within the eastern 
+North Atlantic and Mediterranean regions seemingly 
+conforms with a relatively recent geotecEonic origin of 
+those basi ns duri n g Cretaceous ti mes ( Ho wraith 1981). 
+
+REFERENCES 
+
+Barnard, J. L. 1979, Liuoral Gammaridean Amphi- 
+poda from the Gulf of California and the Galapa^ 
+gos Islands. Smiths. Contr. 271: 1-149, 74 figs. 
+Barnard^ J. L. & G. S. Karaman 1991. The families and 
+genera of marine gaminaridean .Amphipoda (except 
+marine gammaroids). Part 2. Rec. Australian Mus. 
+SuppE. 13 (Parts I & 2): 866 pp., 1 33 figs. 
+
+Bate C. S, 1856. On the British Edriophthal ma. Rept. 
+
+Brit. Assoc, Adv, Sci for 1855: 18-62, pis. 12-22. 
+Bate, C. S., 1857. British Edriophthalma. Ann. Mag. 
+
+Nat. Hist., scr. 2, 20: 524-525, 
+
+Bate, C. S. 1862. Catalogue of the specimens of am- 
+phipodous Crustacea in the collections of the Brit- 
+ish Museum, iv + 399 , pis. 1, I A: 2-58, British 
+Museum Nat. London. 
+
+Bate C. S. & J. O. Westwood, 1863, A History of the 
+
+
+AMPHIPACJFICA VOL. 3 No. 3, Nov, 15, 2002 
+
+
+14 
+
+
+British Sessile-eyed Crustacea. 1 : 507 pp. , +yh- 
+numbered figs. London, John van Voorst. 
+
+BoLLsfield, E. L. E. A. Hendrycks. 2002- The tali- 
+troidean am phi ped family Hyalidae revised, with 
+emphasis on the North PaeiHe fauna: systematics 
+and distributional ecology. Amphipacifica 3C3): 17- 
+135, 65 figs. 
+
+Bulycheva, A. N. 1957. The Sea fleas of the USSR and 
+adjacent waters (Amphipoda: Talitroidea). Keys to 
+the Fauna of the USSR. Acad. Sci. USSR 65: I ^ 1 85^ 
+66 figs, (in Russian). 
+
+Che vreux, t. 1925. Voyager de la god I eite Mehta 
+aux Canaries et au Senegal, I S89-] 890, Amphi- 
+podes, L Ciammariens,cont, Bull, Soc. Zool. France, 
+20: 365-398. 
+
+Chevreux, E. & L. Page, 1925. Amphipodes. 
+Faune de France: 4^8 pp,, 438 figs. 
+
+Dana. ,1 D, 1853. Crustacea, Part I L United Slates 
+Expiortng Expedition 14; 689- 1618, atlas of 9t pis. 
+
+DclJa-Valle, A. 1893, Gammarini del Golfodi Napoli, 
+Fauna und Flora des Golfes von Neapel und der 
+angnenzenden Meeres-Abschnitte, Monogr, 20: 948, 
+
+Giovaninni, R. 1965, Revision des especes benthiques 
+Mediterraneennes du genre Hyale. Rec. Trav. Stat, 
+Mar. d'Endoume, Bull, 37(53): 277-340, 23 figs. 
+
+Gurjanova, E. F. 1951, Bokoplavy moreii SSSR i 
+sopredel'nykh vod (Amphi poda-Gammar idea), 
+Akad. Nauk SSSR,Opred. Faune SSSR41: 1029 
+pp., 705 figs. 
+
+Howarth, M. K. I981i , Palaeogeography of the Meso- 
+zoic, pp, 193-220. in P. \1 Greenwood (ed.). The 
+Evolving Earth, Cambridge Uni v. Press. 264 pp. 
+
+Johnson, S. E, 1986. Order .Amphi poda, pp. 372-381, 
+[q Sterrer, W,, Marine Fauna and Rora of Bermuda, 
+John Wiley & Sons, 742 pp, 
+
+K rapp- Sch ic kcl , G . 1 974, Cam i 1 1 Uel le rs SammI u ng 
+adiiati&cher Amphi poden - 1 866 und heute, Ann, 
+Naturh. Mus, Wien 78: 319-379, 1-28 pis. 
+
+
+K rapp-Sc hi ckel , G , 1 993 , Fa mi ly T al i tri dae , pp.72 8- 
+768. in S. Ruffo (ed.). The Amphip<3daof the Med- 
+iteiranean. Part 3, Gammaridca, (Melphidippidae to 
+Talitridae), Ingolfiellidea, Caprellidea, Mem, Inst. 
+Oceanograph. (Monaco) 13: 577-813, 
+
+Kunkel, B. W. 1910. The Amphipodaof Sermuda. 
+Trans. Conn, Acad. Arts. Sci. 16 : 1-1 16, 43 figs. 
+
+IJncoln, R,J, 1979. British Marine A mpliipoda: Gam- 
+maridea, 658 pp, 280 figs,, 3 pis, London: British 
+Museum (Natural Ffistoiy). 
+
+Mate us A, & E. Maieus 1966. Amphipodes litloreaux 
+de Princi pe et de Sao T onie, Campagne de la 
+Calypso. Ann. Inst. Oceanogr. 44: 1 73- 198, 1 3 figs, 
+
+Myers, A. 1991. Mow did Hawaii accumulate its biota? 
+A testfrorn the Amphipoda. Global Bcol. & Siogeogr, 
+Letters 1 : 24-29, 2 tigs. 
+
+Nicolet, H, 1849. Crustaceos In: Historiafisicay pol- 
+itica de Chile,, publ. por Claudio Gay, Zoologia, 3: 
+1 15-31 8, 4 pL Paris: C. Gay; Santiago: Museo de 
+historia natural. 
+
+Rathke, H. 1837, Zur Fauna der Krym. Ein Beitrag. 
+Mem. Pres. Acad. lm|>sr Sci. SL Peters bourg. 3: 2- 
+9^54, pis. 30. 
+
+Sai s, G, O. 1 890, Amphipoda. .An account of the 
+Crustaceaof Norway 1: 71 1 pp.,240 pis., SsuppLpIs, 
+
+Smith, S. 1. 1874. A synopsis of the higher freshwater 
+Crustacea of the northern United States. Appendix 
+F, Natural History. U. S. Commission of Fish & 
+Fisheries. 2: 637-661,3 pis,, atlas (61 pis,), 
+
+Stebbing, T, R, R. 1906. Amphipoda I. Gammaridea, 
+[>as Tierreich: 1-806, tigs. 1-127. 
+
+Stock,]. K. 1987. Sty gofauna of the Canary islands, 
+5, A hypogcan population of (Amphipoda) 
+
+in the James del agua l-ava T unnel (Lanzarote), a 
+supposed case of recent evolution. Stygologia 3(2): 
+167-184, 7 figs. 
+
+Vader, W. 1971. Additions to the Amphipoda of north- 
+ern Norway. Astatte4, 1971:47-51, tig. I. 

@@ -1,0 +1,3836 @@
+^eparfmenf of {he inferior: 
+
+U. S. NATIONAL MUSEUM. 
+
+
+
+PROCEEDINGS 
+
+
+
+UNITED STATES NATIONAL MUSEUM. 
+
+
+
+"Vol. "VI. 
+
+
+
+1883. x^oS^^^? 
+
+
+
+
+
+
+V) 
+
+
+
+PUBLISHED UNDER THE DIRECTION OF THE SMITHSONIAN INSTITUTION. 
+
+
+
+WASHINGTON: 
+
+GOVERNMENT PRINTING OFFICE. 
+
+1884. 
+
+
+
+ADVERTISEMENT. 
+
+The extension of the scope of the National Museum during the past 
+few years, and the activity of the collectors sent out in its interests, 
+have caused a great increase in the amount of material in its possession. 
+Many of the objects gathered are of a novel and important character, 
+and serve to throw a new light upon the study of nature and of man. 
+
+The importance to science of prompt publication of descriptions of 
+this material led to the establishment, in 1878, of the present series of 
+publications, entitled "Proceedings of the United States National Mu- 
+seum," the distinguishing peculiarity of which is that the articles are 
+published in signatures as soon as matter sufficient to fill sixteen pages 
+has been obtained and printed. The date of publication being plainly 
+expressed in each signature, the ready settlement of questions of priority 
+is assured. 
+
+The articles in this series consist : First, of papers prepared by the 
+scientific corps of the National Museum ; secondly, of papers by others, 
+founded upon the collections in the National Museum; and, finally, of 
+interesting facts and memoranda from the correspondence of the Smith- 
+sonian Institution. 
+
+The Bulletins of the National Museum, the publication of which was 
+commenced in 1875, consist of elaborate papers (monographs of families 
+of animals, &c), while the present series contemplates the prompt pub- 
+lication of freshly acquired facts relating to biology, anthropology, and 
+geology; descriptions of restricted groups of animals and plants; the 
+settlement of particular questions relative to the synonymy of species, 
+and the diaries of minor expeditions. 
+
+This series of publications was commenced in 1878, with volume I, 
+under the title " Proceedings of the United States National Museum," 
+by the authority and at the expense of the Interior Department, and 
+under the direction of the Smithsonian Institution. 
+
+The present volume, constituting the sixth of the series, has been pre- 
+pared under the editorial supervision of Dr. Tarleton H. Bean, curator 
+of the department of fishes. 
+
+SPENOEE P. BAIRD, 
+Director of the U. 8. National Museum. 
+United States National Museum, 
+
+Washington, June 9, 1884. 
+(n) 
+
+
+
+TABLE OF CONTENTS. 
+
+
+
+Page. 
+
+Alphabetical Index 499-530 
+
+Beau, Tnrletou H. The first Occurrence of Pseudotriacis microdon, Capello, on the 
+
+Coast of the United States 147-150 
+
+Notes on a collection of Fishes made in 1882 and 1883 by Capt. Henry E. Nichols, IT. S. 
+
+IT., in Alaska and British Columbia, with a Description of a New Genus and Species, Pri- 
+
+onistius macellus 353-361 
+
+[Prionigtius macellus, n. g. and n. 8., Sebastichthys brevigpinis, n. subs.] 
+
+Notes on some Fishes collected by James G. Swan in "Washington Territory, including 
+
+a new species of Macrurus 362-364 
+
+[Macrurus acrolepis, n. s.] 
+• — Notes on Fishes observed at the Head of Chesapeake Bay in the spring of 1882, and 
+
+upon other species of the same Region 365-367 
+
+lriing, Li. List of Birds found at Guaymas, Sonora, in December, 1882, and April, 1883.. 343-344 
+Second Catalogue of a Collection of Birds made near the southern extremity of Lower 
+
+difornia 344-352 
+
+[Edited by R. Ridgway.] 
+- h, Kalherine J. Catalogue of Mollusca and Echinodermata dredged on the coast of 
+Labrador by the Expedition under the direction of Mr. W. A. Stearns, fn 1882. (Plate IX.) 236-247 
+all, W. H. On a collection of Shells sent from Florida by Mr. Henry Hemphill (Plate 
+
+X) 318-342 
+
+[Leuconia hemphillii, n. s., Phos intricatui, n. s., Muricidea, n. s.?, Mitra (Mitrophora ?) fiori- 
+dana, n. s., Drillia thea, n. s., DriUia leucocyma, n. s., DrUlia limonitella, n. s.,Eulima (Leio- 
+stracaf) hemphillii, n. s., Pyramidellat vincta, n. s., Odostomia acutideng, n. s., Parthenia 
+cedrosa, n. s., Turbonilla viridaria, n. 8., Turbonilla (viridaria var.?) virga, n. s? Turbo- 
+nilla (viridaria var.?) punicea, n. 8. 1 Cytherea (Transennella?) conradina, n. s.J 
+Fisher, William J. Catalogue of a collection of Ethnological Specimens obtained from 
+
+the Ugashagmut Tribe, Ugashak River, Bristol Bay, Alaska 161-165 
+
+Flint, J>r. James M. Classification of the Materia Medica collection of the United States 
+
+National Museum, and Catalogue of Specimens. (Circular No. 19 of Appendix) 431-475 
+
+Request for Drugs and Information concerning them. (Circular No. 20 of Appendix) .. . 477 
+
+Gilbert, Charles II. (See Jordan & Gilbert.) 
+
+Gill, Theodore. Diagnosis of new Genera and and Species of deep-sea fish-like Vertebrates 253-260 
+[Petromyzon (Bathymyzon) bairdii, n. subg. and n. s., Chimcera abbreviata. n. s., Hutiobran- 
+chusin/ernalis, n. g. and n. s., Notacanthus analie, n. s., Higmopg gtiqmaticus, n. g. and n. 8., 
+Hyperchorislus Tanneri, n. g. and n. s., Alepoeephalug productus, n. s., Halogaurug Qoodei, 
+n. s., Plectrornug suborbitals, n. g. and n. s., Stephanoberyx monce, n. g. and n. s.. CauloUpig 
+longidens, n. g. and n. s.. Basgozetus normalig, n. g. and n. s., Onos rufus, n. s.] 
+
+Gill, Theodore &■ Ryder, John A. Diagnoses of new Genera of Nemichthyoid Eels 260-262 
+
+[Serrivomerbeanii, n. g. and n. s., Spinivomer goodci, n. g. andn. s., Labichthys carinatug, n. g. 
+and n. s., Labichthyg elongatug, n.s.] 
+
+On the Anatomy and Relations of the Eurypharyngidas 262-273 
+
+[Lyomeri, n. ord., Gastrostomug bairdii, n. g. and n. s.J 
+
+Goode, G. Brown, The generic names Amitra and Thyris replaced 109 
+
+[Monomitra and Delothyris, new names.] 
+Heap, G. H., Fsq. On an antique Roman Mosaic from Carthago, now in the United 
+
+States National Museum 415-417 
+
+[The "Mosaic Lion."] 
+Hornaday, William T. Brief Directions for removing and preserving the Skins of 
+
+Mammals. (Also issued separately as Circular No 22 of Appendix.) (Four cuts) 485-491 
+
+Humbert, Fred., M. D„ F. C. ». Lucilia macellaria infesting Man 103-105 
+
+Sunt, J. G., M. I>. Report on a Fragment of Cloth taken from a Mound in Ohio 101-102 
+
+III 
+
+
+
+
+
+
+IV CONTENTS. 
+
+Page 
+Jordan, David S., aud Gilbert, diaries H. Notes on the Nomenclature of certain 
+
+North American Fishes 110-111 
+
+Description oftwonew Species of Fishes (Aprion ariommus and Ophidium heani) from 
+
+Pensacola, Fla 142-144 
+
+A review of the American Caranginse 188-207 
+
+Note on the Genera of Pctromyzoutidas 208 
+
+Description of a new Mura-noid Eel (Sidera chlevastes) from the Galapagos Islands — 208-210 
+
+Description of a new species of Rhino hatus (Khinobatus glaucostigraa) from Mazatlan, 
+
+Mexico '.. 210-211 
+
+Jordan, David S., and Swain, Joseph. List of Fishes collected in the Clear Fork of 
+
+the Cumberland, Whitley County, Kentucky, with Descriptions of three new species 248-231 
+
+[Boleosomasusance, n. s., Poncilichthys sagitta, n. s., Etheostoma cumberlandicum, n. s.] 
+Join. Pierre I.ouis. Ornithological Notes on Collections made in Japan from June to 
+
+December, 1882 273-318 
+
+TI« i i ill. CSeorge P. On the black Nodules or so-called Inclusions in the Maine Granites.. 137-141 
+
+Preliminary Note on the Crystalline Schists of the District of Columbia 159-1G1 
+
+On the Collection of Maine Building Stones in the United States National Museum 165-183 
+
+[>« -Non. i:. W. On the Source of the jadeite Implements of the Alaskan Innuits 426-427 
+
+Niblaek, Ensign A. P. Instructions for taking Paper Molds of Inscriptions in Stone, 
+
+Wood. Bronze, &c. (Circular No. 23 of Appendix) 493-497 
+
+Nutting. Charles C. On a Collection of Birds from Nicaragua 372-410 
+
+[Geothlyphis bairdi,u. a.,OryzoborusnuttingiR.i<igw ., n. &.,Contopus depressirostris'RUlgvr., 
+n. s., Cymbilanius lineatus fasciatus Ridgw., n subs., Porzana leucogastra Ridgw., n. a.] 
+Plates. (See end of volume.) 
+Rathbuii, Riehard. List of duplicate Marine Invertebrates distributed by the United 
+
+States National Museum. Series IV. — Educational Series No. 2 212-216 
+
+It a ii, Charles. Circular relative to Contributions of Aboriginal Antiquities to the United 
+
+States National Museum. (Circular No. 21 of Appendix. ) 479-483 
+
+Ridgway, Robert. Descriptions of some Birds supposed to be undescribed, from the Com- 
+mander Islands and Petropaulovski, collected by Dr. Leonhard Stejneger, U. S. Signal 
+
+Service 90-96 
+
+[Halicetus hypoleucus Stejneger, Acrocephalus dybotcskii Stejneger, Anorthura pallescem 
+Stejneger, Hirundo saturate, Stejneger, Anthus Stejnegeri Kidgw., provisionally.] 
+
+On the probable Identity of Motacilla ocularis Swinhoe and M. amurensis Seebohm, 
+
+with remarks on an allied supposed species, M. blakistoni Seebohm 144-147 
+
+Descriptions of some new Birds from Lower California, collected by Mr. L. Belding . . . 154-156 
+
+[J.ophophanes inomatus cineraceus, n. subs., 1'saltriparus grindce, Belding, n. 8. Junco 
+
+bairdi, Belding, n. s.] 
+
+Anthus cervinus (Pallas) in Lower California 156-157 
+
+Note on Merula confinis (Baird) 158-159 
+
+Notes on some Japanese Birds related to North American species 368-371 
+
+(Editor.) List of Birds found at Guayuias, Sonora, in December, 188?, and April, 1883. 
+
+By L. Belding 343-344 
+
+(Editor.) On a collection of Birds from Nicaragua. By Charles C. Nutting 372-410 
+
+On some Costa Ricau Birds, with Descriptions of several supposed new species 410-415 
+
+| Empidonax viridescenx , n. s., Pittasoma michleri zeledoni, n. subs.] 
+
+Smith , Rosa. The life colors of Cremnobates integripinnis 216-217 
+
+Note on the Occurrence of Gasterosteus williamsoni, Grd., in an Artesian Well at San 
+
+Bernardino, Cal 217 
+
+Notes on the Fishes of Todos Santos Bay, Lower California 232-236 
+
+Smith, Sidney I. Preliminary Report on the Brachyura and Anomura dredged in deep 
+
+Water off the south coast of New England by the United States Fish Commission in 1880, 
+
+1881, and 1882. (Plates I- VI.) 1-57 
+
+[Amathia Tanneri, n. s., Collodes robustus, n. s., Cymopolia gracilis, n. s., Sympagurut 
+
+pictus, n. g. and n. s., Munida valida, n. s., Eumunida picta, n. g. and u. s., Anoplonotus 
+
+politus, n. g. and n. s.] 
+
+List of the Crustacea dredged on the Coast of Labrador by the Expedition under the 
+
+Direction of W.A.Stearns, in 1882 218-222 
+
+| Hhachotropis, nom. g. n.] 
+
+Review of the Marine Crustacea of Labrador 223-232 
+
+
+
+Stearns, Robert E. C. Description of a new genus and species of Alcyonoid Polyp, from 
+Japanese waters, with remarks on the Structure and Habits of related forms, etc. (Plate 
+
+VII) 96-101 
+
+[liadicipes pleurocristatus, u. g. and n. s.] 
+
+
+
+CONTENTS. V 
+
+Page. 
+
+Stearns, W. A. Notes on the Natural History of Labrador 111-137 
+
+Stejneger, Li eon hard. Contributions to the History of the Commander Islands. No. 1. 
+
+Notes on the Natural History, including Descriptions of new Cetaceans 58-80 
+
+[Berardiua bairdii, n. s., Ziphiusgreb-nitzkii,ri.a.] 
+Swain, Joseph. A Description of a new species of Hadropterus (Hadroptcrus scierus) 
+
+from Southern Indiana 252 
+
+(See also under JORDAN and Swain. 
+True, Frederick W., M. S. On a pair of abnormal Antlers of the Virginia Deer. (With 
+
+one cut) 151 
+
+On the Skeleton of Phoca (Histriophoca) fasciata, Zimmerman. (Plates XI-XTV and 
+
+one cut ) 417-426 
+
+Walker, S. T. Fish mortality in the Gulf of Mexico 105-109 
+
+• On the Origin of the Fossil Bones discovered in the vicinity of Tise's Ford, Florida 427-429 
+
+While, Charles A. On the Macrocheilus of Phillips, Plectostylus of Conrad, and Solenis- 
+
+cnsofMeek & Worthen. (Plate YIII) 184-187 
+
+Willis, Jlerritt. Shell Beds in Westchester, N. T 109 
+
+Yarrow, H. C, M. 1>. Description of new Species of Reptiles in the United States Na- 
+tional Museum 152-154 
+
+[Eutcenia vagrans plutonia, n. subs., Eutcenia henshawi, n. s., Bascanium flagelliforme 
+bicinctum, n. subs., Tropidonotus compressicaudus walkeri, n. subs.j 
+
+
+
+LIST OF ILLUSTRATIONS. 
+
+
+
+CUTS, 
+
+Page 
+
+Cervusvirginianus, abnormal antler of 151 
+
+Histriophoca fasciata, pelvis of 422 
+
+Squirrel partly skinned 487 
+
+Skinning the skull of a squirrel 488 
+
+Cuts in skinning mammals . 488 
+
+Skinning the head of a deer 488 
+
+PLATES. 
+
+(Full explanations are given with the plates at the end of the volume.) 
+
+T. — Munida valida Smith. 
+
+II.— Anoplonotus politus Smith, and Eumunida picta Smith. 
+III. — Anoplonotu8 politus, Eumunida picta and Munida Caribcea Smith. 
+IV. — Eumunida picta, Eupagurus politus Smith, and Catapagurus Sharreri A. M. -Ed wards. 
+V. — Eupagurus bernhardus Brandt, Sympagurus pictus Smith, and Parapagurus pilosimanus Smith 
+VI. — Parapagurus pilosimanus, Sympayurus pictus, and Eupagurus bernhardus. 
+VII. — Radicipes pleurocristatus Stearns. 
+VJL1I. — Species of Soleniscus of Meek & Worthen. 
+IX. — Labrador shells collected by W. A. Stearns and others in 1882. 
+X. — Florida shells collected by Henry Hemphill. 
+XI. — Skull of Phoca (Histriophoca) fasciata. Side view. 
+XII. — Same. View from below. 
+XIII. — Same. View from above. 
+
+XXV. — Skeleton of Phoca (Histriophoca) fasciata. Side view. 
+VI 
+
+
+
+LIST OF COERECTIONS. 
+
+Page 56, line 25, Eumida should be Eumunida. 
+
+Page 56, line 8, from bottom, Eumida should be Eumunida. 
+
+Page 58, line 13 from below, unable should read enabled. 
+
+Pape 60, line 26, Tonkoj should read Tolstoj. 
+
+Page 69, line 12 from bottom, grallinaria should read gallinaria. 
+
+Page 71, line 15 should be omitted altogether. 
+
+Page 71, line 29, (Gurm.) should read (Gunn.). 
+
+Page 72, line 21, albus should read ridgwayi. 
+
+Page 73, line 3 from bottom, albus should read ridgwayi. 
+
+Page 77, line 7, to should be into. 
+
+Page 80, line 45 from bottom (third series of measurements), 245 should be 265. 
+
+Page 84, line 5, the natives should read they. 
+
+Page 118, line 25, Gryfalcon should read GyTfalcon. 
+
+Page 122, line 12, Kiltiwake should read Kiitiwahe. 
+
+Page 122, line 23, Leache's should read Leach's. 
+
+Page 129, head line, No. 2 should read No. 9. 
+
+Page 144, line 7 from bottom, duties should read dates. 
+
+Page 161, line 2 from bottom, Editor should read J. K. G. (The editor of the Proceedings did not see 
+
+the proofs of this article.) 
+Page 203, line 30, Curanx should read Oaranz. 
+Page 206, line 31, Chloroscomberus should read Ohlorosecmbrus. 
+Page 207, line 7 from bottom, Selen should read Selene. 
+Page 213, line 14 from bottom, cinera should read cinerea. 
+Page 222, line 8, aculata should read aculeata. 
+Page 222, line 26, brancluals should read branchialis. 
+Page 243, line 2 from bottom, modiolria should read modiolaria. 
+Page 362, line 13, Macururus should read Macrurus. 
+Page 393, line 6 from bottom, Hydrostomus should read Hadrostomns. 
+Page 407, line 19, Ramphastos should read Rhamphastos. 
+Page 420, the last two lines should be omitted. 
+Page 421, last line, Pinnideds should read Pinnipeds. 
+Page 423, measurements, Halichoeres should read Halichoerus. 
+Page 503, first column, line 26, Butaster should read Butastur. 
+
+Page 511, above line 7 from bottom, insert Haliseetus albicilla 68. 
+
+Page 523, line 8 from bottom, Hydrostomus should read Hadrostomus. 
+Page 523, Rupornis, ruficafida should read Rupornis ruficauda. 
+
+VII 
+
+
+
+PROCEEDINGS 
+
+OF THE 
+
+UNITED STATES NATIONAL MUSEUM. 
+
+18 8 3. 
+Vol. VI, No. 1. Washington, D. €. June 18, 1 883. 
+
+PRELIMINARY REPORT ©IV THE BRACHYURA AND ANOMURA 
+DREDGED IN DEEP WATER OFF THE SOUTH COAST OF NEW 
+ENGUAND BY THE UNITED STATES FISH COMMISSION IN 1S80, 
+1881, AND 1883. 
+
+By SIDNEY I. SMITH. 
+
+This report is intended to be supplementary to my preliminary notice 
+of the Crustacea dredged in the same region in 18S0 (these Proceedings, 
+iii, pp. 413-452), and to include all the species of Braehyura and Anomura 
+obtained off' Martha's Vineyard at depths greater than 50 fathoms. 
+The Crustacea dredged off* the mouth of Chesapeake Bay in 1880, and 
+off the capes of the Delaware in 1881, will be the subject of a separate 
+report, but the specimens from these dredgings are included in the fol- 
+lowing lists of specimens examined as far as the species to which they 
+belong are contained in the present report. 
+
+A few of the species described as new in the preliminary notice above 
+referred to were almost simultaneously described by A. Milne-Edwards 
+in one of the reports of the Blake dredgings, under the supervision of 
+Alexander Agassiz, in 1877, 1878, 1879 (Bull. Mus. Comp. Zool. Cam- 
+bridge, vol. viii, No. 1, December 29, 1880), of which I had no knowledge 
+whatever until after my paper was printed (January, 1881), and which was 
+not published until after my last proof had been returned to the Public 
+Printer (December 24, 1880). I have had much difficulty in identifying 
+Milne-Edwards's species, but have adopted his names wherever it was 
+possible to recognize his species. In determining some of these spe- 
+cies I have been greatly aided by the kindness of Prof. Walter Faxon, 
+who has sent me for examination some of the type specimens in the 
+Museum of Comparative Zoology.* 
+
+The last season's dredging off* Martha's Vineyard reveals the total, 
+or almost total, disappearance of several of the larger species of Crus- 
+tacea which were exceedingly abundant in the same region in 1880 and 
+1881. The most remarkable cases are those of Euprognatka rastellifcra, 
+Collocles robustus, Catapagurus Sharreri, Munida Caribccaf Smith, and 
+
+* While the manuscript of this report was in the hands of the printer, the follow- 
+ing work of Milne-Edwards was received : Recueil de figures de Crnstace's nouveaus 
+ou pen connns. lere livraison. April, 1863. A considerable number of Milne-Ed- 
+w.>. V new species are provisionally figured in this work, but it does not seem to 
+make ai,; r changes in the proofs of the following pages necessary, except under Anop- 
+lonoiw poliiux, which was doubtfully referred to Elasmonotus in the original manu- 
+script, but for which the new generic name has been inserted in the proof. — May 29, 
+1883. 
+
+
+
+2 PROCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 
+
+Pontophilus brevirostris, all of which were exceedingly abundant in 1880 
+and 1881 ; but of the first two not a specimen was taken the past season, 
+of the Mitnida only a single specimen, and that on the last trip, and of 
+the other species only a very few specimens. Lambrus YerrilUi, Acan- 
+thocarpus Alexandria LatreiUia elegans, Homola barbata, and Anoplonoius 
+politus, which were each taken several times in 1880 and 1881, were 
+none of them taken in 1882 j they were far less abundant than the other 
+species, however, and the non-occurrence of some of them was very 
+likely accidental; but the disappearance of part of them at least was 
+undoubtedly due to the same causes which occasioned the disappearance 
+of the more abundant species. The disappearance of these species was 
+undoubtedly connected directly with the similar disappearance of the 
+tile-fish (Lopholatilus) from the same region, and on this account 
+specially I give in detail, for many of the species enumerated beyond, 
+the tables of specimeus examined from the region explored by the Fish 
+Commission; and to these I have usually added tbe specimens which 
+I have examined from the collection made by Alexander Agassiz on the 
+Blake in 1880. All the species mentioned above as having disappeared 
+in 1882 were specially characteristic of the narrow belt of comparatively 
+warm water (approximately 50° F.), in from GO to 160 fathoms, which 
+has a more southern fauna than the colder waters either side. Professor 
+Verrill has suggested (Amer. Jour. Sci., Ill, xxiv, p. 306, 1882) that 
+there was a great destruction of life in this belt, caused by a severe 
+storm, in the winter of 1881-82, which agitated the bottom-water and 
+forced outward the cold water that even in summer occupies the great 
+area of shallow sea along the coast, thus causing a sudden lowering of 
+the temperature along the warmer belt inhabited by the tile-fish and 
+the Crustacea referred to. 
+
+In the following tables of specimens examined the latitude and longi- 
+tude, depth, nature of bottom, &c, are copied from the list of dredging 
+sfations of the Fish Commission for 1880, 1881, and 1882, in the Bulletin 
+of the Fish Commission, vol. ii, pp. 119 to 131, 1882, where further details 
+in regard to temperature, &c, are given. In indicating the nature of 
+the bottom, the Coast Survey system of abbreviations is used. In the 
+column for the number of specimens examined, I is used to indicate large 
+specimens ; s. small specimens ; and y, young. When the sexes were 
+not counted separately the whole number of specimens examined is 
+placed in the middle of the column ; when the sexes were counted sepa- 
+rately the number of males is put on the right, the number of females 
+on the left, and the number of young in the middle, followed by the letter 
+y. As a basis for ascertaining the breeding season, I have, in a great 
+number of cases, noted the presence or absence of egg bearing females ; 
+when the number of such females was counted it is entered in the ap- 
+propriate column ; when specimens carrying eggs were found, but not 
+counted, a plus sign, -f, is used; and when none of the specimens ex- 
+amined were carrying eggs a zero, 0, is used. 
+
+
+
+PROCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 6 
+
+BRACHYURA. 
+
+MAIOIDEA. 
+
+Amathia Agassizii Smith, Bull. Mus. Corap. Zool., Cambridge, s, p. 1, pi. 2, figs. 2, 
+3, 1882. 
+
+Specimens examined. 
+
+
+
+939 
+
+1032 
+
+
+
+1113 
+1154 
+
+
+
+Locality. 
+N. lat. W. 1od£ 
+
+
+
+OFF MARTHA'S VINEYARD. 
+
+
+
+39 53 00 69 50 30 
+39 56 00 69 22 00 
+
+
+
+39 57 00 70 37 00 
+39 55 31 70 39 00 
+
+
+
+264 
+
+'Jus 
+
+
+
+192 
+193 
+
+
+
+Nature of bottom. 
+
+
+
+gn. S. M. 
+yl. M. 
+
+
+
+gn. M. 
+
+S. M. 
+
+
+
+TJ 
+
+
+No. of speci- 
+
+
+-2 
+
+
+mens. 
+
+
+o 
+
+
+
+
+CJ 
+
+
+
+
+
+
+
+
+
+
+o 
+
+
+
+
+T. 
+
+
+u 
+
+
+
+
+ee 
+
+
+a 
+
+
+
+
+fee 
+
+
+.a 
+
+
+J 9 
+
+
+A 
+
+
+£ 
+
+
+
+
+t 
+
+
+1881. 
+
+
+
+
+
+
+. Aug. 4 
+
+
+l 
+
+
+
+
+Sept. 14 
+
+
+i *y- 
+
+
+
+
+1882. 
+
+
+
+
+
+
+Aug. 22 
+
+
+i 
+
+
+
+
+Oct. 4 
+
+
+3 
+
+
+
+
+
+In the original description above referred to it is stated that this 
+species resembles Amathia Carpenteri Xorman (Seyramathia Carpenteri 
+A. M.-Edwards) ', it is, however, probably not closely allied or even 
+congeneric with that species, but apparently closely allied to Amathia 
+crassa A. M.-Edwards, and possibly identical with it. I was misled in 
+regard to the armament of the carapax of JScyramathia Carpenteri by 
+the woodcut given in the Depths of the Sea (no description of the species 
+has yet appeared), for Milne-Edwards states that the species is closely 
+allied to Scyra umbonata Stimpson, certainly a very different species from 
+Amathia Agassizii, and has united them in his new genus Scyramathia. 
+
+As indicated above, all the specimens seen are males. One of these 
+is much larger than the larger of the two original specimens described 
+and figured in my report above referred to, but differs very little from it, al- 
+though the spines of the horizontal series on the branchial region, above 
+the bases of the cheliped and first ambulatory leg, are considerably 
+longer, and there are two well-developed spines, instead of two or three 
+small ones, on the lateral margin back of the anterior angle of the buc- 
+cal area. Measurements of this specimen are given in the last column 
+of the accompanying table of measurements. The other specimens show 
+all gradations between this and the young specimens originally de- 
+scribed. 
+
+
+
+PROCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 
+Measurements in millimeters. 
+
+
+
+Sex 
+
+Length of carapax. including rostral and posterior spines 
+
+I.i ogfth of oarapax from base of rostral to tip of posterior spines 
+
+Length of oarapax, excluding rostral and posterior spines 
+
+Length of rostral horns or [spines 
+
+Breadth of oarapax, including lateral spines 
+
+Breadth of carapax. excluding lateral spines 
+
+Length of branchial spine 
+
+Length of cheliped 
+
+Length of chela 
+
+Breadth nf chela 
+
+Length of dactylus 
+
+Length of first ambulatory leg 
+
+Length of dactylus 
+
+Length of second ambulatory log 
+
+Length of dactylus 
+
+
+
+Station- 
+
+
+
+1032. 
+
+
+
+Young. 
+
+15.5 
+
+10.0 
+9.1 
+5.7 
+
+11.5 
+6.8 
+3.1 
+
+11.0 
+4.6 
+
+2.0 
+
+18.0 
+3.5 
+
+15. 
+3.2 
+
+
+
+939. 
+
+
+
+d 
+
+21.5 
+
+14.0 
+
+12 1 
+8.0 
+
+16.0 
+9.0 
+4.8 
+
+15.0 
+6.4 
+1.3 
+2.5 
+
+25. 
+4.0 
+
+22.5 
+4.8 
+
+
+
+1113. 
+
+
+
+d 
+
+26. 3 
+18.0 
+16.5 
+
+9.0 
+19.5 
+12.3 
+
+5.2 
+21.5 
+10.0 
+
+1.6 
+
+3.8 
+37.0 
+
+6.7 
+31.5 
+
+6.0 
+
+
+
+d 
+
+53.5 
+
+4 'J. :» 
+
+40. 5 
+
+12.0 
+
+39.5 
+
+32.0 
+
+6.0 
+
+62. 
+
+28.5 
+
+4.0 
+
+5.4 
+
+
+
+95.0 
+17.5 
+
+
+
+Amathia Tanneri, sp. nov. 
+
+Allied to the last species, but readily distinguished from it by the 
+narrower carapax with longer and less diverging rostral horns and fewer 
+and more nearly equal spines, and by having a single spine only on the 
+base of the antenna. 
+
+Male. — The carapax, excluding the rostral horns and the spines, is 
+about as broad as long. The rostral horns are nearly straight, much 
+less divergent than in A. Agassizii, and, in the larger of the two speci- 
+mens seen, much more than half as long as the rest of the carapax. 
+The supraorbital spine and the postorbital process are as in A. Agassizii, 
+but the basal segment of the antenna is unarmed except by a single 
+spine at the distal end. There are four long and approximately equi- 
+distant spines on the mesial line of the carapax, the two anterior on the 
+gastric region and smaller than the others, which are on the cardiac 
+region, the posterior being near the posterior margin and projecting 
+slightly backward over it. There are no prominent spines on the gas- 
+tric region except the two median, but there is a minute tubercle or ru- 
+dimentary spine either side about equidistant from the two median, and 
+on the cardiac region there are no spines or tubercles whatever except 
+the two median. There is a single long hepatic and a great branchial 
+spine, as in A. Agassizii, but there are no other spines or tubercles on 
+the branchial region except two, about as long as the cardiac spines, and 
+about equidistant from each other and from the great branchial, the 
+posterior gastric, and the anterior cardiac. The anterior angle of the 
+buccal area projects in a dentiform process either side, as in A. Agassizii, 
+and back of this the prominent margin of the pleural region is armed 
+with three small tubercles or rudimentary spines. There are no spines 
+or tubercles on the side of the branchial region above the basis of the 
+cheliped and first ambulatory leg, and no tubercles whatever on the 
+posterolateral margins. 
+
+The chelipeds and ambulatory legs are essentially as in A. Agassizii. 
+
+
+
+PKOCEEDIXGS OF UNITED STATES NATIONAL MUSEUM. 5 
+
+The number and arrangement of the dorsal spines of the carapax 
+appear to be nearly as in A. hystrix Stinipson, as figured by A. Milne- 
+Edwards (Crust, Kegion Mexicaine, p. 134, pi, 28, fig. 1, 1878), except 
+tbat the lateral spines of the gastric region are obsolete in A. Tanneri; 
+but all the spines are very greatly longer in hystrix, which appears to be 
+a very distinct species. 
+
+Measurement* in millimeters. 
+
+
+
+Station — 
+
+
+
+1038. 
+
+
+
+1043. 
+
+
+
+Sex 
+
+Length of carapax, including rostral and posterior spines 
+
+Length of oarapax from base of rostral to tip of posterior spines 
+
+Length of carapax, excluding rostral and posterior spines 
+
+Length of rostral horns or spines 
+
+Breadth of carapax, including lateral spines , 
+
+Breadth of carapax, excluding lateral spines. 
+
+Length of branchial spine 
+
+Length ofcheliped 
+
+Length of chela , 
+
+Breadth of chela 
+
+Length of dactylus 
+
+Length of first ambulatory leg 
+
+Length of dactylus ". 
+
+Length of second ambulatory leg 
+
+Length of dactylus 
+
+
+
+15+ 
+
+11.0 
+
+10.2 
+4 + 
+
+10.0 
+6.7 
+1.9 
+
+12.0 
+5.5 
+1.1 
+2.0 
+
+21.0 
+3.7 
+
+16.0 
+3.0 
+
+
+
+d 
+
+28.0 
+
+18.0 
+
+16.2 
+
+11.0 
+
+18.0 
+
+11.2 
+
+4.0 
+
+20.0 
+
+9.0 
+
+1.8 
+
+3.5 
+
+35.0 
+
+6.2 
+
+27.0 
+
+5.0 
+
+
+
+Specimens examined. 
+
+
+
+
+
+
+
+m 
+
+
+
+
+
+
+
+
+
+
+Locality. 
+
+
+s 
+
+c 
+
+a 
+
+
+Nature of bottom. 
+
+
+"0 
+
+c 
+
+a 
+S 
+
+o 
+
+
+Xo. of speci- 
+mens. 
+
+
+
+
+.£ 
+5? 
+
+
+N.lat. W. long. 
+
+
+ft 
+
+e 
+
+R 
+
+
+
+
+a 
+e 
+ja 
+
+
+
+
+4 9 
+
+
+
+
+off Martha's ylveyard. 
+
+
+
+
+
+
+
+
+
+
+1038 
+
+
+O / O ' 
+
+39 58 70 00 
+OFF DELAWARE BAY. 
+
+
+146 
+
+
+S. Sh. 
+
+
+1881. 
+
+Sept. 21 
+
+
+iy. 
+
+
+1043 
+
+
+O / O ' 
+
+38 39 73 11 
+
+
+130 
+
+
+S. 
+
+
+1881. 
+Oct. 10 
+
+
+i 
+
+
+
+Hyas coarctatus Leach. 
+
+Taken at a number of stations off Martha's Vineyard, in 8G to 158 
+fathoms, and also in much shallower water near Block Island and off 
+No Man's Land. Four male specimens were taken off Chesapeake Bay 
+in 1880, station 900, N. hit, 37° 19', W. long. 74° 41', 31 fath., sand— 
+the farthest south the species has been noticed. 
+
+Collodes robustus, sp. nov. 
+
+Collodes depressus Smith, Proc. National Mus., iii, p. 414, 1681 (non A. M.- 
+Edwards. ) 
+A careful examination of one of the type specimens of C. depressus 
+convinces me that the specimens which I have referred to that species 
+
+
+
+6 PEOCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 
+
+are really a distinct but closely allied and much larger species. Very 
+small specimens, 10 m ™ or less in length of carapax, resemble the depresses 
+very much, but arc distinguished from Milne-Edwards'* figures and the 
+type specimen referred to by the less regularly triangular outline of the 
+carapax, the hepatic and branchial regions being much more protuber- 
+ant ; by the acute rostral horns, more widely separated at their tips ; by 
+the much longer interantennular spine, which is fully as long as in Eu- 
+prognatha rastellifera ; by the short and conical or even tuberculiform 
+gastric and cardiac spines ; by the spine of the first somite of the abdo- 
+men being directed backward instead of upward ; and by the more slender 
+choice. 
+
+Male. — In large males over 20 ram in length of carapax, the carapax 
+is a little over three-fourths as broad as long, and thickly covered, as 
+well as nearly all other parts of the animal except the chela?, with 
+strongly curved hairs or seta 1 , which, in every specimen seen, persist- 
+ant^ retain a thick coating of soft mud. The rostral horns are slender 
+and separated by a rounded sinus, at the bottom of which the inter- 
+antennular spine, or true rostrum, which is much longer than the rostral 
+horns and grooved longitudinally in front, projects downward and about 
+as far forward as the rostral horns. The basal segment of the antenna is 
+armed with a lateral and an inferior ridge, each divided into three to five 
+short spiniform teeth. The postorbital processes are broad, but acutely 
+triangular, and project as far as the tips of the eyes. The dorsal sur- 
+face is thickly covered with granular tubercles, and there is a slight 
+tubercular elevation, but little more prominent than the tubercles of 
+the general surface, on the gastric region, and another on the cardiac, 
+in place of the spines in the young. The hepatic regiou is divided 
+obliquely near the middle by a deep sulcus into two lobes, of which the 
+superior projects in a rounded prominence, which is very conspicuous 
+as seen from above, while the inferior is crossed longitudinally by the 
+pleurotergal suture and below it armed with a short series of small tuber- 
+culiform spines. The branchial regions are prominent, swollen, and 
+evenly tuberculated. 
+
+The chelipeds are stout and approximately once and a half as long 
+as the carapax; the merus is triquetral with the angles armed more or 
+less with tubercles or tuberculiform spines; the whole outer surface of 
+the carpus is similarly armed. The chela is approximately two-thirds 
+as long as the carapax, naked, smooth, polished, and unarmed, except a 
+very few tubercles on the inner surface and near the proximal ends of 
+the upper and under edges; the body is nearly as long as the digits, 
+thick and swollen; and the digits are compressed, somewhat grooved 
+longitudinally, very slightly curved, gaping at the bases, and with the 
+prehensile edges slightly and irregularly crenate. The ambulatory legs 
+arc hairy to very near the tips, but are otherwise unarmed and smooth 
+throughout, and all the segments are subcylmdrical ; the first are about 
+two and a half times as long as the carapax, the others successively 
+
+
+
+PKOCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 7 
+
+shorter, and the last considerably less than twice as long as the cara- 
+]>ax ; the dactyli are considerably curved, slender, and tapered near 
+the acute chitinous tips. 
+
+The sternum is tuberculose, like the dorsal surface of the carapax, 
+except upon the concave portion between the bases of the chelipeds, 
+where it is smooth. 
+
+The first somite of the abdomen is tuberculose, like the carapax, and 
+armed with a low tuberculiform prominence, in place of the spine in the 
+young - . The second somite is very short and scarcely wider than the 
+first. The third is widest of all, and from it the abdomen is regularly 
+narrowed to the seventh somite, which is anchylosed with the sixth, as 
+in Euprognatha rastcllifera, triangular, with the ti^> obtuse, and nearly 
+as broad as long. 
+
+Female. — The females appear not to attain the adult sexual char- 
+acters until the carapax is about 12 mm in length, apparently never 
+attain as great size as the males, and as usual resemble the young, 
+although they lose the gastric, cardiac, and abdominal spines fully as 
+early as the males. The carapax is slightly more convex and the bran- 
+chial regions somewhat less swollen than in the male. The chelipeds 
+remain small and weak, the chehe slender as in the young, and the am- 
+bulatory legs proportionally shorter than in the male. 
+
+The proportions of the carapax, chelipeds, and ambulatory legs in the 
+young and adults of both sexes are well shown by the accompanying 
+table of measurements. 
+
+Measurements in millimeters and hundredths of length of carapax. 
+
+
+
+Station — 
+
+
+
+874 
+
+
+
+949 
+
+
+940 
+
+
+d 
+
+
+d 
+
+
+12.5 
+
+
+14.8 
+
+
+9.1 
+
+
+10.8 
+
+
+73 
+
+
+73 
+
+
+16.0 
+
+
+18.0 
+
+
+6.2 
+
+
+7.8 
+
+
+50 
+
+
+53 
+
+
+2.1 
+
+
+2.7 
+
+
+17 
+
+
+18 
+
+
+3.6 
+
+
+4.4 
+
+
+28.0 
+
+
+34.0 
+
+
+6.5 
+
+
+8.5 
+
+
+5.4 
+
+
+7.H 
+
+
+22.0 
+
+
+27.0 
+
+
+5.0 
+
+
+6.9 
+
+
+5.0 
+
+
+6.3 
+
+
+
+940 
+
+
+940 
+
+
+d 
+
+
+d 
+
+
+25.7 
+
+
+27.0 
+
+
+20.7 
+
+
+21.2 
+
+
+77 
+
+
+78 
+
+
+38.0 
+
+
+40.0 
+
+
+17.6 
+
+
+18.5 
+
+
+60 
+
+
+68 
+
+
+7.5 
+
+
+8.0 
+
+
+29 
+
+
+30 
+
+
+9.1 
+
+
+10.2 
+
+
+65.0 
+
+
+68 
+
+
+15.5 
+
+
+17.0 
+
+
+13.4 
+
+
+14.5 
+
+
+•!0. 
+
+
+47.0 
+
+
+12.0 
+
+
+12.6 
+
+
+10.0 
+
+
+10.2 
+
+
+
+873 
+
+
+
+1036 950 
+
+
+
+940 
+
+
+
+Sex 
+
+Length of carapax, including frontal 
+teeth 
+
+Greatest breadth of carapax 
+
+Same in hundredths of length of cara- 
+pax 
+
+Length of cheliped 
+
+Length of chela , 
+
+Same in hundredths of length of cara- 
+pax 
+
+Height of chela 
+
+Same in hundredths of length of cara- 
+
+
+
+pax 
+
+Length of dactylus 
+
+Length of first ambulatory leg. . . 
+
+Length of propotlus 
+
+Length of dactylus 
+
+Length of fourth ambulatory leji 
+
+Length of propodus 
+
+Length of dactylus 
+
+
+
+d* 
+
+9.7 
+6.6 
+
+68 
+11.0 
+4.8 
+
+49 
+1.2 
+
+12 
+2.7 
+
+20.0 
+5.0 
+3.9 
+
+17.0 
+3.8 
+3.8 
+
+
+
+23. 3 
+17.9 
+
+77 
+
+34.0 
+
+14.8 
+
+04 
+6.6 
+
+28 
+
+8.0 
+58.0 
+14. 5 
+12.0 
+42.0 
+10.1 
+
+9.2 
+
+
+
+9* 
+
+8.2 
+
+5.8 
+
+
+
+9* 
+
+10.7 
+7.0 
+
+
+
+71 C8 
+9. 5 11. 
+3. 5 4. 5 
+
+
+
+41 
+0.9 
+
+11 
+2.1 
+
+15.0 
+3.1 
+2.7 
+
+
+
+42 
+1.1 
+
+10 
+2.0 
+
+19.0 
+4.1 
+3.9 
+
+15.5 
+2.9 
+2.8 
+
+
+
+13.3 
+10.3 
+
+70 
+14.0 
+5.5 
+
+4-2 
+
+1.4 
+
+11 
+3.2 
+
+24.0 
+6.0 
+5.2 
+
+20.0 
+4.8 
+4.7 
+
+
+
+18.3 
+14.1 
+
+77 
+
+19.0 
+7.9 
+
+
+
+2.1 
+
+12 
+
+4.7 
+32.0 
+7.5 
+7.0 
+25.0 
+6.7 
+0.2 
+
+
+
+• Immature individuals. 
+
+
+
+The number and arrangement of the branchire are the same as in 
+Euprognatha rastelllfera, but there are well-developed epipods on all 
+
+
+
+8 
+
+
+
+PROCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 
+
+
+
+three pairs of maxillipeds, those on the second being narrow, but as long 
+as the nierus of the endopod, so that the formula is: 
+
+
+
+
+
+Somite— 
+
+
+
+
+
+
+VTI. 
+
+
+vm. 
+
+
+IX. 
+
+
+X. 
+
+
+XL 
+
+
+XII. 
+
+
+xm. 
+
+
+xrv. 
+
+
+Total. 
+
+
+
+
+1 
+
+
+
+
+
+l 
+i 
+
+
+
+
+
+1 
+1 
+
+2 
+
+
+
+
+
+
+
+2 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+! 
+
+
+(3) 
+
+
+
+
+2 
+
+
+
+
+2 
+
+
+
+
+4 
+
+
+
+
+
+
+
+
+8+0) 
+
+
+
+Specimens examined. 
+
+
+
+
+
+
+
+3 
+
+
+
+
+d 
+
+
+No 
+
+
+of speci- 
+
+
+
+
+
+
+a 
+
+
+
+
+9P 
+
+
+
+
+nens. 
+
+
+
+
+6 
+
+
+Locality. 
+
+
+Nature of bottom. 
+
+
+o 
+
+D 
+
+o 
+
+
+
+
+
+
+
+
+
+
+
+
+fce 
+
+
+a 
+
+
+
+
+N. lat. W. long. 
+
+
+J3 
+
+
+
+
+a 
+
+
+ft 
+
+
+
+
+
+8 
+
+
+3 
+
+
+
+
+A 
+
+
+
+
+A 
+
+
+
+
+
+
+
+
+
+
+p 
+
+
+
+
+£ 
+
+
+
+
+
+
+£ 
+
+
+
+
+OFF MARTHA'S VINEYARD. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O I H o I II 
+
+
+
+
+
+
+1880. 
+
+
+
+
+
+
+
+
+865 
+
+
+40 05 00 70 23 00 
+
+
+65 
+
+
+fne. S. M. 
+
+
+Sept. 4 
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+871 
+
+
+40 02 54 70 23 40 
+
+
+115 
+
+
+fne. S. M. 
+
+
+Sept, 4 
+
+
+8 
+
+
+1 
+
+
+
+
+
+872 
+
+
+40 05 39 70 23 52 
+
+
+86 
+
+
+S. G. Sh. sponges. 
+
+
+Sept, 4 
+
+
+1 
+
+
+
+
+
+
+873 
+
+
+40 02 00 70 57 00 
+
+
+100 
+
+
+sft. M. 
+
+
+Sept. 13 
+
+
+3 
+
+
+■A 
+
+
+
+
+
+874 
+
+
+40 00 00 70 57 00 
+
+
+85 
+
+
+8ft. M. 
+
+
+Sept, 13 
+
+
+4 
+
+
+4 
+
+
+
+
+
+875 
+
+
+39 57 00 70 57 30 
+
+
+126 
+
+
+aft. M. 
+
+
+Sept, 13 
+
+
+
+
+1 
+
+
+
+
+
+878 
+
+
+39 55 00 70 54 15 
+
+
+142 
+
+
+sft. M. 
+
+
+Sept. 13 
+1881. 
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+921 
+
+
+40 07 48 70 43 54 
+
+
+67 
+
+
+gn. M. 
+
+
+July 16 
+
+
+4 
+
+
+1 
+
+
+
+
+
+922 
+
+
+40 03 48 70 45 54 
+
+
+71 
+
+
+gn. M. S. 
+
+
+July 16 
+
+
+2 
+
+
+
+
+
+
+940 
+
+
+39 54 00 69 51 30 
+
+
+134 
+
+
+hrd. >S. sponges. 
+
+
+Aug. 4 
+
+
+34 
+
+
+9 
+
+
+5 
+
+
+941 
+
+
+40 01 00 69 56 00 
+
+
+79 
+
+
+lird. 8. M. 
+
+
+Aug. 4 
+
+
+8 
+
+
+9 
+
+
+9 
+
+
+949 
+
+
+40 03 00 70 31 00 
+
+
+100 
+
+
+vl. M. 
+
+
+Aug. 23 
+
+
+5 
+
+
+5 
+
+
+5 
+
+
+950 
+
+
+40 07 00 70 32 00 
+
+
+71 
+
+
+S. Sh. M. 
+
+
+Aug. 23 
+
+
+3 
+
+
+2 
+
+
+2 
+
+
+1036 
+
+
+39 58 00 69 30 00 
+
+
+94 
+
+
+S. 
+
+
+Sept. 14 
+
+
+2 
+
+
+1 
+
+
+
+
+
+1038 
+
+
+39 58 00 70 06 00 
+
+
+146 
+
+
+S.Sh. 
+
+
+fept. 21 
+
+
+1 
+
+
+
+
+
+
+1040 
+
+
+40 00 00 70 06 00 
+
+
+93 
+
+
+S. Sh. 
+
+
+
+
+
+
+4 
+
+
+
+
+
+
+
+OFF DELAWARE BAY. 
+
+
+
+
+
+
+1881. 
+
+
+
+
+
+
+
+
+1043 
+
+
+38 39 00 73 11 00 
+
+
+130 
+
+
+S. 
+
+
+Oct. 10 
+
+
+5 
+
+
+
+
+
+
+1046 
+
+
+38 33 00 73 18 00 
+
+
+104 
+
+
+S. 
+
+
+Oct, 10 
+
+
+1 
+
+
+
+
+
+
+1047 
+
+
+38 31 00 73 21 00 
+OFF CHESAPEAKE BAY. 
+
+
+156 
+
+
+S. 
+
+
+Oct. 10 
+1880. 
+
+
+1 
+
+
+
+
+
+
+896 
+
+
+37 26 00 74 19 00 
+
+
+56 
+
+
+S.Sh. 
+
+
+Nov. 10 
+
+
+7 
+
+
+1 
+
+
+1 
+
+
+899 
+
+
+37 22 00 74 29 00 
+
+
+57 
+
+
+S. 
+
+
+Nov. 16 
+
+
+11 
+
+
+
+
+
+
+
+The type specimen of C. depressus which I have examined is from the 
+Straits of Florida, and is labeled " Bache, Apr. 2, 5th cast, 54 fins., off 
+Sombrero." This specimen gives the following measurements in milli- 
+meters and hundredths of the length of the carapax : 
+
+Sex <? 
+
+Leugth of carapax 7.0 
+
+Breadth of carapax 5.2 
+
+Same in hundredths of length 74 
+
+Length of cheliped ti. 
+
+
+
+PROCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 9 
+
+Length of chela 3.3 
+
+Same in hundredths of length of carapax 47 
+
+Height of chela 1.2 
+
+Same in hundredths of length of carapax 17 
+
+Length of dactylus 1.9 
+
+Neither Stimpson nor Milne-Edwards mentions the presence of an in- 
+terantennular spine in any of the species of Gollodes, and both of thein 
+speak of it in Euprognatha as specially distinguishing that genus from 
+its near allies ; but in the two species which I have examined the spine 
+is well developed, though less prominent, and not projecting forward 
+at all in C. depressus. 
+
+Euprognatha rastellifera Stimpson. 
+
+Stimpson, Bull. Mus. Comp. Zool. Cambridge, ii, p. 123, 1870. 
+
+A. M.-Edwards, Crust. E6gion Mexicaine, p. 183, pi. 33, tig. 2, 1878 ; Bull. 
+
+Mus. Comp. Zool. Cambridge, viii, p. 7, 1880. 
+Smith, Proc. Nat. Mus., iii, p. 415, ld81 ; Bull. Mus. Comp. Zool. Cambridge, 
+
+x, p. 4, 1882. 
+
+Sjiecimens examined. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to 
+
+s 
+
+
+
+
+ri 
+
+
+No. of speci- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o 
+
+
+
+
+£ 
+
+o 
+
+v 
+
+
+mens. 
+
+
+6 
+
+
+
+
+
+
+Locality. 
+
+
+
+
+3 
+
+a 
+
+
+Nature of bottom. 
+
+
+
+
+
+
+0D 
+
+be 
+
+
+a 
+
+
+N. 
+
+
+kit 
+
+
+
+
+w 
+
+
+. long. 
+
+
+
+
+
+
+a 
+o 
+
+
+<f ? 
+
+
+to 
+e 
+
+
+03 
+
+
+
+
+
+
+
+
+
+
+
+
+O 
+
+
+
+
+* 
+
+
+
+
+i 
+
+
+
+
+OFF 
+
+
+Martha's vineyard. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o 
+
+
+/ 
+
+
+n 
+
+
+o 
+
+
+/ // 
+
+
+
+
+
+
+1880. 
+
+
+
+
+
+
+865 
+
+
+40 
+
+
+05 
+
+
+00 
+
+
+70 
+
+
+23 00 
+
+
+05 
+
+
+fne. S. M. 
+
+
+Sept. 4 
+
+
+100+ 
+
+
++ 
+
+
+8C9 
+
+
+40 
+
+
+02 
+
+
+18 
+
+
+70 
+
+
+23 06 
+
+
+192 
+
+
+fne. S. 
+
+
+Sept, 4 
+
+
+6 
+
+
+
+
+871 
+
+
+40 
+
+
+02 
+
+
+54 
+
+
+70 
+
+
+23 40 
+
+
+115 
+
+
+fne. S. M. 
+
+
+Sept. 4 
+
+
+1, 000+ 
+
+
++ 
+
+
+872 
+
+
+40 
+
+
+05 
+
+
+39 
+
+
+70 
+
+
+23 52 
+
+
+86 
+
+
+S. G. Sh. sponges. 
+
+
+Sept. 4 
+
+
+50+ 
+
+
++ 
+
+
+873 
+
+
+40 
+
+
+02 
+
+
+00 
+
+
+70 
+
+
+57 00 
+
+
+100 
+
+
+Sft.M. 
+
+
+Sept. 13 
+
+
+500+ 
+
+
++ 
+
+
+874 
+
+
+40 
+
+
+00 
+
+
+00 
+
+
+70 
+
+
+57 00 
+
+
+85 
+
+
+Sft. M. 
+
+
+Sept. 13 
+
+
+1,000+ 
+
+
++ 
+
+
+877 
+
+
+39 
+
+
+56 
+
+
+00 
+
+
+70 
+
+
+54 18 
+
+
+126 
+
+
+Sf t, M. 
+
+
+Sept. 13 
+
+
+20+ 
+
+
++ 
+
+
+878 
+
+
+39 
+
+
+55 
+
+
+00 
+
+
+70 
+
+
+54 15 
+
+
+142 
+
+
+H. 
+
+
+Sept. 13 
+1881. 
+
+
+300+ 
+
+
++ 
+
+
+920 
+
+
+40 
+
+
+13 
+
+
+00 
+
+
+70 
+
+
+41 54 
+
+
+63 
+
+
+gn.JT. 
+
+
+July 16 
+
+
+7 
+
+
+
+
+921 
+
+
+• 40 
+
+
+117 
+
+
+48 
+
+
+70 
+
+
+43 54 
+
+
+67 
+
+
+gn. M. 
+
+
+July 16 
+
+
+1, 500 + 
+
+
++ 
+
+
+922 
+
+
+40 
+
+
+03 
+
+
+48 
+
+
+70 
+
+
+45 54 
+
+
+71 
+
+
+gn. M. S. 
+
+
+July 16 
+
+
+250+ 
+
+
++ 
+
+
+923 
+
+
+40 
+
+
+01 
+
+
+24 
+
+
+70 
+
+
+46 00 
+
+
+96 
+
+
+S. 
+
+
+July 16 
+
+
+37 
+
+
++ 
+
+
+925 
+
+
+39 
+
+
+55 
+
+
+00 
+
+
+70 
+
+
+47 00 
+
+
+229 
+
+
+S.M. 
+
+
+July 16 
+
+
+5 
+
+
+
+
+940 
+
+
+39 
+
+
+54 
+
+
+00 
+
+
+09 
+
+
+51 30 
+
+
+134 
+
+
+hrrt. S., sponges. 
+
+
+Aug. 4 
+
+
+
+
+941 
+
+
+40 
+
+
+01 
+
+
+00 
+
+
+69 
+
+
+56 00 
+
+
+79 
+
+
+hrd. S. M. 
+
+
+Aug. 4 
+
+
+2, 000+ + 
+
+
+949 
+
+
+40 
+
+
+03 
+
+
+00 
+
+
+70 
+
+
+31 00 
+
+
+100 
+
+
+VL M. 
+
+
+Aug. 23 
+
+
+500+ 
+
+
++ 
+
+
+950 
+
+
+40 
+
+
+(17 
+
+
+00 
+
+
+70 
+
+
+32 00 
+
+
+71 
+
+
+S.'Sh.M. 
+
+
+Aug. 23 
+
+
+150+ 
+
+
++ 1 
+
+
+1036 
+
+
+39 
+
+
+58 
+
+
+00 
+
+
+09 
+
+
+30 00 
+
+
+94 
+
+
+S. 
+
+
+Sept. 14 
+
+
+1 
+
+
+
+
+1038 
+
+
+39 
+
+
+58 
+
+
+00 
+
+
+70 
+
+
+06 00 
+
+
+146 
+
+
+s. sh. 
+
+
+Sept. 21 
+
+
+2 
+
+
+
+
+1040 
+
+
+40 
+
+
+00 
+
+
+00 
+
+
+70 
+
+
+06 00 
+
+
+93 
+
+
+S.Sh. 
+
+
+Sept. 21 
+
+
+20+ 
+
+
+'+" 
+
+
+
+
+OFF DELAWARE 
+
+
+BAY. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1881. 
+
+
+
+
+1043 
+
+
+38 
+
+
+39 
+
+
+00 
+
+
+73 
+
+
+11 00 
+
+
+130 
+
+
+S. 
+
+
+Oct. 10 
+
+
+10 .... 
+
+
+1047 
+
+
+38 
+
+
+31 
+
+
+00 
+
+
+73 
+
+
+21 00 
+
+
+156 
+
+
+S. 
+
+
+Oct. 10 
+
+
+7 
+
+
+.... 
+
+
+
+
+OFF CHESAPEAKE HAY. 
+
+
+
+
+
+
+1880. 
+
+
+
+
+
+
+896 
+
+
+37 
+
+
+26 
+
+
+00 
+
+
+74 
+
+
+19 00 
+
+
+56 
+
+
+S.Sh. 
+
+
+Not. 16 
+
+
+3 1 
+
+
++ 
+
+
+899 
+
+
+37 
+
+
+22 
+
+
+00 
+
+
+74 
+
+
+29 00 
+
+
+57 
+
+
+S. 
+
+■ 
+
+
+Nov. 16 
+
+
+6 4 
+
+
++ 
+
+
+
+10 PROCEEDINGS OF UNITED STATES NATIONAL MUSEUM. 
+
+I have also examined specimens taken by Alexander Agassiz on the 
+Blake in 3880, at the following stations : 
+
+
+
+Station. 
+
+
+N. lat. 
+
+
+W. long. 
+
+
+Fathoms. 
+
+
+Specimens. 
+
+
+335 
+345 
+346 
+
+
+O l il 
+
+38 22 25 
+40 10 35 
+40 25 35 
+
+
+O ' /' 
+
+73 33 40 
+71 4 30 
+7J 10 30 
+
+
+P9 
+71 
+44 
+
+
+Id 1 
+
+70c? 
+
+10 
+
+
+
+Among the vast number of specimens examined there are very few 
+sexually immature individuals. Both sexes ordinarily attain maturity be- 
+fore the carapax is G mi " in length, and the scarcity of immature speci- 
+mens in the collections may be due to their small size causing them 
+to be overlooked in the great mass of material brought up in the trawl. 
+The largest females seen do not exceed 10 mm in length of carapax, 
+and differ very little from the smallest in the form and proportions 
+of chelipeds and ambulatory legs, though the carapax is a little broader 
+in proportion and the spines with which it is armed are much lower, or 
+reduced to tubercles, in the larger specimens. The males attain much 
+greater size than the females, the carapax often exceeding 14 nun in 
+length, and there is a very marked and constant increase in the size 
+of the chelipeds, particularly in the height and the thickness of the 
+body of the chelae, well shown in the accompanying table of measure- 
+ments. In both sexes there is considerable variation in the length of 
+the spines of the carapax, even in specimens of the same size, and there 
+is a marked decrease in the length of the spines with the growth of the 
+individual. In large specimens the spines upon the orbital arches, upon 
+the gastric, cardiac, and the summits of the branchial regions, and 
+upon the basal segment of the abdomen, are usually reduced to low, 
+and often inconspicuous, tubercles. 
+
+The number and arrangement of the branchiae and epipods are indi- 
+cated in the following formula : 
+
+
+
+
+
+Somite — 
+
+
+Total. 
+
+
+
+
+VII. 
+
+
+1 
+VIIL 1 
+
+
+IX. 
+
+
+X. 
+
+
+XI. 
+
+
+XII. 
+
+
+XIII. 
+
+
+XIV. 
+
+
+Epipods 
+
+Podobranchiae 
+
+Artlirobrnnehifo 
+
+
+1 
+
+
+
+
+
+
+
+
+1 1 
+
+1 
+
+
+
+1 
+
+1 
+
+2 
+
+
+
+ti o o o 
+
+
+
+
+o 
+
+
+
+1 
+
+
+
+
+o 
+
+
+
+1 
+
+
+
+
+
+
+\ 
+
+
+
+
+
+
+o 
+
+
+(2) 
+2 
+2 
+4 
+
+
+
+
+
+
+
+
+8 + (2) 
+
+
+
+The sixth and seventh somites of the abdomen of the male are an- 
+chylosed completely, as they are also in Euprognatha rastelUfera, Col- 
